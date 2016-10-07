@@ -1,4 +1,3 @@
-test
 # Single-file public-domain/open source libraries with minimal dependencies
 
 I am the author of a large number of [single-file C/C++ public domain libraries](https://github.com/nothings/stb).
@@ -26,6 +25,12 @@ See discussion after the list.
 There are a lot of JSON parsers listed here. For some analysis and performance
 results, check out https://github.com/miloyip/nativejson-benchmark
 
+### Other lists
+
+Also you might be interested in other related, but different lists:
+
+- [clib](https://github.com/clibs/clib/wiki/Packages): list of (mostly) small single C functions (licenses not listed)
+
 ### Library listing
 
 **Public domain single-file libraries usable from C and C++ are in bold.** Other
@@ -44,31 +49,55 @@ category          | library                                                     
 ----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 AI                |  [micropather](http://www.grinninglizard.com/MicroPather/)            | zlib                 | C++ |  2  | pathfinding with A\*
 AI                |  [Genann](https://github.com/codeplea/genann)                         | zlib                 |C/C++|  2  | simple neural networks (ANN)
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 argv              |  [parg](https://github.com/jibsen/parg)                               | **public domain**    |  C  |  1  | command-line argument parsing
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 audio             |  [aw_ima.h](https://github.com/afterwise/aw-ima/blob/master/aw-ima.h) | MIT                  |C/C++|**1**| IMA-ADPCM audio decoder
 audio             |**[dr_flac](https://github.com/mackron/dr_libs)**                      | **public domain**    |C/C++|**1**| FLAC audio decoder
 audio             |**[dr_wav](https://github.com/mackron/dr_libs)**                       | **public domain**    |C/C++|**1**| WAV audio loader
 audio             |**[sts_mixer](https://github.com/kieselsteini/sts)**                   | **public domain**    |C/C++|**1**| simple stereo audio mixer
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 compression       |**[miniz.c](https://github.com/richgel999/miniz)**                     |**public&nbsp;domain**|C/C++|**1**| compression,decompression, zip file, png writing
 compression       |  [lz4](https://github.com/Cyan4973/lz4)                               | BSD                  |C/C++|  2  | fast but larger LZ compression
 compression       |  [fastlz](https://code.google.com/archive/p/fastlz/source/default/source) | MIT              |C/C++|  2  | fast but larger LZ compression
 compression       |  [pithy](https://github.com/johnezang/pithy)                          | BSD                  |C/C++|  2  | fast but larger LZ compression
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 crypto            |  [TweetNaCl](http://tweetnacl.cr.yp.to/software.html)                 | **public domain**    |  C  |  2  | high-quality tiny cryptography library
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 data&nbsp;structures|[klib](http://attractivechaos.github.io/klib/)                       | MIT                  |C/C++|  2  | many 2-file libs: hash, sort, b-tree, etc
 data structures   |  [uthash](https://github.com/troydhanson/uthash)                      | BSD                  |C/C++|  2  | several 1-header, 1-license-file libs: generic hash, list, etc
 data structures   |  [PackedArray](https://github.com/gpakosz/PackedArray)                | **WTFPLv2**          |  C  |  2  | memory-efficient array of elements with non-pow2 bitcount
 data structures   |  [minilibs](https://github.com/ccxvii/minilibs)                       | **public domain**    |  C  |  2  | two-file binary tress (also regex, etc)
 data structures   |**[DG_dynarr.h](https://github.com/DanielGibson/Snippets/)**           | **public domain**    |C/C++|**1**| typesafe dynamic arrays (like std::vector) for plain C
-files & filenames |**[DG_misc.h](https://github.com/DanielGibson/Snippets/)**             | **public domain**    |C/C++|**1**| Daniel Gibson's stb.h-esque cross-platform helpers: path/file, strings
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+files&nbsp;&&nbsp;filenames |**[DG_misc.h](https://github.com/DanielGibson/Snippets/)**             | **public domain**    |C/C++|**1**| Daniel Gibson's stb.h-esque cross-platform helpers: path/file, strings
 files & filenames |  [whereami](https://github.com/gpakosz/whereami)                      | **WTFPLv2**          |C/C++|  2  | get path/filename of executable or module
 files & filenames |  [dirent](https://github.com/tronkko/dirent)                          | MIT                  |C/C++|**1**| dirent for windows: retrieve file & dir info
 files & filenames |  [TinyDir](https://github.com/cxong/tinydir)                          | BSD                  |  C  |**1**| cross-platform directory reader
-geometry file     |  [tk_objfile](https://github.com/joeld42/tk_objfile)                  | MIT                  |C/C++|**1**| OBJ file loader
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+geometry&nbsp;file     |  [tk_objfile](https://github.com/joeld42/tk_objfile)                  | MIT                  |C/C++|**1**| OBJ file loader
 geometry file     |  [tinyply](https://github.com/ddiakopoulos/tinyply)                   | **public domain**    | C++ |  2  | PLY mesh file loader
 geometry file     |  [tinyobjloader](https://github.com/syoyo/tinyobjloader)              | MIT                  | C++ |**1**| wavefront OBJ file loader
 geometry file     |  [tinyobjloader-c](https://github.com/syoyo/tinyobjloader-c)          | MIT                  |  C  |**1**| wavefront OBJ file loader
 geometry file     |  [yocto_obj.h](https://github.com/xelatihy/yocto-gl)                  | MIT                  |C/C++|**1**| wavefront OBJ file loader
-geometry math     |**[nv_voronoi.h](http://www.icculus.org/~mordred/nvlib/)**             | **public domain**    |C/C++|**1**| find voronoi regions on lattice w/ integer inputs
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+geometry&nbsp;math     |**[nv_voronoi.h](http://www.icculus.org/~mordred/nvlib/)**             | **public domain**    |C/C++|**1**| find voronoi regions on lattice w/ integer inputs
 geometry math     |**[sobol.h](https://github.com/Marc-B-Reynolds/Stand-alone-junk/)**    | **public domain**    |C/C++|**1**| sobol & stratified sampling sequences
 geometry math     |  [sdf.h](https://github.com/memononen/SDF)                            | MIT                  |C/C++|**1**| compute signed-distance field from antialiased image
 geometry math     |  [nanoflann](https://github.com/jlblancoc/nanoflann)                  | BSD                  | C++ |**1**| build KD trees for point clouds
@@ -81,15 +110,24 @@ geometry math     |  [PolyPartition](https://github.com/ivanfratric/polypartitio
 geometry math     |  [Voxelizer](https://github.com/karimnaaji/voxelizer)                 | MIT                  |C/C++|**1**| convert triangle mesh to voxel triangle mesh
 geometry math     |  [yocto_bvh.h](https://github.com/xelatihy/yocto-gl)                  | MIT                  |C/C++|**1**| ray-casting and closest-element queries of bounding-volume hierarchy
 geometry math     |  [yocto_shape.h](https://github.com/xelatihy/yocto-gl)                | MIT                  |C/C++|**1**| shape generation, tesselation, normals, etc.
-graphics (3d)     |  [yocto_trace.h](https://github.com/xelatihy/yocto-gl)                | MIT                  |C/C++|**1**| physically-based unidirectional path tracer w/ MIS for direct lights
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+graphics&nbsp;(3d)     |  [yocto_trace.h](https://github.com/xelatihy/yocto-gl)                | MIT                  |C/C++|**1**| physically-based unidirectional path tracer w/ MIS for direct lights
 graphics (3d)     |  [yocto_symrigid.h](https://github.com/xelatihy/yocto-gl)             | MIT                  |C/C++|**1**| rigid body simulator (sequential impulse/PGS) with support for concave objects
-graphics (2d)     |  [blendish](https://bitbucket.org/duangle/oui-blendish/src)           | MIT                  |C/C++|**1**| blender-style widget rendering
+graphics&nbsp;(2d)     |  [blendish](https://bitbucket.org/duangle/oui-blendish/src)           | MIT                  |C/C++|**1**| blender-style widget rendering
 graphics (2d)     |  [tigr](https://bitbucket.org/rmitton/tigr/src)                       | **public domain**    |C/C++|  2  | quick-n-dirty window text/graphics for Windows and OSX
 graphics (2d)     |  [noc_turtle](https://github.com/guillaumechereau/noc)                | MIT                  |C/C++|  2  | procedural graphics generator
-graphics (3-D)    |  [mikktspace](http://tinyurl.com/z6xtucm)                             | zlib                 |C/C++|  2  | compute tangent space for normal mapping
+graphics&nbsp;(3-D)    |  [mikktspace](http://tinyurl.com/z6xtucm)                             | zlib                 |C/C++|  2  | compute tangent space for normal mapping
 graphics (3-D)    |  [debug-draw](https://github.com/glampert/debug-draw)                 | **public domain**    | C++ |**1**| API-agnostic immediate-mode debug rendering
 graphics (3-D)    |**[lightmapper](https://github.com/ands/lightmapper#lightmapper)**     | **public domain**    |C/C++|**1**| use your OpenGL renderer to offline bake lightmaps
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 hardware          |**[EasyTab](https://github.com/ApoorvaJ/EasyTab)**                     | **public domain**    |C/C++|**1**| multi-platform tablet input
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 images            |  [jo_gif.cpp](http://www.jonolick.com/home/gif-writer)                | **public domain**    | C++ |**1**| animated GIF writer (CPP file can also be used as H file)
 images            |**[gif.h](https://github.com/ginsweater/gif-h)**                       | **public domain**    |  C  |**1**| animated GIF writer (can only include once)
 images            |**[tiny_jpeg.h](https://github.com/serge-rgb/TinyJPEG/)**              | **public domain**    |C/C++|**1**| JPEG encoder
@@ -102,6 +140,9 @@ images            |  [picopng.cpp](http://lodev.org/lodepng/picopng.cpp)        
 images            |  [jpeg-compressor](https://github.com/richgel999/jpeg-compressor)     | **public domain**    | C++ |  2  | 2-file jpeg compress, 2-file jpeg decompress
 images            |  [easyexif](https://github.com/mayanklahiri/easyexif)                 | MIT                  | C++ |  2  | EXIF metadata extractor for JPEG images
 images            |**[cro_mipmap.h](https://github.com/thebeast33/cro_lib)**              | **public domain**    |C/C++|**1**| average, min, max mipmap generators
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 math              |  [mm_vec.h](https://github.com/vurtun/mmx)                            | BSD                  |C/C++|**1**| SIMD vector math
 math              |**[Handmade Math](https://github.com/StrangeZak/Handmade-Math)**       | **public domain**    |C/C++|**1**| vector math
 math              |**[gb_math](https://github.com/gingerBill/gb/blob/master/gb_math.h)**  | **public domain**    |C/C++|**1**| Vector, quaternion and matrix math w/o math.h
@@ -112,7 +153,13 @@ math              |  [linalg.h](https://github.com/sgorsten/linalg)             
 math              |  [PoissonGenerator.h](https://github.com/corporateshark/poisson-disk-generator) | MIT        | C++ |**1**| Poisson disk points generator (disk or rect)
 math              |  [prns.h](http://marc-b-reynolds.github.io/shf/2016/04/19/prns.html)  | **public domain**    |C/C++|**1**| seekable pseudo-random number sequences
 math              |  [aomeba](https://github.com/starwing/amoeba)                         | MIT                  |C/C++|**1**| constraint solver (Cassowary) w/Lua binding
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 multithreading    |  [mm_sched.h](https://github.com/vurtun/mmx)                          | zlib                 |C/C++|**1**| cross-platform multithreaded task scheduler
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 network           |**[zed_net](https://github.com/ZedZull/zed_net)**                      | **public domain**    |C/C++|**1**| cross-platform socket wrapper
 network           |**[sts_net](https://github.com/kieselsteini/sts)**                     | **public domain**    |C/C++|**1**| cross-platform socket wrapper (socket sets and packet API)
 network           |  [mm_web.h](https://github.com/vurtun/mmx)                            | BSD                  |C/C++|**1**| lightweight webserver, fork of webby
@@ -122,6 +169,9 @@ network           |  [happyhttp](https://github.com/Zintinio/HappyHTTP)         
 network           |  [mongoose](https://github.com/cesanta/mongoose)                      |_GPLv2_               |C/C++|  2  | http server
 network           |  [LUrlParser](https://github.com/corporateshark/LUrlParser)           | MIT                  | C++ |  2  | lightweight URL & URI parser RFC 1738, RFC 3986
 network           |  [znet](https://github.com/starwing/znet)                             | MIT                  |C/C++|**1**| cross-platform networking w/ lua binding
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 parsing           |  [SLRE](https://github.com/cesanta/slre)                              |_GPLv2_               |C/C++|**1**| regular expression matcher
 parsing           |  [PicoJSON](https://github.com/kazuho/picojson)                       | BSD                  | C++ |**1**| JSON parse/serializer
 parsing           |  [mm_lexer.h](https://github.com/vurtun/mmx)                          | zlib                 |C/C++|**1**| C-esque language lexer
@@ -129,16 +179,28 @@ parsing           |  [json.h](https://github.com/sheredom/json.h)               
 parsing           |  [jzon.h](https://github.com/Zguy/Jzon)                               | MIT                  | C++ |  2  | JSON parser
 parsing           |  [parson](https://github.com/kgabis/parson)                           | MIT                  |C/C++|  2  | JSON parser and serializer
 parsing           |  [minilibs](https://github.com/ccxvii/minilibs)                       | **public domain**    |  C  |  2  | two-file regex (also binary tree, etc)
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 profiling         |  [Remotery](https://github.com/Celtoys/Remotery)                      | Apache 2.0           |C/C++|  2  | CPU/GPU profiler Win/Mac/Linux, using web browser for viewer
 profiling         |  [MicroProfile](https://bitbucket.org/jonasmeyer/microprofile)        | **unlicense**        | C++ | 2-4 | CPU (and GPU?) profiler, 1-3 header files, uses miniz internally
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 scripting         |  [LIL](http://runtimeterror.com/tech/lil/)                            | zlib                 |C/C++|  2  | interpreter for a Tcl-like scripting language
 scripting         |  [lualite](https://github.com/janezz55/lualite/)                      | MIT                  | C++ |**1**| generate lua bindings in C++
 scripting         |  [Picol](https://chiselapp.com/user/dbohdan/repository/picol/)        | BSD                  |C/C++|**1**| interpreter for a Tcl-like scripting language
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 strings           |**[DG_misc.h](https://github.com/DanielGibson/Snippets/)**             | **public domain**    |C/C++|**1**| Daniel Gibson's stb.h-esque cross-platform helpers: path/file, strings         
 strings           |**[utf8](https://github.com/sheredom/utf8.h)**                         | **public domain**    |C/C++|**1**| utf8 string library
 strings           |**[strpool.h](https://github.com/mattiasgustavsson/libs)**             | **public domain**    |C/C++|**1**| string interning
 strings           |  [dfa](http://bjoern.hoehrmann.de/utf-8/decoder/dfa/)                 | MIT                  |C/C++|  2  | fast utf8 decoder (need a header file)
 strings           |**[gb_string.h](https://github.com/gingerBill/gb)**                    | **public domain**    |C/C++|**1**| dynamic strings
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 tests             |  [utest](https://github.com/evolutional/utest)                        | MIT                  |C/C++|**1**| unit testing
 tests             |  [catch](https://github.com/philsquared/Catch)                        | Boost                | C++ |**1**| unit testing
 tests             |  [doctest](https://github.com/onqtam/doctest)                         | MIT                  | C++ |**1**| unit testing
@@ -147,11 +209,20 @@ tests             |  [pempek_assert.cpp](https://github.com/gpakosz/Assert)     
 tests             |  [minctest](https://github.com/codeplea/minctest)                     | zlib                 |  C  |**1**| unit testing
 tests             |  [greatest](https://github.com/silentbicycle/greatest)                | iSC                  |  C  |**1**| unit testing
 tests             |  [µnit](https://github.com/nemequ/munit)                             | MIT                  |  C  |**1**| unit testing
-user interface    |  [dear imgui](https://github.com/ocornut/imgui)                       | MIT                  | C++ |  9  | an immediate-mode GUI formerly named "ImGui"; [3rd-party C wrapper](https://github.com/Extrawurst/cimgui)
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+user&nbsp;interface    |  [dear imgui](https://github.com/ocornut/imgui)                       | MIT                  | C++ |  9  | an immediate-mode GUI formerly named "ImGui"; [3rd-party C wrapper](https://github.com/Extrawurst/cimgui)
 user interface    |  [nuklear](https://github.com/vurtun/nuklear)                         | **public domain**    |C/C++|**1**| minimal GUI toolkit
 user interface    |  [noc_file_dialog.h](https://github.com/guillaumechereau/noc)         | MIT                  |C/C++|  1  | file open/save dialogs (Linux/OSX/Windows)
 user interface    |  [tinyfiledialogs](https://sourceforge.net/projects/tinyfiledialogs/) | ZLIB                 |C/C++|  2  | modal dialogs inc. file open/save (Linux/OSX/Windows)
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 video             |  [jo_mpeg](http://www.jonolick.com/home/mpeg-video-writer)            | **public domain**    | C++ |**1**| mpeg file writer
+
+category          | library                                                               | license              | API |files| description
+----------------- | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 _misc_            |  [MakeID.h](http://www.humus.name/3D/MakeID.h)                        | **public domain**    | C++ |**1**| allocate/deallocate small integer IDs efficiently
 _misc_            |  [loguru](https://github.com/emilk/loguru)                            | **public domain**    | C++ |**1**| flexible logging
 _misc_            |  [tinyformat](https://github.com/c42f/tinyformat)                     | Boost                | C++ |**1**| typesafe printf
@@ -163,10 +234,6 @@ There are also these XML libraries, but if you're using XML, shame on you:
 
 - parsing: [tinyxml2](https://github.com/leethomason/tinyxml2): XML                                                    
 - parsing: [pugixml](http://pugixml.org/): XML (MIT license)
-
-Also you might be interested in other related, but different lists:
-
-- [clib](https://github.com/clibs/clib/wiki/Packages): list of (mostly) small single C functions (licenses not listed)
 
 ## New libraries and corrections
 
