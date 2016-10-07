@@ -46,8 +46,8 @@ as C/C++, as this is not an obstacle to most users.)
 
 ### Categories:
 
-  - [2D graphics](#graphics-(2d))
-  - [3D graphics](#graphics-(3d))
+  - [2D graphics](#graphics-2d)
+  - [3D graphics](#graphics-3d)
   - [3D geometry file processing](#geometry-file)
   - [AI](#ai)
   - [argument processing](#argv)
