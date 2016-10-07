@@ -1,8 +1,8 @@
 AI
-| library                                                               | license              | API |files| description
-| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|  [micropather](http://www.grinninglizard.com/MicroPather/)            | zlib                 | C++ |  2  | pathfinding with A\*
-|  [Genann](https://github.com/codeplea/genann)                         | zlib                 |C/C++|  2  | simple neural networks (ANN)
+ library                                                               | license              | API |files| description
+ --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+  [micropather](http://www.grinninglizard.com/MicroPather/)            | zlib                 | C++ |  2  | pathfinding with A\*
+  [Genann](https://github.com/codeplea/genann)                         | zlib                 |C/C++|  2  | simple neural networks (ANN)
 
 argv
 | library                                                               | license              | API |files| description
