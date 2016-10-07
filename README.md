@@ -44,9 +44,31 @@ library may compile as both C or C++, but produce an implementation that can onl
 one or the other, because of a lack of use of `extern "C"`; in this case the table still qualifies it
 as C/C++, as this is not an obstacle to most users.)
 
+Categories:
+  - [2D graphics](#graphics (2d))
+  - [3D graphics](#graphics (3d))
+  - [3D geometry file processing](#geometry file)
   - [AI](#ai)
   - [argument processing](#argv)
   - [audio](#audio)
+  - [compression](#compression)
+  - [cryptography](#crypto)
+  - [data structures]](#data structures)
+  - [files and filenames](#files & filenames)
+  - [hardware interfacing](#hardware)
+  - [image loading & processing](#images)
+  - [mathematics for geometry](#geometry math)
+  - [mathematics](#math)
+  - [miscellaneous](#miscellaneous)
+  - [multithreading](#multithreading)
+  - [networking](#network)
+  - [parsing](#parsing)
+  - [profiling](#profiling)
+  - [scripting](#scripting)
+  - [string processing](#strings)
+  - [tests](#tests)
+  - [user interface](#user interface)
+  - [video](#video)
 
 
 # AI
