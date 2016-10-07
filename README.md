@@ -1,3 +1,50 @@
+# Single-file public-domain/open source libraries with minimal dependencies
+
+I am the author of a large number of [single-file C/C++ public domain libraries](https://github.com/nothings/stb).
+I am not the only person who writes libraries like this, so below are other, similar libraries.
+
+Generally, the following is a list of small, easy-to-integrate, portable libraries
+which are usable from C and/or C++, and should be able to be compiled on both
+32-bit and 64-bit platforms.
+
+### Rules
+
+- Libraries must be usable from C or C++, ideally both
+- Libraries should be usable from more than one platform (ideally, all major desktops and/or all major mobile)
+- Libraries should compile and work on both 32-bit and 64-bit platforms
+- Libraries should use at most two files
+
+Exceptions will be allowed for good reasons.
+
+### New libraries and corrections
+
+See discussion after the list.
+
+### JSON Parsing
+
+There are a lot of JSON parsers listed here. For some analysis and performance
+results, check out https://github.com/miloyip/nativejson-benchmark
+
+### Other lists
+
+Also you might be interested in other related, but different lists:
+
+- [clib](https://github.com/clibs/clib/wiki/Packages): list of (mostly) small single C functions (licenses not listed)
+
+### Library listing
+
+**Public domain single-file libraries usable from C and C++ are in bold.** Other
+libraries are either non-public domain, or two files, or not usable from both C and C++, or
+all three. Libraries of more than two files are mostly forbidden.
+
+For the API column, "C" means C only, "C++" means C++ only, and "C/C++" means C/C++ usable
+from either; some files may require *building* as C or C++ but still qualify as "C/C++" as
+long as the header file uses `extern "C"` to make it work. (In some cases, a header-file-only
+library may compile as both C or C++, but produce an implementation that can only be called from
+one or the other, because of a lack of use of `extern "C"`; in this case the table still qualifies it
+as C/C++, as this is not an obstacle to most users.)
+
+
 # AI
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
