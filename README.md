@@ -1,8 +1,9 @@
-# Other single-file public-domain/open source libraries with minimal dependencies
+# Single-file public-domain/open source libraries with minimal dependencies
 
-In addition to all of [my libraries](https://github.com/nothings/stb), there are other, similar libraries.
+I am the author of a large number of [single-file C/C++ public domain libraries](https://github.com/nothings/stb).
+I am not the only person who writes libraries like this, so below are other, similar libraries.
 
-The following is a list of small, easy-to-integrate, portable libraries
+Generally, the following is a list of small, easy-to-integrate, portable libraries
 which are usable from C and/or C++, and should be able to be compiled on both
 32-bit and 64-bit platforms.
 
@@ -186,7 +187,7 @@ removed from this list, unless it's a bug in the library.
 
 ### Can I link directly to this list?
 
-Yes, you can just use this page. If you want a shorter, more readable link, you can use [this URL](https://github.com/nothings/stb#other_libs) to link to the FAQ question that links to this page.
+Yes. [This is the preferred link.](https://github.com/nothings/single_file_lib)
 
 ### Why isn't library XXX which is made of 3 or more files on this list?
 
