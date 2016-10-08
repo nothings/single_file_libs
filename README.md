@@ -310,7 +310,7 @@ removed from this list, unless it's a bug in the library.
 
 ### Can I link directly to this list?
 
-Yes. [This is the preferred link.](https://github.com/nothings/single_file_lib)
+Yes. [This is the preferred link.](https://github.com/nothings/single_file_libs)
 
 ### Why isn't library XXX which is made of 3 or more files on this list?
 
