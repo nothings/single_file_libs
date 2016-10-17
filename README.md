@@ -173,7 +173,7 @@ as C/C++, as this is not an obstacle to most users.)
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |  [jo_gif.cpp](http://www.jonolick.com/home/gif-writer)                | **public domain**    | C++ |**1**| animated GIF writer (CPP file can also be used as H file)
-|**[gif.h](https://github.com/ginsweater/gif-h)**                       | **public domain**    |  C  |**1**| animated GIF writer (can only include once)
+|**[gif.h](https://github.com/ginsweater/gif-h)**                       | **public domain**    | C++ |**1**| animated GIF writer (can only include once)
 |**[tiny_jpeg.h](https://github.com/serge-rgb/TinyJPEG/)**              | **public domain**    |C/C++|**1**| JPEG encoder
 |**[gif_load](https://github.com/hidefromkgb/gif_load)**              | **public domain**    |C/C++|**1**| (animated) GIF reader
 |  [miniexr](https://github.com/aras-p/miniexr)                         | **public domain**    | C++ |  2  | OpenEXR writer, needs header file
