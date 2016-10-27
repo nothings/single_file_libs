@@ -260,7 +260,8 @@ as C/C++, as this is not an obstacle to most users.)
 |  [pempek_assert.cpp](https://github.com/gpakosz/Assert)               | **WTFPLv2**          | C++ |  2  | flexible assertions
 |  [minctest](https://github.com/codeplea/minctest)                     | zlib                 |  C  |**1**| unit testing
 |  [greatest](https://github.com/silentbicycle/greatest)                | iSC                  |  C  |**1**| unit testing
-|  [µnit](https://github.com/nemequ/munit)                             | MIT                  |  C  |**1**| unit testing
+|  [µnit](https://github.com/nemequ/munit)                              | MIT                  |  C  |**1**| unit testing
+|**[labrat](https://github.com/squarewave/labrat)**                     | **public domain**    |C/C++|**1**| unit testing
 
 #user interface
 | library                                                               | license              | API |files| description
