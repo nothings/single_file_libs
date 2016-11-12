@@ -148,6 +148,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [Voxelizer](https://github.com/karimnaaji/voxelizer)                 | MIT                  |C/C++|**1**| convert triangle mesh to voxel triangle mesh
 |  [yocto_bvh.h](https://github.com/xelatihy/yocto-gl)                  | MIT                  |C/C++|**1**| ray-casting and closest-element queries of bounding-volume hierarchy
 |  [yocto_shape.h](https://github.com/xelatihy/yocto-gl)                | MIT                  |C/C++|**1**| shape generation, tesselation, normals, etc.
+|**[rjm](https://github.com/rmitton/rjm)**                              | **public domain**    |C/C++|**1**| marching cubes triangulator
 
 #graphics (2d)
 | library                                                               | license              | API |files| description
@@ -176,7 +177,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [jo_gif.cpp](http://www.jonolick.com/home/gif-writer)                | **public domain**    | C++ |**1**| animated GIF writer (CPP file can also be used as H file)
 |  [gif.h](https://github.com/ginsweater/gif-h)                         | **public domain**    | C++ |**1**| animated GIF writer (can only include once)
 |**[tiny_jpeg.h](https://github.com/serge-rgb/TinyJPEG/)**              | **public domain**    |C/C++|**1**| JPEG encoder
-|**[gif_load](https://github.com/hidefromkgb/gif_load)**              | **public domain**    |C/C++|**1**| (animated) GIF reader
+|**[gif_load](https://github.com/hidefromkgb/gif_load)**                | **public domain**    |C/C++|**1**| (animated) GIF reader
 |  [miniexr](https://github.com/aras-p/miniexr)                         | **public domain**    | C++ |  2  | OpenEXR writer, needs header file
 |  [tinyexr](https://github.com/syoyo/tinyexr)                          | BSD                  |C/C++|**1**| EXR image read/write, uses miniz internally  
 |  [lodepng](http://lodev.org/lodepng/)                                 | zlib                 |C/C++|  2  | PNG encoder/decoder
