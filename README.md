@@ -57,7 +57,7 @@ as C/C++, as this is not an obstacle to most users.)
   - [data structures](#data-structures)
   - [files and filenames](#files--filenames)
   - [hardware interfacing](#hardware)
-  - [image loading & processing](#images)
+  - [image loading, saving, & processing](#images)
   - [mathematics for geometry](#geometry-math)
   - [mathematics](#math)
   - [miscellaneous](#miscellaneous)
@@ -186,6 +186,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [jpeg-compressor](https://github.com/richgel999/jpeg-compressor)     | **public domain**    | C++ |  2  | 2-file jpeg compress, 2-file jpeg decompress
 |  [easyexif](https://github.com/mayanklahiri/easyexif)                 | MIT                  | C++ |  2  | EXIF metadata extractor for JPEG images
 |**[cro_mipmap.h](https://github.com/thebeast33/cro_lib)**              | **public domain**    |C/C++|**1**| average, min, max mipmap generators
+|  [PDFgen](https://github.com/AndreRenaud/PDFGen)                      | **public domain**    |  C  |  2  | PDF writer |
 
 #math
 | library                                                               | license              | API |files| description
