@@ -243,6 +243,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [LIL](http://runtimeterror.com/tech/lil/)                            | zlib                 |C/C++|  2  | interpreter for a Tcl-like scripting language
 |  [lualite](https://github.com/user1095108/lualite)                    | MIT                  | C++ |**1**| generate lua bindings in C++
 |  [Picol](https://chiselapp.com/user/dbohdan/repository/picol/)        | BSD                  |C/C++|**1**| interpreter for a Tcl-like scripting language
+|  [s7](https://ccrma.stanford.edu/software/snd/snd/s7.html)            | BSD                  |C/C++|  2  | interpreter for a subset of Scheme (R5RS/R7RS)
 
 #strings
 | library                                                               | license              | API |files| description
