@@ -81,7 +81,8 @@ as C/C++, as this is not an obstacle to most users.)
 # argv
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|  [parg](https://github.com/jibsen/parg)                               | **public domain**    |  C  |  1  | command-line argument parsing
+|  [parg](https://github.com/jibsen/parg)                               | **public domain**    |  C  |  **1**  | command-line argument parsing
+|  [flags](https://github.com/sailormoon/flags)                               | **public domain**    |  C++  |  **1**  | command-line argument parsing
 
 # audio
 | library                                                               | license              | API |files| description
