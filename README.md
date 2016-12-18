@@ -206,7 +206,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [PoissonGenerator.h](https://github.com/corporateshark/poisson-disk-generator) | MIT        | C++ |**1**| Poisson disk points generator (disk or rect)
 |  [prns.h](http://marc-b-reynolds.github.io/shf/2016/04/19/prns.html)  | **public domain**    |C/C++|**1**| seekable pseudo-random number sequences
 |  [aomeba](https://github.com/starwing/amoeba)                         | MIT                  |C/C++|**1**| constraint solver (Cassowary) w/Lua binding
-|  [SimRank](https://github.com/roukaour/simrank)                       | MIT                  | C++ |**1**| SimRank graph similarity algorithm
+|  [simrank.hpp](https://github.com/roukaour/simrank)                   | MIT                  | C++ |**1**| SimRank graph similarity algorithm
 
 #multithreading
 | library                                                               | license              | API |files| description
