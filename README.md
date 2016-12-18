@@ -139,6 +139,7 @@ as C/C++, as this is not an obstacle to most users.)
 #geometry math
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+|**[algebra3.h](http://www.animats.com/source/graphics/algebra3.h)**    | **public domain**    | C++ |**1**| vector utilities for 2, 3, and 4 element vectors, all inline
 |**[nv_voronoi.h](http://www.icculus.org/~mordred/nvlib/)**             | **public domain**    |C/C++|**1**| find voronoi regions on lattice w/ integer inputs
 |**[df](https://github.com/983/df)**                                    | **public domain**    |C/C++|**1**| find voronoi region in linear time of size of lattice 
 |**[sobol.h](https://github.com/Marc-B-Reynolds/Stand-alone-junk/)**    | **public domain**    |C/C++|**1**| sobol & stratified sampling sequences
