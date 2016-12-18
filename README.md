@@ -7,6 +7,18 @@ Generally, the following is a list of small, easy-to-integrate, portable librari
 which are usable from C and/or C++, and should be able to be compiled on both
 32-bit and 64-bit platforms.
 
+### Recent Additions
+
+| library                                                               | license              | API |files| description
+| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+|  [optionparser](http://optionparser.sourceforge.net/)                 | MIT                  | C++ |**1**| command-line argument parsing
+|  [simrank.hpp](https://github.com/roukaour/simrank)                   | MIT                  | C++ |  2  | SimRank graph similarity algorithm
+|  [json.hpp](https://github.com/nlohmann/json)                         | MIT                  | C++ |**1**| JSON parse, serialize, deserialize
+|  [algebra3.h](http://www.animats.com/source/graphics/algebra3.h)      | **public domain**    | C++ |**1**| vector utilities for 2, 3, and 4 element vectors, all inline
+|  [libue](https://github.com/houqp/libue)                              | MIT                  |C/C++|  1  | Helper library for Linux device hot-plug event
+|  [linalg](https://github.com/ilyak/linalg)                            | ISC                  |C/C++|**1**| vector/matrix/quaternion math
+
+
 ### Rules
 
 - Libraries must be usable from C or C++, ideally both
@@ -59,6 +71,7 @@ as C/C++, as this is not an obstacle to most users.)
   - [hardware interfacing](#hardware)
   - [image loading, saving, & processing](#images)
   - [mathematics for geometry](#geometry-math)
+  - [mathematics on vectors](#vectors)
   - [mathematics](#math)
   - [miscellaneous](#miscellaneous)
   - [multithreading](#multithreading)
@@ -140,7 +153,6 @@ as C/C++, as this is not an obstacle to most users.)
 #geometry math
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|**[algebra3.h](http://www.animats.com/source/graphics/algebra3.h)**    | **public domain**    | C++ |**1**| vector utilities for 2, 3, and 4 element vectors, all inline
 |**[nv_voronoi.h](http://www.icculus.org/~mordred/nvlib/)**             | **public domain**    |C/C++|**1**| find voronoi regions on lattice w/ integer inputs
 |**[df](https://github.com/983/df)**                                    | **public domain**    |C/C++|**1**| find voronoi region in linear time of size of lattice 
 |**[sobol.h](https://github.com/Marc-B-Reynolds/Stand-alone-junk/)**    | **public domain**    |C/C++|**1**| sobol & stratified sampling sequences
@@ -199,14 +211,8 @@ as C/C++, as this is not an obstacle to most users.)
 #math
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|  [linalg](https://github.com/ilyak/linalg)                            | ISC                  |C/C++|**1**| vector/matrix/quaternion math
-|  [mm_vec.h](https://github.com/vurtun/mmx)                            | BSD                  |C/C++|**1**| SIMD vector math
-|**[Handmade Math](https://github.com/StrangeZak/Handmade-Math)**       | **public domain**    |C/C++|**1**| vector math
-|**[gb_math](https://github.com/gingerBill/gb/blob/master/gb_math.h)**  | **public domain**    |C/C++|**1**| Vector, quaternion and matrix math w/o math.h
-|**[ccVector.h](https://github.com/jobtalle/ccVector)**                 | **public domain**    |C/C++|**1**| Vector, quaternion and matrix math
 |  [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs)     | MIT                  | C++ |**1**| (also HLSL) approximate transcendental functions optimized for shaders (esp. GCN)
 |  [TinyExpr](https://github.com/codeplea/tinyexpr)                     | zlib                 |  C  |  2  | evaluation of math expressions from strings
-|  [linalg.h](https://github.com/sgorsten/linalg)                      | **unlicense**         | C++ |**1**| vector/matrix/quaternion math
 |  [PoissonGenerator.h](https://github.com/corporateshark/poisson-disk-generator) | MIT        | C++ |**1**| Poisson disk points generator (disk or rect)
 |  [prns.h](http://marc-b-reynolds.github.io/shf/2016/04/19/prns.html)  | **public domain**    |C/C++|**1**| seekable pseudo-random number sequences
 |  [aomeba](https://github.com/starwing/amoeba)                         | MIT                  |C/C++|**1**| constraint solver (Cassowary) w/Lua binding
@@ -233,21 +239,21 @@ as C/C++, as this is not an obstacle to most users.)
 #parsing
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|  [SLRE](https://github.com/cesanta/slre)                              |_GPLv2_               |C/C++|**1**| regular expression matcher
 |  [PicoJSON](https://github.com/kazuho/picojson)                       | BSD                  | C++ |**1**| JSON parse/serializer
-|  [mm_lexer.h](https://github.com/vurtun/mmx)                          | zlib                 |C/C++|**1**| C-esque language lexer
 |  [json.h](https://github.com/sheredom/json.h)                         | **public domain**    |C/C++|  2  | JSON parser
 |  [jzon.h](https://github.com/Zguy/Jzon)                               | MIT                  | C++ |  2  | JSON parser
 |  [parson](https://github.com/kgabis/parson)                           | MIT                  |C/C++|  2  | JSON parser and serializer
+|  [json.hpp](https://github.com/nlohmann/json)                         | MIT                  | C++ |**1**| JSON parse, serialize, deserialize
+|  [SLRE](https://github.com/cesanta/slre)                              |_GPLv2_               |C/C++|**1**| regular expression matcher
+|  [mm_lexer.h](https://github.com/vurtun/mmx)                          | zlib                 |C/C++|**1**| C-esque language lexer
 |  [minilibs](https://github.com/ccxvii/minilibs)                       | **public domain**    |  C  |  2  | two-file regex (also binary tree, etc)
 |  [tinymemfile](https://github.com/RandyGaul/tinyheaders)              | zlib                 | C++ |**1**| fscanf on in-memory files
-|  [json.hpp](https://github.com/nlohmann/json)							| MIT				   | C++ |**1**| Complete and easy to use JSON library
 
 #profiling
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |  [Remotery](https://github.com/Celtoys/Remotery)                      | Apache 2.0           |C/C++|  2  | CPU/GPU profiler Win/Mac/Linux, using web browser for viewer
-|  [MicroProfile](https://github.com/jonasmr/microprofile)              | **unlicense**        | C++ | 2-4 | CPU (and GPU?) profiler, 1-3 header files, uses miniz internally
+|  [MicroProfile](https://github.com/jonasmr/microprofile)              | **public domain**    | C++ | 2-4 | CPU (and GPU?) profiler, 1-3 header files, uses miniz internally
 
 #scripting
 | library                                                               | license              | API |files| description
@@ -287,6 +293,17 @@ as C/C++, as this is not an obstacle to most users.)
 |  [nuklear](https://github.com/vurtun/nuklear)                         | **public domain**    |C/C++|**1**| minimal GUI toolkit
 |  [noc_file_dialog.h](https://github.com/guillaumechereau/noc)         | MIT                  |C/C++|  1  | file open/save dialogs (Linux/OSX/Windows)
 |  [tinyfiledialogs](https://sourceforge.net/projects/tinyfiledialogs/) | ZLIB                 |C/C++|  2  | modal dialogs inc. file open/save (Linux/OSX/Windows)
+
+#vectors
+| library                                                               | license              | API |files| description
+| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+|  [mm_vec.h](https://github.com/vurtun/mmx)                            | BSD                  |C/C++|**1**| SIMD vector math
+|**[Handmade Math](https://github.com/StrangeZak/Handmade-Math)**       | **public domain**    |C/C++|**1**| vector math
+|**[gb_math](https://github.com/gingerBill/gb/blob/master/gb_math.h)**  | **public domain**    |C/C++|**1**| Vector, quaternion and matrix math w/o math.h
+|**[ccVector.h](https://github.com/jobtalle/ccVector)**                 | **public domain**    |C/C++|**1**| Vector, quaternion and matrix math
+|  [linalg.h](https://github.com/sgorsten/linalg)                       | **public domain**    | C++ |**1**| vector/matrix/quaternion math
+|  [linalg](https://github.com/ilyak/linalg)                            | ISC                  |C/C++|**1**| vector/matrix/quaternion math
+|  [algebra3.h](http://www.animats.com/source/graphics/algebra3.h)      | **public domain**    | C++ |**1**| vector utilities for 2, 3, and 4 element vectors, all inline
 
 #video
 | library                                                               | license              | API |files| description
