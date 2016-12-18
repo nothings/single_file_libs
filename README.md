@@ -6,7 +6,7 @@ I am not the only person who writes libraries like this, so below are other, sim
 Generally, the following is a list of small, easy-to-integrate, portable libraries
 which are usable from C and/or C++, and should be able to be compiled on both
 32-bit and 64-bit platforms. However, I have not personally verified that any
-+specific lilbrary is as advertised, or is quality software.
+specific lilbrary is as advertised, or is quality software.
 
 ### Recent Additions
 
