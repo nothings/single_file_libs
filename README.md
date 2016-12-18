@@ -156,6 +156,7 @@ as C/C++, as this is not an obstacle to most users.)
 |**[DG_dynarr.h](https://github.com/DanielGibson/Snippets/)**           | **public domain**    |C/C++|**1**| typesafe dynamic arrays (like std::vector) for plain C
 |  [chobo-shl](https://github.com/Chobolabs/chobo-shl)                  | MIT                  | C++ |**1**| several C++11 standard contaner like libraries and helpers 
 |  [libpqueue](https://github.com/vy/libpqueue)                         | BSD                  |C/C++|  2  | priority queue (heap)
+|  [simclist](mij.oltrelinux.com/devel/simclist)                        | BSD                  |C/C++|  2  | linked list
 
 # debugging
 | library                                                               | license              | API |files| description
