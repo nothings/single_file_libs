@@ -8,6 +8,15 @@ which are usable from C and/or C++, and should be able to be compiled on both
 32-bit and 64-bit platforms. However, I have not personally verified that any
 specific lilbrary is as advertised, or is quality software.
 
+### Rules
+
+- Libraries must be usable from C or C++, ideally both
+- Libraries should be usable from more than one platform (ideally, all major desktops and/or all major mobile)
+- Libraries should compile and work on both 32-bit and 64-bit platforms
+- Libraries should use at most two files
+
+Exceptions will be allowed for good reasons.
+
 ### Recent Additions
 
 | category | library                                                               | license              | API |files| description
@@ -33,15 +42,6 @@ specific lilbrary is as advertised, or is quality software.
 | misc     |  [visit_struct](https://github.com/cbeck88/visit_struct)              | Boost                | C++ |  2  | struct-field reflection
 | testing  |  [hippomocks](https://github.com/dascandy/hippomocks)                 | LGPL                 | C++ |**1**| unit testing
 | testing  |  [fctx](https://github.com/imb/fctx)                                  | BSD                  |C/C++|**1**| unit testing
-
-### Rules
-
-- Libraries must be usable from C or C++, ideally both
-- Libraries should be usable from more than one platform (ideally, all major desktops and/or all major mobile)
-- Libraries should compile and work on both 32-bit and 64-bit platforms
-- Libraries should use at most two files
-
-Exceptions will be allowed for good reasons.
 
 ### New libraries and corrections
 
@@ -73,33 +73,40 @@ as C/C++, as this is not an obstacle to most users.)
 
 ### Categories:
 
-  - [2D graphics](#graphics-2d)
-  - [3D graphics](#graphics-3d)
-  - [3D geometry file processing](#geometry-file)
-  - [AI](#ai)
-  - [argument processing](#argv)
-  - [audio](#audio)
-  - [compression](#compression)
-  - [cryptography](#crypto)
-  - [data structures](#data-structures)
-  - [files and filenames](#files--filenames)
-  - [hardware interfacing](#hardware)
-  - [image loading, saving, & processing](#images)
-  - [JSON](#json)
-  - [mathematics for geometry](#geometry-math)
-  - [mathematics on vectors](#vectors)
-  - [mathematics](#math)
-  - [miscellaneous](#miscellaneous)
-  - [multithreading](#multithreading)
-  - [networking](#network)
-  - [parsing](#parsing) (see also [json](#json))
-  - [profiling](#profiling)
-  - [scripting](#scripting)
-  - [string processing](#strings)
-  - [tests](#tests)
-  - [user interface](#user-interface)
-  - [video](#video)
-
+  - general purpose
+    - [data structures](#data-structures)
+    - [string processing](#strings)
+    - [scripting](#scripting)
+  - mathematics
+    - [vector math](#vectors)
+    - [geometry math](#geometry-math)
+    - [general math](#math)
+  - parsing
+    - [JSON](#json)
+    - [argv argument processing](#argv)
+    - [other parsing](#parsing)
+  - graphics
+    - [2D graphics](#graphics-2d)
+    - [3D graphics](#graphics-3d)
+    - [3D geometry file processing](#geometry-file)
+    - [image loading, saving, & processing](#images)
+  - audio/video/data compression
+    - [compression](#compression)
+    - [audio processing & files](#audio)
+    - [video](#video)
+  - operating system features
+    - [files and filenames](#files--filenames)
+    - [multithreading](#multithreading)
+    - [networking](#network)
+    - [hardware interfacing](#hardware)
+  - profiling, testing, etc.
+    - [profiling](#profiling)
+    - [unit testing etc.](#tests)
+  - other
+    - [AI](#ai)
+    - [cryptography](#crypto)
+    - [user interface](#user-interface)
+    - [miscellaneous](#miscellaneous)
 
 # AI
 | library                                                               | license              | API |files| description
