@@ -57,6 +57,7 @@ results, check out https://github.com/miloyip/nativejson-benchmark
 Also you might be interested in other related, but different lists:
 
 - [clib](https://github.com/clibs/clib/wiki/Packages): list of (mostly) small single C functions (licenses not listed)
+- [CCAN](https://ccodearchive.net/list.html): package of lots of shareable C functions (mixed licenses)
 
 ### Library listing
 
