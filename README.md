@@ -236,6 +236,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [parson](https://github.com/kgabis/parson)                           | MIT                  |C/C++|  2  | JSON parser and serializer
 |  [minilibs](https://github.com/ccxvii/minilibs)                       | **public domain**    |  C  |  2  | two-file regex (also binary tree, etc)
 |  [tinymemfile](https://github.com/RandyGaul/tinyheaders)              | zlib                 | C++ |**1**| fscanf on in-memory files
+|  [json.hpp](https://github.com/nlohmann/json)							| MIT				   | C++ |**1**| Complete and easy to use JSON library
 
 #profiling
 | library                                                               | license              | API |files| description
