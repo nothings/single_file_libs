@@ -21,6 +21,7 @@ Exceptions will be allowed for good reasons.
 
 | category | library                                                               | license              | API |files| description
 | ---------| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+| testing  |  [catch](https://github.com/philsquared/Catch)					       | Boost			      | C++ |**1**| unit testing
 | audio    |  [tinysound](https://github.com/RandyGaul/tinyheaders)                | zlib                 |C/C++|**1**| direct sound audio mixer & WAV loader
 | argv     |  [flags](https://github.com/sailormoon/flags)                         | **public domain**    | C++ |**1**| command-line argument parsing
 | argv     |  [optionparser](http://optionparser.sourceforge.net/)                 | MIT                  | C++ |**1**| command-line argument parsing
@@ -41,7 +42,6 @@ Exceptions will be allowed for good reasons.
 | misc     |  [tinytime](https://github.com/RandyGaul/tinyheaders)                 | zlib                 |C/C++|**1**| quick-and-dirty time elapsed time
 | misc     |  [visit_struct](https://github.com/cbeck88/visit_struct)              | Boost                | C++ |  2  | struct-field reflection
 | testing  |  [hippomocks](https://github.com/dascandy/hippomocks)                 | LGPL                 | C++ |**1**| unit testing
-| testing  |  [fctx](https://github.com/imb/fctx)                                  | BSD                  |C/C++|**1**| unit testing
 
 ### New libraries and corrections
 
@@ -325,6 +325,7 @@ as C/C++, as this is not an obstacle to most users.)
 |**[labrat](https://github.com/squarewave/labrat)**                     | **public domain**    |C/C++|**1**| unit testing
 |  [hippomocks](https://github.com/dascandy/hippomocks)                 | LGPL                 | C++ |**1**| unit testing
 |  [fctx](https://github.com/imb/fctx)                                  | BSD                  |C/C++|**1**| unit testing
+|  [catch](https://github.com/philsquared/Catch)					    | Boost				   | C++ |**1**| unit testing
 
 #user interface
 | library                                                               | license              | API |files| description
