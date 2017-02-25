@@ -66,6 +66,7 @@ as C/C++, as this is not an obstacle to most users.)
     - [argv argument processing](#argv)
     - [other parsing](#parsing)
   - graphics
+    - [textmode](#graphics-text)
     - [2D graphics](#graphics-2d)
     - [3D graphics](#graphics-3d)
     - [3D geometry file processing](#geometry-file)
@@ -113,6 +114,7 @@ as C/C++, as this is not an obstacle to most users.)
 |**[sts_mixer](https://github.com/kieselsteini/sts)**                   | **public domain**    |C/C++|**1**| simple stereo audio mixer
 |  [tinysound](https://github.com/RandyGaul/tinyheaders)                | zlib                 |C/C++|**1**| direct sound audio mixer & WAV loader
 |_ [btac1c](https://github.com/cr88192/bgbtech_misc/blob/master/mini/btac1c_mini0.h)| MIT      |C/C++|**1**| MS-IMA_ADPCM variant_
+|_ [TinySoundFont](https://github.com/schellingb/TinySoundFont)         | MIT                  |C/C++|**1**| SoundFont2 loader & synthesizer
 
 # compression
 | library                                                               | license              | API |files| description
@@ -138,7 +140,9 @@ as C/C++, as this is not an obstacle to most users.)
 |**[DG_dynarr.h](https://github.com/DanielGibson/Snippets/)**           | **public domain**    |C/C++|**1**| typesafe dynamic arrays (like std::vector) for plain C
 |  [chobo-shl](https://github.com/Chobolabs/chobo-shl)                  | MIT                  | C++ |**1**| several C++11 standard contaner like libraries and helpers 
 |  [libpqueue](https://github.com/vy/libpqueue)                         | BSD                  |C/C++|  2  | priority queue (heap)
-|_  [simclist](mij.oltrelinux.com/devel/simclist)                        | BSD                  |C/C++|  2  | linked list_
+|_ [simclist](mij.oltrelinux.com/devel/simclist)                        | BSD                  |C/C++|  2  | linked-list_
+|_ [selist](https://github.com/ennorehling/clibs)                       | ISC                  |C/C++|  2  | space-efficient linked-list_
+|_ [avl](https://github.com/etherealvisage/avl)                         | **public domain**    |C/C++|  2  | AVL tree_
 
 # debugging
 | library                                                               | license              | API |files| description
@@ -185,12 +189,18 @@ as C/C++, as this is not an obstacle to most users.)
 |  [yocto_shape.h](https://github.com/xelatihy/yocto-gl)                | MIT                  |C/C++|**1**| shape generation, tesselation, normals, etc.
 |**[rjm](https://github.com/rmitton/rjm)**                              | **public domain**    |C/C++|**1**| marching cubes triangulator
 
+#graphics (text)
+| library                                                               | license              | API |files| description
+| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+|_ [rang](https://github.com/agauniyal/rang)                            | **public domain**    | C++ |**1**| cross-platform colored console text_
+
 #graphics (2d)
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |  [blendish](https://bitbucket.org/duangle/oui-blendish/src)           | MIT                  |C/C++|  1  | blender-style widget rendering using NanoVG
 |  [tigr](https://bitbucket.org/rmitton/tigr/src)                       | **public domain**    |C/C++|  2  | quick-n-dirty window text/graphics for Windows and OSX
 |  [noc_turtle](https://github.com/guillaumechereau/noc)                | MIT                  |C/C++|  2  | procedural graphics generator
+|_ [Cimg](http://cimg.eu/)                                              | CeCILL/CeCILL-C      | C++ |**1**| image processing toolkit (60KLoC)_
 
 #graphics (3d)
 | library                                                               | license              | API |files| description
