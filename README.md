@@ -250,6 +250,7 @@ as C/C++, as this is not an obstacle to most users.)
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |  [mm_sched.h](https://github.com/vurtun/mmx)                          | zlib                 |C/C++|**1**| cross-platform multithreaded task scheduler based on [enkiTS](https://github.com/dougbinks/enkiTS)
+|  _[oosmos](http://oosmos.com/)_                                         | GPLv2                |C/C++|  2  | threadless concurrency
 
 #network
 | library                                                               | license              | API |files| description
@@ -260,7 +261,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [mm_web.h](https://github.com/vurtun/mmx)                            | BSD                  |C/C++|**1**| lightweight webserver, fork of webby
 |  [yocto](https://github.com/tom-seddon/yhs)                           | **public domain**    |C/C++|  2  | non-production-use http server
 |  [mongoose](https://github.com/cesanta/mongoose)                      |_GPLv2_               |C/C++|  2  | http server
-|  _[EWS](https://github.com/hellerf/EmbeddableWebServer)                | BSD                  |C/C++|**1**| http server
+|  _[EWS](https://github.com/hellerf/EmbeddableWebServer)_                | BSD                  |C/C++|**1**| http server
 |  _[civetweb](https://github.com/civetweb/civetweb)_                     | MIT                  |C/C++|  2  | http server, fork of mongoose
 |  [par_easycurl.h](https://github.com/prideout/par)                    | MIT                  |C/C++|**1**| curl wrapper
 |  [happyhttp](https://github.com/Zintinio/HappyHTTP)                   | zlib                 | C++ |  2  | http client requests
