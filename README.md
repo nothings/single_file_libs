@@ -17,14 +17,9 @@ specific lilbrary is as advertised, or is quality software.
 
 Exceptions will be allowed for good reasons.
 
-### Recent Additions
+### Recent additions
 
-| category | library                                                               | license              | API |files| description
-| ---------| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-| UI       | [wcwidth9](https://github.com/joshuarubin/wcwidth9)                   | Apache 2.0           | C   |  1  | platform independent wcwidth with full unicode 9 support
-| network  |  [EWS](https://github.com/hellerf/EmbeddableWebServer)                | BSD                  |C/C++|**1**| http server
-| data structures | [simclist](mij.oltrelinux.com/devel/simclist)                  | BSD                  |C/C++|  2  | linked list
-| testing  |  [catch](https://github.com/philsquared/Catch)			                   | Boost                | C++ |**1**| unit testing
+Recent additions are marked with _italics_. (The previous system of listing them separately caused too many merge conflicts.)
 
 ### New libraries and corrections
 
@@ -139,7 +134,7 @@ as C/C++, as this is not an obstacle to most users.)
 |**[DG_dynarr.h](https://github.com/DanielGibson/Snippets/)**           | **public domain**    |C/C++|**1**| typesafe dynamic arrays (like std::vector) for plain C
 |  [chobo-shl](https://github.com/Chobolabs/chobo-shl)                  | MIT                  | C++ |**1**| several C++11 standard contaner like libraries and helpers 
 |  [libpqueue](https://github.com/vy/libpqueue)                         | BSD                  |C/C++|  2  | priority queue (heap)
-|  [simclist](mij.oltrelinux.com/devel/simclist)                        | BSD                  |C/C++|  2  | linked list
+|_  [simclist](mij.oltrelinux.com/devel/simclist)                        | BSD                  |C/C++|  2  | linked list_
 
 # debugging
 | library                                                               | license              | API |files| description
@@ -249,7 +244,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [mm_web.h](https://github.com/vurtun/mmx)                            | BSD                  |C/C++|**1**| lightweight webserver, fork of webby
 |  [par_easycurl.h](https://github.com/prideout/par)                    | MIT                  |C/C++|**1**| curl wrapper
 |  [yocto](https://github.com/tom-seddon/yhs)                           | **public domain**    |C/C++|  2  | non-production-use http server
-|  [EWS](https://github.com/hellerf/EmbeddableWebServer)                | BSD                  |C/C++|**1**| http server
+|_  [EWS](https://github.com/hellerf/EmbeddableWebServer)                | BSD                  |C/C++|**1**| http server_
 |  [happyhttp](https://github.com/Zintinio/HappyHTTP)                   | zlib                 | C++ |  2  | http client requests
 |  [mongoose](https://github.com/cesanta/mongoose)                      |_GPLv2_               |C/C++|  2  | http server
 |  [LUrlParser](https://github.com/corporateshark/LUrlParser)           | MIT                  | C++ |  2  | lightweight URL & URI parser RFC 1738, RFC 3986
@@ -311,17 +306,17 @@ as C/C++, as this is not an obstacle to most users.)
 |**[labrat](https://github.com/squarewave/labrat)**                     | **public domain**    |C/C++|**1**| unit testing
 |  [hippomocks](https://github.com/dascandy/hippomocks)                 | LGPL                 | C++ |**1**| unit testing
 |  [fctx](https://github.com/imb/fctx)                                  | BSD                  |C/C++|**1**| unit testing
-|  [catch](https://github.com/philsquared/Catch)					    | Boost				   | C++ |**1**| unit testing
+|_  [catch](https://github.com/philsquared/Catch)				                | Boost                | C++ |**1**| unit testing_
 
 #user interface
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|  [wcwidth9](https://github.com/joshuarubin/wcwidth9)                  | Apache 2.0           | C   |  1  | platform independent wcwidth with full unicode 9 support
 |  [dear imgui](https://github.com/ocornut/imgui)                       | MIT                  | C++ |  9  | an immediate-mode GUI formerly named "ImGui"; [3rd-party C wrapper](https://github.com/Extrawurst/cimgui)
 |  [nuklear](https://github.com/vurtun/nuklear)                         | **public domain**    |C/C++|**1**| minimal GUI toolkit
 |  [noc_file_dialog.h](https://github.com/guillaumechereau/noc)         | MIT                  |C/C++|  1  | file open/save dialogs (Linux/OSX/Windows)
 |  [tinyfiledialogs](https://sourceforge.net/projects/tinyfiledialogs/) | ZLIB                 |C/C++|  2  | modal dialogs inc. file open/save (Linux/OSX/Windows)
 |  [linenoise](https://github.com/antirez/linenoise)                    | BSD                  |C/C++|  2  | terminal readline w/ history etc
+|_  [wcwidth9](https://github.com/joshuarubin/wcwidth9)                  | Apache 2.0           | C   |  1  | platform independent wcwidth with full unicode 9 support_
 
 #vectors
 | library                                                               | license              | API |files| description
