@@ -368,6 +368,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [levenshtein](https://github.com/wooorm/levenshtein.c)               | MIT                  |  C  |  2  | compute edit distance between two strings
 |  [tinytime](https://github.com/RandyGaul/tinyheaders)                 | zlib                 |C/C++|**1**| quick-and-dirty time elapsed time
 |  _[cpp-generators](https://github.com/c-smile/cpp-generators)_          | BSD                  | C++ |**1**| generators in C++
+|  [PlusCallback](https://github.com/codeplea/pluscallback)             | zlib                 | C++ |**1**| function/method callbacks
 
 
 There are also these XML libraries, but if you're using XML, shame on you:                                             
