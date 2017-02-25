@@ -100,6 +100,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [parg](https://github.com/jibsen/parg)                               | **public domain**    |  C  |  2  | command-line argument parsing
 |  [flags](https://github.com/sailormoon/flags)                         | **public domain**    | C++ |**1**| command-line argument parsing
 |  [optionparser](http://optionparser.sourceforge.net/)                 | MIT                  | C++ |**1**| command-line argument parsing
+|_ [cmdline](https://github.com/tanakh/cmdline)                         | BSD                  | C++ |**1**| command-line argument parsing_
 
 # audio
 | library                                                               | license              | API |files| description
@@ -196,6 +197,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [mikktspace](https://developer.blender.org/diffusion/B/browse/master/intern/mikktspace)                             | zlib                 |C/C++|  2  | compute tangent space for normal mapping
 |  [debug-draw](https://github.com/glampert/debug-draw)                 | **public domain**    | C++ |**1**| API-agnostic immediate-mode debug rendering
 |**[lightmapper](https://github.com/ands/lightmapper#lightmapper)**     | **public domain**    |C/C++|**1**| use your OpenGL renderer to offline bake lightmaps
+|_ [Swarmz](https://github.com/Cultrarius/Swarmz)                       | **public domain**    | C++ |**1**| swarming/flocking algorithm_
 
 #hardware
 | library                                                               | license              | API |files| description
@@ -260,6 +262,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [parson](https://github.com/kgabis/parson)                           | MIT                  |C/C++|  2  | JSON parser and serializer
 |  [json.hpp](https://github.com/nlohmann/json)                         | MIT                  | C++ |**1**| JSON parse, serialize, deserialize
 |_  [cJSON](https://sourceforge.net/projects/cjson/)                    | MIT                  |C/C++|**1**| JSON parser_
+|_ [ajson](https://github.com/lordoffox/ajson)                          | Boost                | C++ |**1**| JSON serialize & deserialize w/ STL support_
 
 #parsing
 | library                                                               | license              | API |files| description
