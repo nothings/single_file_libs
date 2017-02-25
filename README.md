@@ -249,6 +249,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [mongoose](https://github.com/cesanta/mongoose)                      |_GPLv2_               |C/C++|  2  | http server
 |  [LUrlParser](https://github.com/corporateshark/LUrlParser)           | MIT                  | C++ |  2  | lightweight URL & URI parser RFC 1738, RFC 3986
 |  [znet](https://github.com/starwing/znet)                             | MIT                  |C/C++|**1**| cross-platform networking w/ lua binding
+|_ [civetweb](https://github.com/civetweb/civetweb)                     | MIT                  |C/C++|  2  | http server, fork of mongoose_        
 
 #json
 | library                                                               | license              | API |files| description
@@ -258,6 +259,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [jzon.h](https://github.com/Zguy/Jzon)                               | MIT                  | C++ |  2  | JSON parser
 |  [parson](https://github.com/kgabis/parson)                           | MIT                  |C/C++|  2  | JSON parser and serializer
 |  [json.hpp](https://github.com/nlohmann/json)                         | MIT                  | C++ |**1**| JSON parse, serialize, deserialize
+|_  [cJSON](https://sourceforge.net/projects/cjson/)                    | MIT                  |C/C++|**1**| JSON parser_
 
 #parsing
 | library                                                               | license              | API |files| description
@@ -343,6 +345,8 @@ as C/C++, as this is not an obstacle to most users.)
 |  [stmr](https://github.com/wooorm/stmr.c)                             | MIT                  |  C  |  2  | extract English word stems
 |  [levenshtein](https://github.com/wooorm/levenshtein.c)               | MIT                  |  C  |  2  | compute edit distance between two strings
 |  [tinytime](https://github.com/RandyGaul/tinyheaders)                 | zlib                 |C/C++|**1**| quick-and-dirty time elapsed time
+|_ [cpp-generators](https://github.com/c-smile/cpp-generators)          | BSD                  | C++ |**1**| generators in C++_
+
 
 There are also these XML libraries, but if you're using XML, shame on you:                                             
 
