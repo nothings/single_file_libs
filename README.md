@@ -62,6 +62,7 @@ as C/C++, as this is not an obstacle to most users.)
     - [general math](#math)
   - parsing
     - [JSON](#json)
+    - [other serialization](#serialization)
     - [argv argument processing](#argv)
     - [other parsing](#parsing)
   - graphics
@@ -101,6 +102,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [flags](https://github.com/sailormoon/flags)                         | **public domain**    | C++ |**1**| command-line argument parsing
 |  [optionparser](http://optionparser.sourceforge.net/)                 | MIT                  | C++ |**1**| command-line argument parsing
 |_ [cmdline](https://github.com/tanakh/cmdline)                         | BSD                  | C++ |**1**| command-line argument parsing_
+|_ [linkom](https://github.com/hernandp/linkom)                         | ???                  |C/C++|**1**| command-line argument parsing w/ DOS-style options_
 
 # audio
 | library                                                               | license              | API |files| description
@@ -110,6 +112,7 @@ as C/C++, as this is not an obstacle to most users.)
 |**[dr_wav](https://github.com/mackron/dr_libs)**                       | **public domain**    |C/C++|**1**| WAV audio loader
 |**[sts_mixer](https://github.com/kieselsteini/sts)**                   | **public domain**    |C/C++|**1**| simple stereo audio mixer
 |  [tinysound](https://github.com/RandyGaul/tinyheaders)                | zlib                 |C/C++|**1**| direct sound audio mixer & WAV loader
+|_ [btac1c](https://github.com/cr88192/bgbtech_misc/blob/master/mini/btac1c_mini0.h)| MIT      |C/C++|**1**| MS-IMA_ADPCM variant_
 
 # compression
 | library                                                               | license              | API |files| description
@@ -252,6 +255,11 @@ as C/C++, as this is not an obstacle to most users.)
 |  [LUrlParser](https://github.com/corporateshark/LUrlParser)           | MIT                  | C++ |  2  | lightweight URL & URI parser RFC 1738, RFC 3986
 |  [znet](https://github.com/starwing/znet)                             | MIT                  |C/C++|**1**| cross-platform networking w/ lua binding
 |_ [civetweb](https://github.com/civetweb/civetweb)                     | MIT                  |C/C++|  2  | http server, fork of mongoose_        
+
+#serialization
+| library                                                               | license              | API |files| description
+| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+|_ [archive](https://github.com/voidah/archive)                         |**public domain**     | C++ |**1**| binary serialize & deserlize w/ STL support_
 
 #json
 | library                                                               | license              | API |files| description
