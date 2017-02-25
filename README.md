@@ -102,8 +102,8 @@ as C/C++, as this is not an obstacle to most users.)
 |  [parg](https://github.com/jibsen/parg)                               | **public domain**    |  C  |  2  | command-line argument parsing
 |  [flags](https://github.com/sailormoon/flags)                         | **public domain**    | C++ |**1**| command-line argument parsing
 |  [optionparser](http://optionparser.sourceforge.net/)                 | MIT                  | C++ |**1**| command-line argument parsing
-|_ [cmdline](https://github.com/tanakh/cmdline)                         | BSD                  | C++ |**1**| command-line argument parsing_
-|_ [linkom](https://github.com/hernandp/linkom)                         | ???                  |C/C++|**1**| command-line argument parsing w/ DOS-style options_
+| _[cmdline](https://github.com/tanakh/cmdline)                         | BSD                  | C++ |**1**| command-line argument parsing_
+| _[linkom](https://github.com/hernandp/linkom)                         | ???                  |C/C++|**1**| command-line argument parsing w/ DOS-style options_
 
 # audio
 | library                                                               | license              | API |files| description
