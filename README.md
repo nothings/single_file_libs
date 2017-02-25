@@ -24,6 +24,7 @@ Exceptions will be allowed for good reasons.
 | UI       | [wcwidth9](https://github.com/joshuarubin/wcwidth9)                   | Apache 2.0           | C   |  1  | platform independent wcwidth with full unicode 9 support
 | network  |  [EWS](https://github.com/hellerf/EmbeddableWebServer)                | BSD                  |C/C++|**1**| http server
 | data structures | [simclist](mij.oltrelinux.com/devel/simclist)                  | BSD                  |C/C++|  2  | linked list
+| testing  |  [catch](https://github.com/philsquared/Catch)			                   | Boost                | C++ |**1**| unit testing
 
 ### New libraries and corrections
 
@@ -310,6 +311,7 @@ as C/C++, as this is not an obstacle to most users.)
 |**[labrat](https://github.com/squarewave/labrat)**                     | **public domain**    |C/C++|**1**| unit testing
 |  [hippomocks](https://github.com/dascandy/hippomocks)                 | LGPL                 | C++ |**1**| unit testing
 |  [fctx](https://github.com/imb/fctx)                                  | BSD                  |C/C++|**1**| unit testing
+|  [catch](https://github.com/philsquared/Catch)					    | Boost				   | C++ |**1**| unit testing
 
 #user interface
 | library                                                               | license              | API |files| description
