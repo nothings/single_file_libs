@@ -75,6 +75,7 @@ as C/C++, as this is not an obstacle to most users.)
     - [compression](#compression)
     - [audio processing & files](#audio)
     - [video](#video)
+  - [videogames](#games)
   - operating system features
     - [files and filenames](#files--filenames)
     - [multithreading](#multithreading)
@@ -251,6 +252,7 @@ as C/C++, as this is not an obstacle to most users.)
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |  [mm_sched.h](https://github.com/vurtun/mmx)                          | zlib                 |C/C++|**1**| cross-platform multithreaded task scheduler based on [enkiTS](https://github.com/dougbinks/enkiTS)
 |  _[oosmos](http://oosmos.com/)_                                         | GPLv2                |C/C++|  2  | threadless concurrency
+|_**[thread.h](https://github.com/mattiasgustavsson/libs)**_              | **public domain**    |C/C++|**1**| cross-platform thread primitives
 
 #network
 | library                                                               | license              | API |files| description
@@ -291,6 +293,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [minilibs](https://github.com/ccxvii/minilibs)                       | **public domain**    |  C  |  2  | two-file regex (also binary tree, etc)
 |  [tinymemfile](https://github.com/RandyGaul/tinyheaders)              | zlib                 | C++ |**1**| fscanf on in-memory files
 |  [inih](https://github.com/benhoyt/inih)                              | BSD                  |C/C++|  2  | .ini file parser
+|_**[ini.h](https://github.com/mattiasgustavsson/libs)**_                 | **public domain**    |C/C++|**1**| .ini file parser
 
 #profiling
 | library                                                               | license              | API |files| description
@@ -357,6 +360,11 @@ as C/C++, as this is not an obstacle to most users.)
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |  [jo_mpeg](http://www.jonolick.com/home/mpeg-video-writer)            | **public domain**    | C++ |**1**| mpeg file writer
+
+#videogames
+| library                                                               | license              | API |files| description
+| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+|_**[app.h](https://github.com/mattiasgustavsson/libs)**_                 | **public domain**    |C/C++|**1**| cross-platform game-ish framework
 
 #miscellaneous
 | library                                                               | license              | API |files| description
