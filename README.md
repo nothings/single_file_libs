@@ -75,7 +75,7 @@ as C/C++, as this is not an obstacle to most users.)
     - [compression](#compression)
     - [audio processing & files](#audio)
     - [video](#video)
-  - [videogames](#games)
+  - [videogames](#videogames)
   - operating system features
     - [files and filenames](#files--filenames)
     - [multithreading](#multithreading)
