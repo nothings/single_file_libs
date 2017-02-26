@@ -364,7 +364,7 @@ as C/C++, as this is not an obstacle to most users.)
 #videogames
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|_**[app.h](https://github.com/mattiasgustavsson/libs)**_                 | **public domain**    |C/C++|**1**| cross-platform game-ish framework
+|_**[app.h](https://github.com/mattiasgustavsson/libs)**_                 | **public domain**    |C/C++|**1**| Windows-only-but-meant-to-be-cross-platform game-ish framework
 
 #miscellaneous
 | library                                                               | license              | API |files| description
