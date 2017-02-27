@@ -56,6 +56,7 @@ as C/C++, as this is not an obstacle to most users.)
     - [data structures](#data-structures)
     - [string processing](#strings)
     - [scripting](#scripting)
+    - [hashing](#hashing)
   - mathematics
     - [vector math](#vectors)
     - [geometry math](#geometry-math)
@@ -218,6 +219,11 @@ as C/C++, as this is not an obstacle to most users.)
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |**[EasyTab](https://github.com/ApoorvaJ/EasyTab)**                     | **public domain**    |C/C++|**1**| multi-platform tablet input
 |  [libue](https://github.com/houqp/libue)                              | MIT                  |C/C++|  1  | Helper library for Linux device hot-plug event
+
+#hashing
+| library                                                               | license              | API |files| description
+| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+|  _[xxHash](https://github.com/Cyan4973/xxHash)_                         | BSD                  |C/C++|  2  | fast hash function
 
 #images
 | library                                                               | license              | API |files| description
