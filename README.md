@@ -253,6 +253,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [prns.h](http://marc-b-reynolds.github.io/shf/2016/04/19/prns.html)  | **public domain**    |C/C++|**1**| seekable pseudo-random number sequences
 |  [amoeba](https://github.com/starwing/amoeba)                         | MIT                  |C/C++|**1**| constraint solver (Cassowary) w/Lua binding
 |  [simrank.hpp](https://github.com/roukaour/simrank)                   | MIT                  | C++ |  2  | SimRank graph similarity algorithm
+|_**[rnd.h](https://github.com/mattiasgustavsson/libs)**_                 | **public domain**    |C/C++|**1**| pseudo-random number generation
 
 #multithreading
 | library                                                               | license              | API |files| description
