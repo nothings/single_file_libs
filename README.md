@@ -302,6 +302,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [tinymemfile](https://github.com/RandyGaul/tinyheaders)              | zlib                 | C++ |**1**| fscanf on in-memory files
 |  [inih](https://github.com/benhoyt/inih)                              | BSD                  |C/C++|  2  | .ini file parser
 |_**[ini.h](https://github.com/mattiasgustavsson/libs)**_                 | **public domain**    |C/C++|**1**| .ini file parser
+|  _[cmp](https://github.com/camgunz/cmp)_                                | MIT                  |C/C++|  2  | MessagePack parser and serializer
 
 #profiling
 | library                                                               | license              | API |files| description
