@@ -261,6 +261,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [mm_sched.h](https://github.com/vurtun/mmx)                          | zlib                 |C/C++|**1**| cross-platform multithreaded task scheduler based on [enkiTS](https://github.com/dougbinks/enkiTS)
 | * |  [oosmos](http://oosmos.com/)                                         | GPLv2                |C/C++|  2  | threadless concurrency
 | * |**[thread.h](https://github.com/mattiasgustavsson/libs)**              | **public domain**    |C/C++|**1**| cross-platform thread primitives
+| * |**[mb_thread.h](https://github.com/milesbarr/mb-thread)**              | **public domain**    |C/C++|**1**| cross-platform threads and mutexes without overhead
 
 # network
 |   | library                                                               | license              | API |files| description
