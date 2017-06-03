@@ -326,7 +326,7 @@ as C/C++, as this is not an obstacle to most users.)
 
 |   | library                                                               | license              | API |files| description
 |---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|   |  [easyMemoryAddressEditor](https://github.com/Kevin-Duarte/easyMemoryAddressEditor)| **public domain**                 |C++|  1  | Simple & easy memory address editor
+| * |  [easyMemoryAddressEditor](https://github.com/Kevin-Duarte/easyMemoryAddressEditor)| **public domain**|C++|**1**| Simple & easy memory address editor
 | * |  [cJSON](https://sourceforge.net/projects/cjson/)                     | MIT                  |C/C++|**1**| JSON parser
 | * |  [ajson](https://github.com/lordoffox/ajson)                          | Boost                | C++ |**1**| JSON serialize &
 
