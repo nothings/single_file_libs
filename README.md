@@ -57,6 +57,8 @@ as C/C++, as this is not an obstacle to most users.)
     - [string processing](#strings)
     - [scripting](#scripting)
     - [hashing](#hashing)
+  - memory maniputlation
+    - [memory editor](#memory)
   - mathematics
     - [vector math](#vectors)
     - [geometry math](#geometry-math)
@@ -157,7 +159,7 @@ as C/C++, as this is not an obstacle to most users.)
 # files & filenames
 |   | library                                                               | license              | API |files| description
 |---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|   |**[DG_misc.h](https://github.com/DanielGibson/Snippets/)**             | **public domain**    |C/C++|**1**| Daniel Gibson's stb.h-esque cross-platform helpers: path/file, strings
+|   |**[DG_misc.h](https://github.com/DanielGibson/Snippets/)**             | **public domain**    |C/C++|**1**| Daniel Gibson's stb.h-esque cross-platform helpers: path/file, 
 |   |  [whereami](https://github.com/gpakosz/whereami)                      | **WTFPLv2**          |C/C++|  2  | get path/filename of executable or module
 |   |  [dirent](https://github.com/tronkko/dirent)                          | MIT                  |C/C++|**1**| dirent for windows: retrieve file & dir info
 |   |  [TinyDir](https://github.com/cxong/tinydir)                          | BSD                  |  C  |**1**| cross-platform directory reading (win/posix/mingw)
@@ -319,6 +321,14 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [Picol](https://chiselapp.com/user/dbohdan/repository/picol/)        | BSD                  |C/C++|**1**| interpreter for a Tcl-like scripting language
 |   |  [s7](https://ccrma.stanford.edu/software/snd/snd/s7.html)            | BSD                  |C/C++|  2  | interpreter for a subset of Scheme (R5RS/R7RS)
 |   |  [Duktape](http://duktape.org/)                                       | MIT                  |  C  |  2  | embeddable Javascript engine
+
+# memory
+
+|   | library                                                               | license              | API |files| description
+|---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+|   |  [easyMemoryAddressEditor](https://github.com/Kevin-Duarte/easyMemoryAddressEditor)| **public domain**                 |C++|  1  | Simple & easy memory address editor
+| * |  [cJSON](https://sourceforge.net/projects/cjson/)                     | MIT                  |C/C++|**1**| JSON parser
+| * |  [ajson](https://github.com/lordoffox/ajson)                          | Boost                | C++ |**1**| JSON serialize &
 
 # strings
 |   | library                                                               | license              | API |files| description
