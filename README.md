@@ -105,8 +105,8 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [parg](https://github.com/jibsen/parg)                               | **public domain**    |  C  |  2  | command-line argument parsing
 |   |  [flags](https://github.com/sailormoon/flags)                         | **public domain**    | C++ |**1**| command-line argument parsing
 |   |  [optionparser](http://optionparser.sourceforge.net/)                 | MIT                  | C++ |**1**| command-line argument parsing
-| * |  [cmdline](https://github.com/tanakh/cmdline)                         | BSD                  | C++ |**1**| command-line argument parsing
-| * |  [linkom](https://github.com/hernandp/linkom)                         | MIT                  |C/C++|**1**| command-line argument parsing w/ DOS-style options
+|   |  [cmdline](https://github.com/tanakh/cmdline)                         | BSD                  | C++ |**1**| command-line argument parsing
+|   |  [linkom](https://github.com/hernandp/linkom)                         | MIT                  |C/C++|**1**| command-line argument parsing w/ DOS-style options
 
 # audio
 |   | library                                                               | license              | API |files| description
@@ -116,8 +116,8 @@ as C/C++, as this is not an obstacle to most users.)
 |   |**[dr_wav](https://github.com/mackron/dr_libs)**                       | **public domain**    |C/C++|**1**| WAV audio loader
 |   |**[sts_mixer](https://github.com/kieselsteini/sts)**                   | **public domain**    |C/C++|**1**| simple stereo audio mixer
 |   |  [tinysound](https://github.com/RandyGaul/tinyheaders)                | zlib                 |C/C++|**1**| direct sound audio mixer & WAV loader
-| * |  [btac1c](https://github.com/cr88192/bgbtech_misc/blob/master/mini/btac1c_mini0.h)| MIT      |C/C++|**1**| MS-IMA_ADPCM variant
-| * |  [TinySoundFont](https://github.com/schellingb/TinySoundFont)         | MIT                  |C/C++|**1**| SoundFont2 loader & synthesizer
+|   |  [btac1c](https://github.com/cr88192/bgbtech_misc/blob/master/mini/btac1c_mini0.h)| MIT      |C/C++|**1**| MS-IMA_ADPCM variant
+|   |  [TinySoundFont](https://github.com/schellingb/TinySoundFont)         | MIT                  |C/C++|**1**| SoundFont2 loader & synthesizer
 
 # compression
 |   | library                                                               | license              | API |files| description
@@ -143,9 +143,9 @@ as C/C++, as this is not an obstacle to most users.)
 |   |**[DG_dynarr.h](https://github.com/DanielGibson/Snippets/)**           | **public domain**    |C/C++|**1**| typesafe dynamic arrays (like std::vector) for plain C
 |   |  [chobo-shl](https://github.com/Chobolabs/chobo-shl)                  | MIT                  | C++ |**1**| several C++11 standard contaner like libraries and helpers 
 |   |  [libpqueue](https://github.com/vy/libpqueue)                         | BSD                  |C/C++|  2  | priority queue (heap)
-| * |  [simclist](mij.oltrelinux.com/devel/simclist)                        | BSD                  |C/C++|  2  | linked-list
-| * |  [selist](https://github.com/ennorehling/clibs)                       | ISC                  |C/C++|  2  | space-efficient linked-list
-| * |  [avl](https://github.com/etherealvisage/avl)                         | **public domain**    |C/C++|  2  | AVL tree
+|   |  [simclist](mij.oltrelinux.com/devel/simclist)                        | BSD                  |C/C++|  2  | linked-list
+|   |  [selist](https://github.com/ennorehling/clibs)                       | ISC                  |C/C++|  2  | space-efficient linked-list
+|   |  [avl](https://github.com/etherealvisage/avl)                         | **public domain**    |C/C++|  2  | AVL tree
 
 # debugging
 |   | library                                                               | license              | API |files| description
@@ -195,7 +195,7 @@ as C/C++, as this is not an obstacle to most users.)
 # graphics (text)
 |   | library                                                               | license              | API |files| description
 |---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-| * |  [rang](https://github.com/agauniyal/rang)                            | **public domain**    | C++ |**1**| cross-platform colored console text 
+|   |  [rang](https://github.com/agauniyal/rang)                            | **public domain**    | C++ |**1**| cross-platform colored console text 
 
 # graphics (2d)
 |   | library                                                               | license              | API |files| description
@@ -203,7 +203,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [blendish](https://bitbucket.org/duangle/oui-blendish/src)           | MIT                  |C/C++|  1  | blender-style widget rendering using NanoVG
 |   |  [tigr](https://bitbucket.org/rmitton/tigr/src)                       | **public domain**    |C/C++|  2  | quick-n-dirty window text/graphics for Windows and OSX
 |   |  [noc_turtle](https://github.com/guillaumechereau/noc)                | MIT                  |C/C++|  2  | procedural graphics generator
-| * |  [Cimg](http://cimg.eu/)                                              | CeCILL/CeCILL-C      | C++ |**1**| image processing toolkit (60K LoC)
+|   |  [Cimg](http://cimg.eu/)                                              | CeCILL/CeCILL-C      | C++ |**1**| image processing toolkit (60K LoC)
 
 # graphics (3d)
 |   | library                                                               | license              | API |files| description
@@ -212,9 +212,9 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [yocto_symrigid.h](https://github.com/xelatihy/yocto-gl)             | MIT                  |C/C++|**1**| rigid body simulator (sequential impulse/PGS) with support for concave objects
 |   |  [mikktspace](https://developer.blender.org/diffusion/B/browse/master/intern/mikktspace)                             | zlib                 |C/C++|  2  | compute tangent space for normal mapping
 |   |  [debug-draw](https://github.com/glampert/debug-draw)                 | **public domain**    | C++ |**1**| API-agnostic immediate-mode debug rendering
-| * |  [Swarmz](https://github.com/Cultrarius/Swarmz)                       | **public domain**    | C++ |**1**| swarming/flocking algorithm
+|   |  [Swarmz](https://github.com/Cultrarius/Swarmz)                       | **public domain**    | C++ |**1**| swarming/flocking algorithm
 |   |**[lightmapper](https://github.com/ands/lightmapper#lightmapper)**     | **public domain**    |C/C++|**1**| use your OpenGL renderer to offline bake lightmaps
-| * |**[seamoptimizer](https://github.com/ands/seamoptimizer)**             | **public domain**    |C/C++|**1**| modify lightmap data to hide seams
+|   |**[seamoptimizer](https://github.com/ands/seamoptimizer)**             | **public domain**    |C/C++|**1**| modify lightmap data to hide seams
 
 # hardware
 |   | library                                                               | license              | API |files| description
@@ -225,7 +225,7 @@ as C/C++, as this is not an obstacle to most users.)
 # hashing
 |   | library                                                               | license              | API |files| description
 |---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-| * |  [xxHash](https://github.com/Cyan4973/xxHash)                         | BSD                  |C/C++|  2  | fast hash function
+|   |  [xxHash](https://github.com/Cyan4973/xxHash)                         | BSD                  |C/C++|  2  | fast hash function
 
 # images
 |   | library                                                               | license              | API |files| description
@@ -254,14 +254,14 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [prns.h](http://marc-b-reynolds.github.io/shf/2016/04/19/prns.html)  | **public domain**    |C/C++|**1**| seekable pseudo-random number sequences
 |   |  [amoeba](https://github.com/starwing/amoeba)                         | MIT                  |C/C++|**1**| constraint solver (Cassowary) w/Lua binding
 |   |  [simrank.hpp](https://github.com/roukaour/simrank)                   | MIT                  | C++ |  2  | SimRank graph similarity algorithm
-| * |**[rnd.h](https://github.com/mattiasgustavsson/libs)**                 | **public domain**    |C/C++|**1**| pseudo-random number generation
+|   |**[rnd.h](https://github.com/mattiasgustavsson/libs)**                 | **public domain**    |C/C++|**1**| pseudo-random number generation
 
 # multithreading
 |   | library                                                               | license              | API |files| description
 |---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |   |  [mm_sched.h](https://github.com/vurtun/mmx)                          | zlib                 |C/C++|**1**| cross-platform multithreaded task scheduler based on [enkiTS](https://github.com/dougbinks/enkiTS)
-| * |  [oosmos](http://oosmos.com/)                                         | GPLv2                |C/C++|  2  | threadless concurrency
-| * |**[thread.h](https://github.com/mattiasgustavsson/libs)**              | **public domain**    |C/C++|**1**| cross-platform thread primitives
+|   |  [oosmos](http://oosmos.com/)                                         | GPLv2                |C/C++|  2  | threadless concurrency
+|   |**[thread.h](https://github.com/mattiasgustavsson/libs)**              | **public domain**    |C/C++|**1**| cross-platform thread primitives
 
 # network
 |   | library                                                               | license              | API |files| description
@@ -272,11 +272,11 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [mm_web.h](https://github.com/vurtun/mmx)                            | BSD                  |C/C++|**1**| lightweight webserver, fork of webby
 |   |  [yocto](https://github.com/tom-seddon/yhs)                           | **public domain**    |C/C++|  2  | non-production-use http server
 |   |  [mongoose](https://github.com/cesanta/mongoose)                      | GPLv2                |C/C++|  2  | http server
-| * |  [EWS](https://github.com/hellerf/EmbeddableWebServer)                | BSD                  |C/C++|**1**| http server
-| * |  [civetweb](https://github.com/civetweb/civetweb)                     | MIT                  |C/C++|  2  | http server, fork of mongoose
+|   |  [EWS](https://github.com/hellerf/EmbeddableWebServer)                | BSD                  |C/C++|**1**| http server
+|   |  [civetweb](https://github.com/civetweb/civetweb)                     | MIT                  |C/C++|  2  | http server, fork of mongoose
 |   |  [par_easycurl.h](https://github.com/prideout/par)                    | MIT                  |C/C++|**1**| curl wrapper
 |   |  [happyhttp](https://github.com/Zintinio/HappyHTTP)                   | zlib                 | C++ |  2  | http client requests
-| * |**[http](https://github.com/mattiasgustavsson/libs)**                  | **public domain**    |C/C++|**1**| http get/post
+|   |**[http](https://github.com/mattiasgustavsson/libs)**                  | **public domain**    |C/C++|**1**| http get/post
 |   |  [LUrlParser](https://github.com/corporateshark/LUrlParser)           | MIT                  | C++ |  2  | lightweight URL & URI parser RFC 1738, RFC 3986
 
 # serialization
@@ -292,8 +292,8 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [jzon.h](https://github.com/Zguy/Jzon)                               | MIT                  | C++ |  2  | JSON parser
 |   |  [parson](https://github.com/kgabis/parson)                           | MIT                  |C/C++|  2  | JSON parser and serializer
 |   |  [json.hpp](https://github.com/nlohmann/json)                         | MIT                  | C++ |**1**| JSON parse, serialize, deserialize
-| * |  [cJSON](https://sourceforge.net/projects/cjson/)                     | MIT                  |C/C++|**1**| JSON parser
-| * |  [ajson](https://github.com/lordoffox/ajson)                          | Boost                | C++ |**1**| JSON serialize & deserialize w/ STL support
+|   |  [cJSON](https://sourceforge.net/projects/cjson/)                     | MIT                  |C/C++|**1**| JSON parser
+|   |  [ajson](https://github.com/lordoffox/ajson)                          | Boost                | C++ |**1**| JSON serialize & deserialize w/ STL support
 
 # parsing
 |   | library                                                               | license              | API |files| description
@@ -303,7 +303,8 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [minilibs](https://github.com/ccxvii/minilibs)                       | **public domain**    |  C  |  2  | two-file regex (also binary tree, etc)
 |   |  [tinymemfile](https://github.com/RandyGaul/tinyheaders)              | zlib                 | C++ |**1**| fscanf on in-memory files
 |   |  [inih](https://github.com/benhoyt/inih)                              | BSD                  |C/C++|  2  | .ini file parser
-| * |**[ini.h](https://github.com/mattiasgustavsson/libs)**                 | **public domain**    |C/C++|**1**| .ini file parser
+|   |**[ini.h](https://github.com/mattiasgustavsson/libs)**                 | **public domain**    |C/C++|**1**| .ini file parser
+| * |  [cmp](https://github.com/camgunz/cmp)                                | MIT                  |C/C++|  2  | MessagePack parser and serializer
 
 # profiling
 |   | library                                                               | license              | API |files| description
@@ -353,7 +354,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [noc_file_dialog.h](https://github.com/guillaumechereau/noc)         | MIT                  |C/C++|  1  | file open/save dialogs (Linux/OSX/Windows)
 |   |  [tinyfiledialogs](https://sourceforge.net/projects/tinyfiledialogs/) | ZLIB                 |C/C++|  2  | modal dialogs inc. file open/save (Linux/OSX/Windows)
 |   |  [linenoise](https://github.com/antirez/linenoise)                    | BSD                  |C/C++|  2  | terminal readline w/ history etc
-| * |  [wcwidth9](https://github.com/joshuarubin/wcwidth9)                  | Apache 2.0           | C   |  1  | platform independent wcwidth with full unicode 9 support
+|   |  [wcwidth9](https://github.com/joshuarubin/wcwidth9)                  | Apache 2.0           | C   |  1  | platform independent wcwidth with full unicode 9 support
 
 # vectors
 |   | library                                                               | license              | API |files| description
@@ -374,7 +375,7 @@ as C/C++, as this is not an obstacle to most users.)
 # videogames
 |   | library                                                               | license              | API |files| description
 |---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-| * |**[app.h](https://github.com/mattiasgustavsson/libs)**                 | **public domain**    |C/C++|**1**| Windows-only-but-meant-to-be-cross-platform game-ish framework
+|   |**[app.h](https://github.com/mattiasgustavsson/libs)**                 | **public domain**    |C/C++|**1**| Windows-only-but-meant-to-be-cross-platform game-ish framework
 
 # miscellaneous
 |   | library                                                               | license              | API |files| description
@@ -385,7 +386,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [stmr](https://github.com/wooorm/stmr.c)                             | MIT                  |  C  |  2  | extract English word stems
 |   |  [levenshtein](https://github.com/wooorm/levenshtein.c)               | MIT                  |  C  |  2  | compute edit distance between two strings
 |   |  [tinytime](https://github.com/RandyGaul/tinyheaders)                 | zlib                 |C/C++|**1**| quick-and-dirty time elapsed time
-| * |  [cpp-generators](https://github.com/c-smile/cpp-generators)          | BSD                  | C++ |**1**| generators in C++
+|   |  [cpp-generators](https://github.com/c-smile/cpp-generators)          | BSD                  | C++ |**1**| generators in C++
 |   |  [PlusCallback](https://github.com/codeplea/pluscallback)             | zlib                 | C++ |**1**| function/method callbacks
 
 
