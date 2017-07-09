@@ -155,6 +155,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [pempek_assert.cpp](https://github.com/gpakosz/Assert)               | **WTFPLv2**          | C++ |  2  | flexible assertions
 |   |  [debug-assert](https://github.com/foonathan/debug_assert)            | zlib                 | C++ |**1**| modular assertion macro
 |   |  [dbgtools](https://github.com/wc-duck/dbgtools)                      | zlib                 |C/C++|  2  | cross-platform debug util libraries
+| * | [debugbreak](https://github.com/scottt/debugbreak)                    | BSD                  |C/C++|**1**| programmatic debug break
 
 # files & filenames
 |   | library                                                               | license              | API |files| description
