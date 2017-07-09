@@ -57,8 +57,6 @@ as C/C++, as this is not an obstacle to most users.)
     - [string processing](#strings)
     - [scripting](#scripting)
     - [hashing](#hashing)
-  - memory maniputlation
-    - [memory editor](#memory)
   - mathematics
     - [vector math](#vectors)
     - [geometry math](#geometry-math)
@@ -326,12 +324,6 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [Picol](https://chiselapp.com/user/dbohdan/repository/picol/)        | BSD                  |C/C++|**1**| interpreter for a Tcl-like scripting language
 |   |  [s7](https://ccrma.stanford.edu/software/snd/snd/s7.html)            | BSD                  |C/C++|  2  | interpreter for a subset of Scheme (R5RS/R7RS)
 |   |  [Duktape](http://duktape.org/)                                       | MIT                  |  C  |  2  | embeddable Javascript engine
-
-# memory
-
-|   | library                                                               | license              | API |files| description
-|---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-| * |  [easyMemoryAddressEditor](https://github.com/Kevin-Duarte/easyMemoryAddressEditor)| **public domain**|C++|**1**| Simple & easy memory address editor
 
 # strings
 |   | library                                                               | license              | API |files| description
