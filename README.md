@@ -95,8 +95,9 @@ as C/C++, as this is not an obstacle to most users.)
 # AI
 |   | library                                                               | license              | API |files| description
 |---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|   |  [micropather](http://www.grinninglizard.com/MicroPather/)            | zlib                 | C++ |  2  | pathfinding with A\*
-|   |  [Genann](https://github.com/codeplea/genann)                         | zlib                 |C/C++|  2  | simple neural networks (ANN)
+|   | [micropather](http://www.grinninglizard.com/MicroPather/)             | zlib                 | C++ |  2  | pathfinding with A\*
+|   | [Genann](https://github.com/codeplea/genann)                          | zlib                 |C/C++|  2  | simple neural networks (ANN)
+| * | [KANN](https://github.com/attractivechaos/kann)                       | MIT                  |C/C++|  2  | automatic differentiation (2 files)
 
 # argv
 |   | library                                                               | license              | API |files| description
