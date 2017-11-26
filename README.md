@@ -97,7 +97,7 @@ as C/C++, as this is not an obstacle to most users.)
 |---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |   | [micropather](http://www.grinninglizard.com/MicroPather/)             | zlib                 | C++ |  2  | pathfinding with A\*
 |   | [Genann](https://github.com/codeplea/genann)                          | zlib                 |C/C++|  2  | simple neural networks (ANN)
-| * | [KANN](https://github.com/attractivechaos/kann)                       | MIT                  |C/C++|  2  | automatic differentiation (2 files)
+|   | [KANN](https://github.com/attractivechaos/kann)                       | MIT                  |C/C++|  2  | automatic differentiation (2 files)
 
 # argv
 |   | library                                                               | license              | API |files| description
@@ -107,7 +107,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [optionparser](http://optionparser.sourceforge.net/)                 | MIT                  | C++ |**1**| command-line argument parsing
 |   |  [cmdline](https://github.com/tanakh/cmdline)                         | BSD                  | C++ |**1**| command-line argument parsing
 |   |  [linkom](https://github.com/hernandp/linkom)                         | MIT                  |C/C++|**1**| command-line argument parsing w/ DOS-style options
-| * |  [ProgramOptions.hxx](https://github.com/Fytch/ProgramOptions.hxx)    | MIT                  | C++ |**1**| command-line argument parsing
+|   |  [ProgramOptions.hxx](https://github.com/Fytch/ProgramOptions.hxx)    | MIT                  | C++ |**1**| command-line argument parsing
 
 # audio
 |   | library                                                               | license              | API |files| description
@@ -155,7 +155,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [pempek_assert.cpp](https://github.com/gpakosz/Assert)               | **WTFPLv2**          | C++ |  2  | flexible assertions
 |   |  [debug-assert](https://github.com/foonathan/debug_assert)            | zlib                 | C++ |**1**| modular assertion macro
 |   |  [dbgtools](https://github.com/wc-duck/dbgtools)                      | zlib                 |C/C++|  2  | cross-platform debug util libraries
-| * | [debugbreak](https://github.com/scottt/debugbreak)                    | BSD                  |C/C++|**1**| programmatic debug break
+|   | [debugbreak](https://github.com/scottt/debugbreak)                    | BSD                  |C/C++|**1**| programmatic debug break
 
 # files & filenames
 |   | library                                                               | license              | API |files| description
@@ -239,7 +239,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [miniexr](https://github.com/aras-p/miniexr)                         | **public domain**    | C++ |  2  | OpenEXR writer, needs header file
 |   |  [tinyexr](https://github.com/syoyo/tinyexr)                          | BSD                  |C/C++|**1**| EXR image read/write, uses miniz internally  
 |   |  [lodepng](http://lodev.org/lodepng/)                                 | zlib                 |C/C++|  2  | PNG encoder/decoder
-| * |  [NanoJPEG](http://keyj.emphy.de/nanojpeg/)                           | MIT                  |C/C++|**1**| JPEG decoder
+|   |  [NanoJPEG](http://keyj.emphy.de/nanojpeg/)                           | MIT                  |C/C++|**1**| JPEG decoder
 |   |  [nanoSVG](https://github.com/memononen/nanosvg)                      | zlib                 |C/C++|**1**| 1-file SVG parser; 1-file SVG rasterizer
 |   |  [picopng.cpp](http://lodev.org/lodepng/picopng.cpp)                  | zlib                 | C++ |  2  | tiny PNG loader
 |   |  [jpeg-compressor](https://github.com/richgel999/jpeg-compressor)     | **public domain**    | C++ |  2  | 2-file jpeg compress, 2-file jpeg decompress
@@ -307,7 +307,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [tinymemfile](https://github.com/RandyGaul/tinyheaders)              | zlib                 | C++ |**1**| fscanf on in-memory files
 |   |  [inih](https://github.com/benhoyt/inih)                              | BSD                  |C/C++|  2  | .ini file parser
 |   |**[ini.h](https://github.com/mattiasgustavsson/libs)**                 | **public domain**    |C/C++|**1**| .ini file parser
-| * |  [cmp](https://github.com/camgunz/cmp)                                | MIT                  |C/C++|  2  | MessagePack parser and serializer
+|   |  [cmp](https://github.com/camgunz/cmp)                                | MIT                  |C/C++|  2  | MessagePack parser and serializer
 
 # profiling
 |   | library                                                               | license              | API |files| description
@@ -349,7 +349,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [hippomocks](https://github.com/dascandy/hippomocks)                 | LGPL                 | C++ |**1**| unit testing
 |   |  [fctx](https://github.com/imb/fctx)                                  | BSD                  |C/C++|**1**| unit testing
 |   |  [catch](https://github.com/philsquared/Catch)				                | Boost                | C++ |**1**| unit testing
-| * |  [trompeloeil](https://github.com/rollbear/trompeloeil)                                   | Boost                | C++ |**1**| unit testing
+|   |  [trompeloeil](https://github.com/rollbear/trompeloeil)                                   | Boost                | C++ |**1**| unit testing
 
 # user interface
 |   | library                                                               | license              | API |files| description
