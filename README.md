@@ -207,6 +207,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [tigr](https://bitbucket.org/rmitton/tigr/src)                       | **public domain**    |C/C++|  2  | quick-n-dirty window text/graphics for Windows and macOS
 |   |  [noc_turtle](https://github.com/guillaumechereau/noc)                | MIT                  |C/C++|  2  | procedural graphics generator
 |   |  [Cimg](http://cimg.eu/)                                              | CeCILL/CeCILL-C      | C++ |**1**| image processing toolkit (60K LoC)
+|   |  [Immediate2D](https://github.com/npiegdon/immediate2d)               | **public domain**    | C++ |  2  | zero-configuration, immediate-mode 2D graphics for Windows
 
 # graphics (3d)
 |   | library                                                               | license              | API |files| description
