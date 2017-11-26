@@ -304,7 +304,8 @@ as C/C++, as this is not an obstacle to most users.)
 # parsing
 |   | library                                                               | license              | API |files| description
 |---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|   |  [SLRE](https://github.com/cesanta/slre)                              |_GPLv2_               |C/C++|**1**| regular expression matcher
+|   |  [SLRE](https://github.com/cesanta/slre)                              | _GPLv2_              |C/C++|**1**| regular expression matcher
+|   |  [libconfini](https://github.com/madmurphy/libconfini)                | GPLv3                |C/C++|  2  | .ini file parser
 |   |  [mm_lexer.h](https://github.com/vurtun/mmx)                          | zlib                 |C/C++|**1**| C-esque language lexer
 |   |  [minilibs](https://github.com/ccxvii/minilibs)                       | **public domain**    |  C  |  2  | two-file regex (also binary tree, etc)
 |   |  [tinymemfile](https://github.com/RandyGaul/tinyheaders)              | zlib                 | C++ |**1**| fscanf on in-memory files
