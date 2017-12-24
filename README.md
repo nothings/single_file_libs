@@ -354,6 +354,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [fctx](https://github.com/imb/fctx)                                  | BSD                  |C/C++|**1**| unit testing
 |   |  [catch](https://github.com/philsquared/Catch)				                | Boost                | C++ |**1**| unit testing
 |   |  [trompeloeil](https://github.com/rollbear/trompeloeil)                                   | Boost                | C++ |**1**| unit testing
+|   |**[utest.h](https://github.com/sheredom/utest.h)**                     | **public domain**    |C/C++|**1**| unit testing
 
 # user interface
 |   | library                                                               | license              | API |files| description
@@ -398,6 +399,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [cpp-generators](https://github.com/c-smile/cpp-generators)          | BSD                  | C++ |**1**| generators in C++
 |   |  [PlusCallback](https://github.com/codeplea/pluscallback)             | zlib                 | C++ |**1**| function/method callbacks
 |   |  [random](https://github.com/effolkronium/random)                     | MIT                  | C++ |**1**| convenient API for random
+|   |**[process.h](https://github.com/sheredom/process.h)**                 | **public domain**    |C/C++|**1**| process control API
 
 
 There are also these XML libraries, but if you're using XML, shame on you:                                             
