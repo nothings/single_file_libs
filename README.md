@@ -398,6 +398,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [cpp-generators](https://github.com/c-smile/cpp-generators)          | BSD                  | C++ |**1**| generators in C++
 |   |  [PlusCallback](https://github.com/codeplea/pluscallback)             | zlib                 | C++ |**1**| function/method callbacks
 |   |  [random](https://github.com/effolkronium/random)                     | MIT                  | C++ |**1**| convenient API for random
+| * |  [picobench](https://github.com/iboB/picobench)                       | MIT                  | C++ |**1**| microbenchmarking
 
 
 There are also these XML libraries, but if you're using XML, shame on you:                                             
