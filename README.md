@@ -120,6 +120,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [tinysound](https://github.com/RandyGaul/tinyheaders)                | zlib                 |C/C++|**1**| direct sound audio mixer & WAV loader
 |   |  [btac1c](https://github.com/cr88192/bgbtech_misc/blob/master/mini/btac1c_mini0.h)| MIT      |C/C++|**1**| MS-IMA_ADPCM variant
 |   |  [TinySoundFont](https://github.com/schellingb/TinySoundFont)         | MIT                  |C/C++|**1**| SoundFont2 loader & synthesizer
+|   |  [Geneva](https://github.com/KrzysztofSzewczyk/Geneva)                | MIT                  |C/C++|**1**| Library generating waveforms with specific properties
 
 # compression
 |   | library                                                               | license              | API |files| description
