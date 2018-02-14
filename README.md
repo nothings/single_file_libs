@@ -262,6 +262,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [amoeba](https://github.com/starwing/amoeba)                         | MIT                  |C/C++|**1**| constraint solver (Cassowary) w/Lua binding
 |   |  [simrank.hpp](https://github.com/roukaour/simrank)                   | MIT                  | C++ |  2  | SimRank graph similarity algorithm
 |   |**[rnd.h](https://github.com/mattiasgustavsson/libs)**                 | **public domain**    |C/C++|**1**| pseudo-random number generation
+|   |  [SummedAreaTable](https://github.com/corporateshark/Summed-Area-Table.git) | MIT            | C++ |**1**| Summed-Area Table generation and sum/avg queries
 
 # multithreading
 |   | library                                                               | license              | API |files| description
