@@ -284,6 +284,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [happyhttp](https://github.com/Zintinio/HappyHTTP)                   | zlib                 | C++ |  2  | HTTP client requests
 |   |**[http](https://github.com/mattiasgustavsson/libs)**                  | **public domain**    |C/C++|**1**| HTTP get/post
 |   |  [LUrlParser](https://github.com/corporateshark/LUrlParser)           | MIT                  | C++ |  2  | lightweight URL & URI parser RFC 1738, RFC 3986
+|   |  [scgi-c-library](https://github.com/semitrivial/scgi-c-library)      | MIT                  |C/C++|  2  | SCGI server
 
 # serialization
 |   | library                                                               | license              | API |files| description
