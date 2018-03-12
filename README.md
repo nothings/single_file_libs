@@ -134,6 +134,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   | library                                                               | license              | API |files| description
 |---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |   |  [TweetNaCl](http://tweetnacl.cr.yp.to/software.html)                 | **public domain**    |  C  |  2  | high-quality tiny cryptography library
+|   |  [Monocypher](https://monocypher.org)                                 | **public domain**    |  C  |  2  | high-quality small cryptography library
 
 # data structures
 |   | library                                                               | license              | API |files| description
