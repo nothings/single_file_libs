@@ -124,7 +124,7 @@ as C/C++, as this is not an obstacle to most users.)
 # compression
 |   | library                                                               | license              | API |files| description
 |---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|   |**[miniz.c](https://github.com/richgel999/miniz)**                     |**public&nbsp;domain**|C/C++|**1**| compression, decompression, ZIP file, PNG writing
+|   |**[miniz.c](https://github.com/richgel999/miniz)**                     | MIT                  |C/C++|**1**| compression, decompression, ZIP file, PNG writing
 |   |  [lz4](https://github.com/lz4/lz4)                                    | BSD                  |C/C++|  2  | fast but larger LZ compression
 |   |  [fastlz](https://code.google.com/archive/p/fastlz/source/default/source) | MIT              |C/C++|  2  | fast but larger LZ compression
 |   |  [pithy](https://github.com/johnezang/pithy)                          | BSD                  |C/C++|  2  | fast but larger LZ compression
