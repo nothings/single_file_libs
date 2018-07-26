@@ -352,7 +352,6 @@ as C/C++, as this is not an obstacle to most users.)
 |   |**[labrat](https://github.com/squarewave/labrat)**                     | **public domain**    |C/C++|**1**| unit testing
 |   |  [hippomocks](https://github.com/dascandy/hippomocks)                 | LGPL                 | C++ |**1**| unit testing
 |   |  [fctx](https://github.com/imb/fctx)                                  | BSD                  |C/C++|**1**| unit testing
-|   |  [catch](https://github.com/philsquared/Catch)				                | Boost                | C++ |**1**| unit testing
 |   |  [trompeloeil](https://github.com/rollbear/trompeloeil)                                   | Boost                | C++ |**1**| unit testing
 
 # user interface
