@@ -175,6 +175,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [tinyobjloader](https://github.com/syoyo/tinyobjloader)              | MIT                  | C++ |**1**| wavefront OBJ file loader
 |   |  [tinyobjloader-c](https://github.com/syoyo/tinyobjloader-c)          | MIT                  |  C  |**1**| wavefront OBJ file loader
 |   |  [yocto_obj.h](https://github.com/xelatihy/yocto-gl)                  | MIT                  |C/C++|**1**| wavefront OBJ file loader
+|   |  [fast_obj.h](https://github.com/thisistherk/fast_obj)                | MIT                  |  C  |**1**| wavefront OBJ file loader
 
 # geometry math
 |   | library                                                               | license              | API |files| description
