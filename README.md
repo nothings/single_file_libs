@@ -109,7 +109,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [cmdline](https://github.com/tanakh/cmdline)                         | BSD                  | C++ |**1**| command-line argument parsing
 |   |  [linkom](https://github.com/hernandp/linkom)                         | MIT                  |C/C++|**1**| command-line argument parsing w/ DOS-style options
 |   |  [ProgramOptions.hxx](https://github.com/Fytch/ProgramOptions.hxx)    | MIT                  | C++ |**1**| command-line argument parsing
-|   |**[Clara](https://github.com/catchorg/Clara)                           | Boost                | C++ |**1**| composable, command line parser for C++ 11 and beyond
+| * |  [Clara](https://github.com/catchorg/Clara)                           | Boost                | C++ |**1**| composable, command line parser for C++ 11 and beyond
 
 # audio
 |   | library                                                               | license              | API |files| description
@@ -352,7 +352,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |**[labrat](https://github.com/squarewave/labrat)**                     | **public domain**    |C/C++|**1**| unit testing
 |   |  [hippomocks](https://github.com/dascandy/hippomocks)                 | LGPL                 | C++ |**1**| unit testing
 |   |  [fctx](https://github.com/imb/fctx)                                  | BSD                  |C/C++|**1**| unit testing
-|   |**[catch2](https://github.com/catchorg/Catch2)				                  | Boost                | C++ |**1**| unit testing
+| * |  [catch2](https://github.com/catchorg/Catch2)				                  | Boost                | C++ |**1**| unit testing
 |   |  [trompeloeil](https://github.com/rollbear/trompeloeil)               | Boost                | C++ |**1**| unit testing
 
 # user interface
