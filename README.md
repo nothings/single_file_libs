@@ -148,6 +148,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [simclist](http://mij.oltrelinux.com/devel/simclist)                 | BSD                  |C/C++|  2  | linked-list
 |   |  [selist](https://github.com/ennorehling/clibs)                       | ISC                  |C/C++|  2  | space-efficient linked-list
 |   |  [avl](https://github.com/etherealvisage/avl)                         | **public domain**    |C/C++|  2  | AVL tree
+|   |  [DynaVar](https://github.com/ArjArav98/DynaVar)                         | GPL-3.0    |C++|  1  | Object which can store any type of primitive data type.
 
 # debugging
 |   | library                                                               | license              | API |files| description
