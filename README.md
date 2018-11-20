@@ -251,6 +251,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [TinyEXIF](https://github.com/cdcseacave/TinyEXIF)                   | BSD                  | C++ |  2  | Parse EXIF data from JPEG (XMP w/ TinyXML2 lib)
 |   |**[cro_mipmap.h](https://github.com/thebeast33/cro_lib)**              | **public domain**    |C/C++|**1**| average, min, max mipmap generators
 |   |  [PDFgen](https://github.com/AndreRenaud/PDFGen)                      | **public domain**    |  C  |  2  | PDF writer |
+|   |  [TinyPngOutput](https://www.nayuki.io/page/tiny-png-output)          | LGPLv3               |C/C++|  2  | PNG writer |
 
 # math
 |   | library                                                               | license              | API |files| description
