@@ -166,6 +166,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [dirent](https://github.com/tronkko/dirent)                          | MIT                  |C/C++|**1**| dirent for Windows: retrieve file & dir info
 |   |  [TinyDir](https://github.com/cxong/tinydir)                          | BSD                  |  C  |**1**| cross-platform directory reading (Win/POSIX/MinGW)
 |   |  [tinyfiles](https://github.com/RandyGaul/tinyheaders)                | zlib                 |C/C++|**1**| cross-platform directory reading (Win/Mac/Unix)
+|   |  [tfile](https://github.com/rec/tfile)                                | MIT                  |C++|**1**| FILE* wrapper does read-write-append-seek-close (Win/Mac/Unix)
 
 # geometry file
 |   | library                                                               | license              | API |files| description
