@@ -109,6 +109,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [cmdline](https://github.com/tanakh/cmdline)                         | BSD                  | C++ |**1**| command-line argument parsing
 |   |  [linkom](https://github.com/hernandp/linkom)                         | MIT                  |C/C++|**1**| command-line argument parsing w/ DOS-style options
 |   |  [ProgramOptions.hxx](https://github.com/Fytch/ProgramOptions.hxx)    | MIT                  | C++ |**1**| command-line argument parsing
+|   |  [kgflags](https://github.com/kgabis/kgflags)                         | MIT                  |C/C++|**1**| command-line argument parsing
 
 # audio
 |   | library                                                               | license              | API |files| description
