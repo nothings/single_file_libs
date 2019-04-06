@@ -63,6 +63,7 @@ as C/C++, as this is not an obstacle to most users.)
     - [general math](#math)
   - parsing
     - [JSON](#json)
+    - [CSV](#csv)
     - [other serialization](#serialization)
     - [argv argument processing](#argv)
     - [other parsing](#parsing)
@@ -301,6 +302,13 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [json.hpp](https://github.com/nlohmann/json)                         | MIT                  | C++ |**1**| JSON parse, serialize, deserialize
 |   |  [cJSON](https://sourceforge.net/projects/cjson/)                     | MIT                  |C/C++|**1**| JSON parser
 |   |  [ajson](https://github.com/lordoffox/ajson)                          | Boost                | C++ |**1**| JSON serialize & deserialize w/ STL support
+
+# csv
+|   | library                                                               | license              | API |files| description
+|---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+|   |  [Rapidcsv](https://github.com/d99kris/rapidcsv/)                     | BSD                  | C++ |**1**| CSV parser
+|   |  [CSVstream](https://github.com/awdeorio/csvstream/)                  | MIT                  | C++ |**1**| CSV parser
+|   |  [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) | BSD            | C++ |**1**| CSV parser
 
 # parsing
 |   | library                                                               | license              | API |files| description
