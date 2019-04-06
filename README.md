@@ -345,6 +345,7 @@ as C/C++, as this is not an obstacle to most users.)
 |---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |   |  [utest](https://github.com/evolutional/utest)                        | MIT                  |C/C++|**1**| unit testing
 |   |  [catch](https://github.com/philsquared/Catch)                        | Boost                | C++ |**1**| unit testing
+|   |  [catch2](https://github.com/catchorg/Catch2/)                        | Boost                | C++ |**1**| unit testing
 |   |  [doctest](https://github.com/onqtam/doctest)                         | MIT                  | C++ |**1**| unit testing
 |   |  [SPUT](http://www.lingua-systems.com/unit-testing/)                  | BSD                  |C/C++|**1**| unit testing
 |   |  [minctest](https://github.com/codeplea/minctest)                     | zlib                 |  C  |**1**| unit testing
@@ -353,7 +354,6 @@ as C/C++, as this is not an obstacle to most users.)
 |   |**[labrat](https://github.com/squarewave/labrat)**                     | **public domain**    |C/C++|**1**| unit testing
 |   |  [hippomocks](https://github.com/dascandy/hippomocks)                 | LGPL                 | C++ |**1**| unit testing
 |   |  [fctx](https://github.com/imb/fctx)                                  | BSD                  |C/C++|**1**| unit testing
-|   |  [catch](https://github.com/philsquared/Catch)				                | Boost                | C++ |**1**| unit testing
 |   |  [trompeloeil](https://github.com/rollbear/trompeloeil)                                   | Boost                | C++ |**1**| unit testing
 
 # user interface
