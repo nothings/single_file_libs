@@ -64,6 +64,7 @@ as C/C++, as this is not an obstacle to most users.)
   - parsing
     - [JSON](#json)
     - [YAML](#yaml)
+    - [CSV](#csv)
     - [other serialization](#serialization)
     - [argv argument processing](#argv)
     - [other parsing](#parsing)
@@ -121,6 +122,8 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [tinysound](https://github.com/RandyGaul/tinyheaders)                | zlib                 |C/C++|**1**| direct sound audio mixer & WAV loader
 |   |  [btac1c](https://github.com/cr88192/bgbtech_misc/blob/master/mini/btac1c_mini0.h)| MIT      |C/C++|**1**| MS-IMA_ADPCM variant
 |   |  [TinySoundFont](https://github.com/schellingb/TinySoundFont)         | MIT                  |C/C++|**1**| SoundFont2 loader & synthesizer
+|   |  [minimp3](https://github.com/lieff/minimp3)                          | CC0                  |  C  |**1**| Minimalistic MP3 decoder with sse/neon support
+|   |**[miniaudio](https://github.com/dr-soft/miniaudio)**                  | **public domain**    |C/C++|**1**| Audio playback and capture library
 
 # compression
 |   | library                                                               | license              | API |files| description
@@ -149,6 +152,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [simclist](http://mij.oltrelinux.com/devel/simclist)                 | BSD                  |C/C++|  2  | linked-list
 |   |  [selist](https://github.com/ennorehling/clibs)                       | ISC                  |C/C++|  2  | space-efficient linked-list
 |   |  [avl](https://github.com/etherealvisage/avl)                         | **public domain**    |C/C++|  2  | AVL tree
+|   |  [mempool](https://github.com/hardikp/cpp-mempool)                    | MIT                  | C++ |**1**| Efficient minimal memory pool implementation for C++
 
 # debugging
 |   | library                                                               | license              | API |files| description
@@ -222,6 +226,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |**[seamoptimizer](https://github.com/ands/seamoptimizer)**             | **public domain**    |C/C++|**1**| modify lightmap data to hide seams
 |   |  [tinygizmo](https://github.com/ddiakopoulos/tinygizmo)               | **public domain**    | C++ |  2  | gizmo objects for interactively editing 3d transformations
 |   |**[Vertex Cache Optimizer](https://github.com/Sigkill79/sts)**         | **public domain**    |C/C++|**1**| vertex cache optimization of meshes
+|   |  [sokol_gfx.h](https://github.com/floooh/sokol)                       | MIT                  |C/C++|**1**| cross-platform 3D API wrapper (GLES2+3/GL3/D3D11/Metal)
 
 # hardware
 |   | library                                                               | license              | API |files| description
@@ -307,6 +312,13 @@ as C/C++, as this is not an obstacle to most users.)
 |---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |   |  [mini-yaml](https://github.com/jimmiebergmann/mini-yaml)             | MIT                  | C++ |  2  | YAML parser and serializer
 
+# csv
+|   | library                                                               | license              | API |files| description
+|---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+|   |  [Rapidcsv](https://github.com/d99kris/rapidcsv/)                     | BSD                  | C++ |**1**| CSV parser
+|   |  [CSVstream](https://github.com/awdeorio/csvstream/)                  | MIT                  | C++ |**1**| CSV parser
+|   |  [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) | BSD            | C++ |**1**| CSV parser
+
 # parsing
 |   | library                                                               | license              | API |files| description
 |---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
@@ -350,6 +362,7 @@ as C/C++, as this is not an obstacle to most users.)
 |---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |   |  [utest](https://github.com/evolutional/utest)                        | MIT                  |C/C++|**1**| unit testing
 |   |  [catch](https://github.com/philsquared/Catch)                        | Boost                | C++ |**1**| unit testing
+|   |  [catch2](https://github.com/catchorg/Catch2/)                        | Boost                | C++ |**1**| unit testing
 |   |  [doctest](https://github.com/onqtam/doctest)                         | MIT                  | C++ |**1**| unit testing
 |   |  [SPUT](http://www.lingua-systems.com/unit-testing/)                  | BSD                  |C/C++|**1**| unit testing
 |   |  [minctest](https://github.com/codeplea/minctest)                     | zlib                 |  C  |**1**| unit testing
@@ -358,8 +371,8 @@ as C/C++, as this is not an obstacle to most users.)
 |   |**[labrat](https://github.com/squarewave/labrat)**                     | **public domain**    |C/C++|**1**| unit testing
 |   |  [hippomocks](https://github.com/dascandy/hippomocks)                 | LGPL                 | C++ |**1**| unit testing
 |   |  [fctx](https://github.com/imb/fctx)                                  | BSD                  |C/C++|**1**| unit testing
-|   |  [catch](https://github.com/philsquared/Catch)				                | Boost                | C++ |**1**| unit testing
 |   |  [trompeloeil](https://github.com/rollbear/trompeloeil)                                   | Boost                | C++ |**1**| unit testing
+|   |**[utest.h](https://github.com/sheredom/utest.h)**                     | **public domain**    |C/C++|**1**| unit testing
 
 # user interface
 |   | library                                                               | license              | API |files| description
@@ -370,6 +383,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [tinyfiledialogs](https://sourceforge.net/projects/tinyfiledialogs/) | ZLIB                 |C/C++|  2  | modal dialogs inc. file open/save (Win/Mac/Linux)
 |   |  [linenoise](https://github.com/antirez/linenoise)                    | BSD                  |C/C++|  2  | terminal readline w/ history etc
 |   |  [wcwidth9](https://github.com/joshuarubin/wcwidth9)                  | Apache 2.0           | C   |  1  | platform independent wcwidth with full unicode 9 support
+|   |  [libcmdf](https://github.com/ronen25/libcmdf)                        | **public domain**    | C   |**1**| a small library for writing CLI applications
 
 # vectors
 |   | library                                                               | license              | API |files| description
@@ -404,6 +418,10 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [cpp-generators](https://github.com/c-smile/cpp-generators)          | BSD                  | C++ |**1**| generators in C++
 |   |  [PlusCallback](https://github.com/codeplea/pluscallback)             | zlib                 | C++ |**1**| function/method callbacks
 |   |  [random](https://github.com/effolkronium/random)                     | MIT                  | C++ |**1**| convenient API for random
+|   |  [sokol_time.h](https://github.com/floooh/sokol)                      | MIT                  |C/C++|**1**| cross-platform time measurement
+| * |  [picobench](https://github.com/iboB/picobench)                       | MIT                  | C++ |**1**| microbenchmarking
+|   |  [ASAP](https://github.com/mobius3/asap)                              | MIT                  | C++ |**1**| library for parsing, printing, iterating and operating on dates.
+|   |**[process.h](https://github.com/sheredom/process.h)**                 | **public domain**    |C/C++|**1**| process control API
 
 
 There are also these XML libraries, but if you're using XML, shame on you:                                             
