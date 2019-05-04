@@ -156,6 +156,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [simclist](http://mij.oltrelinux.com/devel/simclist)                 | BSD                  |C/C++|  2  | linked-list
 |   |  [selist](https://github.com/ennorehling/clibs)                       | ISC                  |C/C++|  2  | space-efficient linked-list
 |   |  [avl](https://github.com/etherealvisage/avl)                         | **public domain**    |C/C++|  2  | AVL tree
+|   |  [c-bool-value](https://github.com/lduck11007/c-bool-value)           | **WTFPLv2**          |C/C++|  1  | Simple and easy boolean values in standard c
 |   |  [mempool](https://github.com/hardikp/cpp-mempool)                    | MIT                  | C++ |**1**| Efficient minimal memory pool implementation for C++
 
 # debugging
