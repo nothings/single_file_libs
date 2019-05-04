@@ -179,6 +179,7 @@ as C/C++, as this is not an obstacle to most users.)
 # geometry file
 |   | library                                                               | license              | API |files| description
 |---| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+|   |  [cgltf](https://github.com/jkuhlmann/cgltf)                          | MIT                  |  C  |**1**| glTF 2.0 file loader
 |   |  [tk_objfile](https://github.com/joeld42/tk_objfile)                  | MIT                  |C/C++|**1**| OBJ file loader
 |   |  [tinyply](https://github.com/ddiakopoulos/tinyply)                   | **public domain**    | C++ |  2  | PLY mesh file loader
 |   |  [tinyobjloader](https://github.com/syoyo/tinyobjloader)              | MIT                  | C++ |**1**| wavefront OBJ file loader
