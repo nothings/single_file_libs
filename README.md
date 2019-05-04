@@ -204,7 +204,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [Voxelizer](https://github.com/karimnaaji/voxelizer)                 | MIT                  |C/C++|**1**| convert triangle mesh to voxel triangle mesh
 |   |  [yocto_bvh.h](https://github.com/xelatihy/yocto-gl)                  | MIT                  |C/C++|**1**| ray-casting and closest-element queries of bounding-volume hierarchy
 |   |  [yocto_shape.h](https://github.com/xelatihy/yocto-gl)                | MIT                  |C/C++|**1**| shape generation, tesselation, normals, etc.
-|   |**[rjm](https://github.com/rmitton/rjm)**                              | **public domain**    |C/C++|**1**| marching cubes triangulator
+|   |**[rjm_mc.h](https://github.com/rmitton/rjm)**                         | **public domain**    |C/C++|**1**| marching cubes triangulator
 
 # graphics (text)
 |   | library                                                               | license              | API |files| description
@@ -232,6 +232,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |**[seamoptimizer](https://github.com/ands/seamoptimizer)**             | **public domain**    |C/C++|**1**| modify lightmap data to hide seams
 |   |  [tinygizmo](https://github.com/ddiakopoulos/tinygizmo)               | **public domain**    | C++ |  2  | gizmo objects for interactively editing 3d transformations
 |   |**[Vertex Cache Optimizer](https://github.com/Sigkill79/sts)**         | **public domain**    |C/C++|**1**| vertex cache optimization of meshes
+|   |  [rjm_raytrace.h](https://github.com/rmitton/rjm)                     | **public domain**    |C/C++|**1**| minimalistic SSE packet raytracer for offline baking
 |   |  [sokol_gfx.h](https://github.com/floooh/sokol)                       | MIT                  |C/C++|**1**| cross-platform 3D API wrapper (GLES2+3/GL3/D3D11/Metal)
 
 # hardware
@@ -263,6 +264,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [TinyEXIF](https://github.com/cdcseacave/TinyEXIF)                   | BSD                  | C++ |  2  | Parse EXIF data from JPEG (XMP w/ TinyXML2 lib)
 |   |**[cro_mipmap.h](https://github.com/thebeast33/cro_lib)**              | **public domain**    |C/C++|**1**| average, min, max mipmap generators
 |   |  [PDFgen](https://github.com/AndreRenaud/PDFGen)                      | **public domain**    |  C  |  2  | PDF writer |
+|   |  [rjm_texbleed.h](https://github.com/rmitton/rjm)                     | **public domain**    |C/C++|**1**| Fills in the color of pixels where alpha==0 
 |   |  [TinyPngOutput](https://www.nayuki.io/page/tiny-png-output)          | LGPLv3               |C/C++|  2  | PNG writer |
 
 # math
