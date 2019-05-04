@@ -134,6 +134,7 @@ as C/C++, as this is not an obstacle to most users.)
 |   |  [fastlz](https://code.google.com/archive/p/fastlz/source/default/source) | MIT              |C/C++|  2  | fast but larger LZ compression
 |   |  [pithy](https://github.com/johnezang/pithy)                          | BSD                  |C/C++|  2  | fast but larger LZ compression
 |   |  [microtar](https://github.com/rxi/microtar)                          | MIT                  |C/C++|  2  | lightweight tar library
+|   |  [dmc_unrar](https://github.com/DrMcCoy/dmc_unrar)                    | GPLv2+               |C/C++|**1**| RAR file decompression
 
 # crypto
 |   | library                                                               | license              | API |files| description
