@@ -284,6 +284,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [simrank.hpp](https://github.com/roukaour/simrank)                   | MIT                  | C++ |  2  | SimRank graph similarity algorithm
 |**[rnd.h](https://github.com/mattiasgustavsson/libs)**                 | **public domain**    |C/C++|**1**| pseudo-random number generation
 |  [SummedAreaTable](https://github.com/corporateshark/Summed-Area-Table.git) | MIT            | C++ |**1**| Summed-Area Table generation and sum/avg queries
+|  [fft](https://github.com/wareya/fft)                                 | **public domain**    | C++ |**1**| Fast Fourier Transform |
 
 # multithreading
 | library                                                               | license              | API |files| description
