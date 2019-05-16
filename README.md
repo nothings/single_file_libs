@@ -443,6 +443,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [picobench](https://github.com/iboB/picobench)                       | MIT                  | C++ |**1**| microbenchmarking
 |  [ASAP](https://github.com/mobius3/asap)                              | MIT                  | C++ |**1**| library for parsing, printing, iterating and operating on dates.
 |**[process.h](https://github.com/sheredom/process.h)**                 | **public domain**    |C/C++|**1**| process control API
+|  [Hedley](https://nemequ.github.io/hedley/)                           | **public domain**    |C/C++|**1**| compiler portability, optimization, static analysis, etc.
 
 
 There are also these XML libraries, but if you're using XML, shame on you:
