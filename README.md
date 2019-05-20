@@ -337,6 +337,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [Rapidcsv](https://github.com/d99kris/rapidcsv/)                     | BSD                  | C++ |**1**| CSV parser
 |  [CSVstream](https://github.com/awdeorio/csvstream/)                  | MIT                  | C++ |**1**| CSV parser
 |  [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) | BSD            | C++ |**1**| CSV parser
+|  [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser)    | MIT                  | C++ |**1**| CSV parser and serializer
 
 # parsing
 | library                                                               | license              | API |files| description
