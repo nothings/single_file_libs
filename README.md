@@ -161,6 +161,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [avl](https://github.com/etherealvisage/avl)                         | **public domain**    |C/C++|  2  | AVL tree
 |  [c-bool-value](https://github.com/lduck11007/c-bool-value)           | **WTFPLv2**          |C/C++|  1  | Simple and easy boolean values in standard c
 |  [mempool](https://github.com/hardikp/cpp-mempool)                    | MIT                  | C++ |**1**| Efficient minimal memory pool implementation for C++
+|  [DynaVar](https://github.com/ArjArav98/DynaVar)                      | GPL-3.0              | C++ |  1  | Object which can store any type of primitive data type
 
 # debugging
 | library                                                               | license              | API |files| description
@@ -450,6 +451,7 @@ There are also these XML libraries, but if you're using XML, shame on you:
 
 - parsing: [tinyxml2](https://github.com/leethomason/tinyxml2): XML
 - parsing: [pugixml](http://pugixml.org/): XML (MIT license)
+- parsing: [yxml](https://dev.yorhel.nl/yxml): XML (MIT license)
 
 ## New libraries and corrections
 
