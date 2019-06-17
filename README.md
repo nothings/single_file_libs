@@ -128,6 +128,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [pocketmod](https://github.com/rombankzero/pocketmod)                | MIT                  |C/C++|**1**| ProTracker MOD file renderer
 |  [minimp3](https://github.com/lieff/minimp3)                          | CC0                  |  C  |**1**| Minimalistic MP3 decoder with sse/neon support
 |**[miniaudio](https://github.com/dr-soft/miniaudio)**                  | **public domain**    |C/C++|**1**| Audio playback and capture library
+|  [Geneva](https://github.com/KrzysztofSzewczyk/Geneva)                | MIT                  |C/C++|**1**| Library generating 8-bit waveforms of various kinds
 
 # compression
 | library                                                               | license              | API |files| description
