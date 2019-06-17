@@ -297,6 +297,7 @@ as C/C++, as this is not an obstacle to most users.)
 |**[thread.h](https://github.com/mattiasgustavsson/libs)**              | **public domain**    |C/C++|**1**| cross-platform thread primitives
 |  [TinyCThread](https://tinycthread.github.io/)                        | zlib                 |C/C++|  2  | cross-platform implementation of the C11 Threads API
 |  [TinyThread++](https://tinythreadpp.bitsnbites.eu/)                  | zlib                 | C++ |  2  | cross-platform implementation of the C++11 Threads API
+|  [bikeshed.h](https://github.com/DanEngelbrecht/bikeshed)             | MIT                  |C/C++|**1**| cross-platform lock free fixed memory hierarchical work scheduler 
 
 # network
 | library                                                               | license              | API |files| description
