@@ -212,6 +212,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [yocto_bvh.h](https://github.com/xelatihy/yocto-gl)                  | MIT                  |C/C++|**1**| ray-casting and closest-element queries of bounding-volume hierarchy
 |  [yocto_shape.h](https://github.com/xelatihy/yocto-gl)                | MIT                  |C/C++|**1**| shape generation, tesselation, normals, etc.
 |**[rjm_mc.h](https://github.com/rmitton/rjm)**                         | **public domain**    |C/C++|**1**| marching cubes triangulator
+|  [xatlas](https://github.com/jpcy/xatlas)                             | MIT                  | C++ |  2  | mesh parameterization
 
 # graphics (text)
 | library                                                               | license              | API |files| description
