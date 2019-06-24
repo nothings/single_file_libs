@@ -162,6 +162,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [selist](https://github.com/ennorehling/clibs)                       | ISC                  |C/C++|  2  | space-efficient linked-list
 |  [mempool](https://github.com/hardikp/cpp-mempool)                    | MIT                  | C++ |**1**| Efficient minimal memory pool implementation for C++
 |  [uthash](https://github.com/troydhanson/uthash)                      | BSD                  |C/C++|  2  | several 1-header, 1-license-file libs: generic hash, list, etc
+|  [px_mem.h](https://github.com/pplux/px/blob/master/px_mem.h)         | MIT                  | C++ |  1  | Safe memory managemnt constructs for C++
 
 # debugging
 | library                                                               | license              | API |files| description
@@ -243,7 +244,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)|MIT|C/C++|**1**| memory allocator for Vulkan
 |  [yocto_trace.h](https://github.com/xelatihy/yocto-gl)                | MIT                  |C/C++|**1**| physically-based unidirectional path tracer w/ MIS for direct lights
 |  [yocto_symrigid.h](https://github.com/xelatihy/yocto-gl)             | MIT                  |C/C++|**1**| rigid body simulator (sequential impulse/PGS) with support for concave objects
-
+|  [px_render.h](https://github.com/pplux/px/blob/master/px_render.h)   | MIT                  | C++ |**1**| cross-platform, Multithreaded, command based, 3D render API (GL/GLES) [info](https://github.com/pplux/px/blob/master/README_px_render.md)
 # hardware
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
@@ -298,6 +299,7 @@ as C/C++, as this is not an obstacle to most users.)
 |**[thread.h](https://github.com/mattiasgustavsson/libs)**              | **public domain**    |C/C++|**1**| cross-platform thread primitives
 |  [TinyCThread](https://tinycthread.github.io/)                        | zlib                 |C/C++|  2  | cross-platform implementation of the C11 Threads API
 |  [TinyThread++](https://tinythreadpp.bitsnbites.eu/)                  | zlib                 | C++ |  2  | cross-platform implementation of the C++11 Threads API
+|  [px_sched.h](https://github.com/pplux/px/blob/master/px_sched.h)     | MIT                  | C++ |  1  | cross-platform task scheduler [info](https://github.com/pplux/px/blob/master/README_px_sched.md)
 
 # network
 | library                                                               | license              | API |files| description
