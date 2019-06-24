@@ -434,6 +434,7 @@ as C/C++, as this is not an obstacle to most users.)
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |**[app.h](https://github.com/mattiasgustavsson/libs)**                 | **public domain**    |C/C++|**1**| Windows-only-but-meant-to-be-cross-platform game-ish framework
+|  [raycastlib.h](https://gitlab.com/drummyfish/raycastlib)             | CC0 + patent waiver  |C/C++|**1**| advanced raycasting rendering library, pure C99 with no dependencies, only 32bit int math
 
 # miscellaneous
 | library                                                               | license              | API |files| description
