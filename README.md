@@ -302,6 +302,7 @@ as C/C++, as this is not an obstacle to most users.)
 # network
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+|  [cpp-httplib](https://github.com/yhirose/cpp-httplib)                | MIT                  |C/C++|  1  | cross-platform HTTP server/client
 |  [civetweb](https://github.com/civetweb/civetweb)                     | MIT                  |C/C++|  2  | HTTP server, fork of Mongoose
 |  [EWS](https://github.com/hellerf/EmbeddableWebServer)                | BSD                  |C/C++|**1**| HTTP server
 |  [happyhttp](https://github.com/Zintinio/HappyHTTP)                   | zlib                 | C++ |  2  | HTTP client requests
