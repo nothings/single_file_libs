@@ -442,7 +442,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [cpp-generators](https://github.com/c-smile/cpp-generators)          | BSD                  | C++ |**1**| generators in C++
 |  [Hedley](https://nemequ.github.io/hedley/)                           | **public domain**    |C/C++|**1**| compiler portability, optimization, static analysis, etc.
 |  [levenshtein](https://github.com/wooorm/levenshtein.c)               | MIT                  |C/C++|  2  | compute edit distance between two strings
-|  [nanoprintf](https://github.com/charlesnicholson/nanoprintf)                     | **public domain**                | C/C++ |**1**| C89/C90 embedded-friendly printf lib
+|  [nanoprintf](https://github.com/charlesnicholson/nanoprintf)                     | **public domain**                | C/C++ |**1**| C89/C90 embedded-friendly tiny printf lib that prints floats
 |  [MakeID.h](http://www.humus.name/3D/MakeID.h)                        | **public domain**    | C++ |**1**| allocate/deallocate small integer IDs efficiently
 |  [picobench](https://github.com/iboB/picobench)                       | MIT                  | C++ |**1**| microbenchmarking
 |  [PlusCallback](https://github.com/codeplea/pluscallback)             | zlib                 | C++ |**1**| function/method callbacks
