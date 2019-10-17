@@ -149,7 +149,7 @@ as C/C++, as this is not an obstacle to most users.)
 # data structures
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|**[aArray](https://tse.gratis/aArray/)**                               | **public domain**    |C/C++|**1**| Arrays/strings: generic, safe
+|**[aArray](https://tse.gratis/aArray/)**                               | **public domain**    |  C  |**1**| Arrays/strings: generic, safe
 |  [avl](https://github.com/etherealvisage/avl)                         | **public domain**    |C/C++|  2  | AVL tree
 |  [c-bool-value](https://github.com/lduck11007/c-bool-value)           | **WTFPLv2**          |C/C++|  1  | Simple and easy boolean values in standard c
 |  [chobo-shl](https://github.com/Chobolabs/chobo-shl)                  | MIT                  | C++ |**1**| several C++11 standard contaner like libraries and helpers
