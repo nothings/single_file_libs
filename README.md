@@ -210,6 +210,8 @@ as C/C++, as this is not an obstacle to most users.)
 |  [sdf.h](https://github.com/memononen/SDF)                            | MIT                  |C/C++|**1**| compute signed-distance field from antialiased image
 |  [Tomas Akenine-Moller snippets](http://tinyurl.com/ht79ndj)          | **public domain**    |C/C++|  2  | various 3D intersection calculations, not lib-ified
 |  [Voxelizer](https://github.com/karimnaaji/voxelizer)                 | MIT                  |C/C++|**1**| convert triangle mesh to voxel triangle mesh
+|  [3d-Quickhull](https://github.com/karimnaaji/3d-quickhull)           | MIT                  |C/C++|**1**| hull generation from triangle mesh
+|  [Melt](https://github.com/karimnaaji/melt)                           | MIT                  |C/C++|**1**| automatic conservative occluder generation
 |  [xatlas](https://github.com/jpcy/xatlas)                             | MIT                  | C++ |  2  | mesh parameterization
 |  [yocto_bvh.h](https://github.com/xelatihy/yocto-gl)                  | MIT                  |C/C++|**1**| ray-casting and closest-element queries of bounding-volume hierarchy
 |  [yocto_shape.h](https://github.com/xelatihy/yocto-gl)                | MIT                  |C/C++|**1**| shape generation, tesselation, normals, etc.
