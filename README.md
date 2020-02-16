@@ -193,6 +193,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [tinyobjloader-c](https://github.com/syoyo/tinyobjloader-c)          | MIT                  |  C  |**1**| wavefront OBJ file loader
 |  [tk_objfile](https://github.com/joeld42/tk_objfile)                  | MIT                  |C/C++|**1**| OBJ file loader
 |  [yocto_obj.h](https://github.com/xelatihy/yocto-gl)                  | MIT                  |C/C++|**1**| wavefront OBJ file loader
+|  [qll_q3.h](https://github.com/dav64/qll)                             | **WTFPLv2**          | C++ |**1**| Quake3 BSP loader
 
 # geometry math
 | library                                                               | license              | API |files| description
