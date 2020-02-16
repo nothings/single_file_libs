@@ -424,6 +424,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [linalg.h](https://github.com/sgorsten/linalg)                       | **public domain**    | C++ |**1**| vector/matrix/quaternion math
 |  [linalg](https://github.com/ilyak/linalg)                            | ISC                  |C/C++|**1**| vector/matrix/quaternion math
 |  [mm_vec.h](https://github.com/vurtun/mmx)                            | BSD                  |C/C++|**1**| SIMD vector math
+|  [hypatia](https://github.com/dagostinelli/hypatia)                   | MIT                  |  C  |**1**| vector/matrix/quaternion math
 
 # video
 | library                                                               | license              | API |files| description
