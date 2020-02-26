@@ -398,6 +398,7 @@ as C/C++, as this is not an obstacle to most users.)
 |**[labrat](https://github.com/squarewave/labrat)**                     | **public domain**    |C/C++|**1**| unit testing
 |  [minctest](https://github.com/codeplea/minctest)                     | zlib                 |  C  |**1**| unit testing
 |  [munit](https://github.com/nemequ/munit)                             | MIT                  |  C  |**1**| unit testing
+|**[Rexo](https://github.com/christophercrouzet/rexo)**                 | **public domain**    |C/C++|**1**| framework for C89/C++ featuring automatic registration of tests and a polished API
 |  [SPUT](http://www.lingua-systems.com/unit-testing/)                  | BSD                  |C/C++|**1**| unit testing
 |  [trompeloeil](https://github.com/rollbear/trompeloeil)               | Boost                | C++ |**1**| unit testing
 |  [utest](https://github.com/evolutional/utest)                        | MIT                  |C/C++|**1**| unit testing
