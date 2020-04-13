@@ -222,7 +222,7 @@ as C/C++, as this is not an obstacle to most users.)
 # graphics (2d)
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|  [blendish](https://bitbucket.org/duangle/oui-blendish/src)           | MIT                  |C/C++|  1  | blender-style widget rendering using NanoVG
+|  [blendish](https://hg.sr.ht/~duangle/oui-blendish)                   | MIT                  |C/C++|  1  | blender-style widget rendering using NanoVG
 |  [Cimg](http://cimg.eu/)                                              | CeCILL/CeCILL-C      | C++ |**1**| image processing toolkit (60K LoC)
 |  [Immediate2D](https://github.com/npiegdon/immediate2d)               | **public domain**    | C++ |  2  | zero-configuration, immediate-mode 2D graphics for Windows
 |  [noc_turtle](https://github.com/guillaumechereau/noc)                | MIT                  |C/C++|  2  | procedural graphics generator
