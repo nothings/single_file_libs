@@ -263,6 +263,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  GIF [gif.h](https://github.com/ginsweater/gif-h)                     | **public domain**    | C++ |**1**| animated GIF writer (can only include once)
 |  GIF **[gif_load](https://github.com/hidefromkgb/gif_load)**          | **public domain**    |C/C++|**1**| (animated) GIF reader
 |  GIF [jo_gif.cpp](http://www.jonolick.com/home/gif-writer)            | **public domain**    | C++ |**1**| animated GIF writer (CPP file can also be used as H file)
+|  GIF **[msf_gif.h](https://github.com/notnullnotvoid/msf_gif)**       | **public domain**    |C/C++|**1**| animated GIF writer
 |  JPG [jpeg-compressor](https://github.com/richgel999/jpeg-compressor) | **public domain**    | C++ |  2  | 2-file JPEG compress, 2-file JPEG decompress
 |  JPG [NanoJPEG](http://keyj.emphy.de/nanojpeg/)                       | MIT                  |C/C++|**1**| JPEG decoder
 |  JPG **[tiny_jpeg.h](https://github.com/serge-rgb/TinyJPEG/)**        | **public domain**    |C/C++|**1**| JPEG encoder
