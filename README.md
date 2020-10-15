@@ -106,7 +106,7 @@ as C/C++, as this is not an obstacle to most users.)
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |  [Argh!](https://github.com/adishavit/argh)                           | BSD                  | C++ |**1**| command-line argument parsing
 |  [Clara](https://github.com/catchorg/Clara)                           | Boost                | C++ |**1**| composable, command line parser for C++ 11 and beyond
-|  [CLI11](https://github.com/CLIUtils/CLI11)                           | BSD                  | C++ |**1**| Feature-rich CLI parsing in modern C++11 
+|  [CLI11](https://github.com/CLIUtils/CLI11)                           | BSD                  | C++ |**1**| Feature-rich CLI parsing in modern C++11
 |  [cmdline](https://github.com/tanakh/cmdline)                         | BSD                  | C++ |**1**| command-line argument parsing
 |  [flags](https://github.com/sailormoon/flags)                         | **public domain**    | C++ |**1**| command-line argument parsing
 |  [kgflags](https://github.com/kgabis/kgflags)                         | MIT                  |C/C++|**1**| command-line argument parsing
@@ -275,7 +275,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  PNM [PNM](https://github.com/dmilos/PNM)                             | Apache 2.0           | C++ |  1  | PBM, PGM and PPM reader and writer |
 |  SVG [nanoSVG](https://github.com/memononen/nanosvg)                  | zlib                 |C/C++|**1**| 1-file SVG parser; 1-file SVG rasterizer
 |**[cro_mipmap.h](https://github.com/thebeast33/cro_lib)**              | **public domain**    |C/C++|**1**| average, min, max mipmap generators
-|  [rjm_texbleed.h](https://github.com/rmitton/rjm)                     | **public domain**    |C/C++|**1**| Fills in the color of pixels where alpha==0 
+|  [rjm_texbleed.h](https://github.com/rmitton/rjm)                     | **public domain**    |C/C++|**1**| Fills in the color of pixels where alpha==0
 
 # math
 | library                                                               | license              | API |files| description
@@ -293,7 +293,7 @@ as C/C++, as this is not an obstacle to most users.)
 # multithreading
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|  [bikeshed.h](https://github.com/DanEngelbrecht/bikeshed)             | MIT                  |C/C++|**1**| cross-platform lock free fixed memory hierarchical work scheduler 
+|  [bikeshed.h](https://github.com/DanEngelbrecht/bikeshed)             | MIT                  |C/C++|**1**| cross-platform lock free fixed memory hierarchical work scheduler
 |  [mm_sched.h](https://github.com/vurtun/mmx)                          | zlib                 |C/C++|**1**| cross-platform multithreaded task scheduler based on [enkiTS](https://github.com/dougbinks/enkiTS)
 |**[thread.h](https://github.com/mattiasgustavsson/libs)**              | **public domain**    |C/C++|**1**| cross-platform thread primitives
 |  [TinyCThread](https://tinycthread.github.io/)                        | zlib                 |C/C++|  2  | cross-platform implementation of the C11 Threads API
