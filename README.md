@@ -52,7 +52,7 @@ as C/C++, as this is not an obstacle to most users.)
 
 ### Categories:
 
-  - general purpose
+  - general purpose language
     - [data structures](#data-structures)
     - [string processing](#strings)
     - [scripting](#scripting)
