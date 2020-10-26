@@ -145,6 +145,8 @@ as C/C++, as this is not an obstacle to most users.)
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |  [Monocypher](https://monocypher.org)                                 | **public domain**    |  C  |  2  | high-quality small cryptography library
 |  [TweetNaCl](http://tweetnacl.cr.yp.to/software.html)                 | **public domain**    |  C  |  2  | high-quality tiny cryptography library
+|  [Beamsplitter](https://github.com/c9fe/beamsplitter)                 | MIT                  |  C  |  2  | universal cryptogrpahic hash function
+|  [Discohash](https://github.com/c9fe/discohash)                       | MIT                  |C/C++|  2  | super-fast cryptohash
 
 # data structures
 | library                                                               | license              | API |files| description
