@@ -109,7 +109,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [CLI11](https://github.com/CLIUtils/CLI11)                           | BSD                  | C++ |**1**| Feature-rich CLI parsing in modern C++11 
 |  [cmdline](https://github.com/tanakh/cmdline)                         | BSD                  | C++ |**1**| command-line argument parsing
 |  [flags](https://github.com/sailormoon/flags)                         | **public domain**    | C++ |**1**| command-line argument parsing
-|  [getops.hpp](https://github.com/burner/getopts.hpp)                  | LGPL3                | C++ |**1**| command-line argument parsing for C++ 11 and beyond
+|  [getops.hpp](https://github.com/burner/sweet.hpp/getopts.hpp)        | LGPL3                | C++ |**1**| command-line argument parsing for C++ 11 and beyond
 |  [kgflags](https://github.com/kgabis/kgflags)                         | MIT                  |C/C++|**1**| command-line argument parsing
 |  [linkom](https://github.com/hernandp/linkom)                         | MIT                  |C/C++|**1**| command-line argument parsing w/ DOS-style options
 |  [optionparser](http://optionparser.sourceforge.net/)                 | MIT                  | C++ |**1**| command-line argument parsing
@@ -151,19 +151,19 @@ as C/C++, as this is not an obstacle to most users.)
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |  [avl](https://github.com/etherealvisage/avl)                         | **public domain**    |C/C++|  2  | AVL tree
-|  [bitset.hpp](https://github.com/burner/bitset.hpp)                   | LGPL3                | C++ |**1**| Compile time sided bit set for C++11 and beyond
+|  [bitset.hpp](https://github.com/burner/sweet.hpp/bitset.hpp)         | LGPL3                | C++ |**1**| Compile time sided bit set for C++11 and beyond
 |  [c-bool-value](https://github.com/lduck11007/c-bool-value)           | **WTFPLv2**          |C/C++|  1  | Simple and easy boolean values in standard c
 |  [chobo-shl](https://github.com/Chobolabs/chobo-shl)                  | MIT                  | C++ |**1**| several C++11 standard contaner like libraries and helpers
 |**[DG_dynarr.h](https://github.com/DanielGibson/Snippets/)**           | **public domain**    |C/C++|**1**| typesafe dynamic arrays (like std::vector) for plain C
 |  [DynaVar](https://github.com/ArjArav98/DynaVar)                      | GPL-3.0              | C++ |  1  | Object which can store any type of primitive data type
-|  [fector.hpp](https://github.com/burner/fector.hpp)                   | LGPL3                | C++ |**1**| A fixed size std::vector like structure
+|  [fector.hpp](https://github.com/burner/sweet.hpp/fector.hpp)         | LGPL3                | C++ |**1**| A fixed size std::vector like structure
 |  [klib](http://attractivechaos.github.io/klib/)                       | MIT                  |C/C++|  2  | many 2-file libs: hash, sort, b-tree, etc
 |  [libpqueue](https://github.com/vy/libpqueue)                         | BSD                  |C/C++|  2  | priority queue (heap)
 |  [minilibs](https://github.com/ccxvii/minilibs)                       | **public domain**    |  C  |  2  | two-file binary tress (also regex, etc)
 |  [PackedArray](https://github.com/gpakosz/PackedArray)                | **WTFPLv2**          |  C  |  2  | memory-efficient array of elements with non-pow2 bitcount
 |  [simclist](http://mij.oltrelinux.com/devel/simclist)                 | BSD                  |C/C++|  2  | linked-list
 |  [selist](https://github.com/ennorehling/clibs)                       | ISC                  |C/C++|  2  | space-efficient linked-list
-|  [trie.hpp](https://github.com/burner/trie.hpp)                       | LGPL3                | C++ |**1**| A trie (prefix tree) implementation for C++11
+|  [trie.hpp](https://github.com/burner/sweet.hpp/trie.hpp)             | LGPL3                | C++ |**1**| A trie (prefix tree) implementation for C++11
 |  [mempool](https://github.com/hardikp/cpp-mempool)                    | MIT                  | C++ |**1**| Efficient minimal memory pool implementation for C++
 |  [uthash](https://github.com/troydhanson/uthash)                      | BSD                  |C/C++|  2  | several 1-header, 1-license-file libs: generic hash, list, etc
 
@@ -173,7 +173,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [dbgtools](https://github.com/wc-duck/dbgtools)                      | zlib                 |C/C++|  2  | cross-platform debug util libraries
 |  [debug-assert](https://github.com/foonathan/debug_assert)            | zlib                 | C++ |**1**| modular assertion macro
 |  [debugbreak](https://github.com/scottt/debugbreak)                   | BSD                  |C/C++|**1**| programmatic debug break
-|  [log.hpp](https://github.com/burner/log.hpp)                         | LGPL3                | C++ |**1**| multi threaded simple C++11 and beyond logger
+|  [log.hpp](https://github.com/burner/sweet.hpp/log.hpp)               | LGPL3                | C++ |**1**| multi threaded simple C++11 and beyond logger
 |  [loguru](https://github.com/emilk/loguru)                            | **public domain**    | C++ |**1**| flexible logging
 |  [pempek_assert.cpp](https://github.com/gpakosz/Assert)               | **WTFPLv2**          | C++ |  2  | flexible assertions
 
@@ -444,10 +444,10 @@ as C/C++, as this is not an obstacle to most users.)
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |  [ASAP](https://github.com/mobius3/asap)                              | MIT                  | C++ |**1**| library for parsing, printing, iterating and operating on dates.
-|  [benchmark.hpp](https://github.com/burner/benchmark.hpp)             | LGPL3                | C++ |**1**| micro benchmark library for C++11 and beyond
+|  [benchmark.hpp](https://github.com/burner/sweet.hpp/benchmark.hpp)   | LGPL3                | C++ |**1**| micro benchmark library for C++11 and beyond
 |  [cpp-generators](https://github.com/c-smile/cpp-generators)          | BSD                  | C++ |**1**| generators in C++
 |  [Hedley](https://nemequ.github.io/hedley/)                           | **public domain**    |C/C++|**1**| compiler portability, optimization, static analysis, etc.
-|  [format.hpp](https.//github.com/burner/format.hpp)                   | LGPL3                | C++ |**1**| dlang inspired typesafe string formatting
+|  [format.hpp](https.//github.com/burner/sweet.hpp/format.hpp)         | LGPL3                | C++ |**1**| dlang inspired typesafe string formatting
 |  [levenshtein](https://github.com/wooorm/levenshtein.c)               | MIT                  |C/C++|  2  | compute edit distance between two strings
 |  [MakeID.h](http://www.humus.name/3D/MakeID.h)                        | **public domain**    | C++ |**1**| allocate/deallocate small integer IDs efficiently
 |  [picobench](https://github.com/iboB/picobench)                       | MIT                  | C++ |**1**| microbenchmarking
