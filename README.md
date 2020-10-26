@@ -452,6 +452,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [tinyformat](https://github.com/c42f/tinyformat)                     | Boost                | C++ |**1**| typesafe printf
 |  [tinytime](https://github.com/RandyGaul/tinyheaders)                 | zlib                 |C/C++|**1**| quick-and-dirty time elapsed time
 |  [visit_struct](https://github.com/cbeck88/visit_struct)              | Boost                | C++ |  2  | struct-field reflection
+|  [WinReg](https://github.com/GiovanniDicanio/WinReg)                  | MIT                  | C++ |**1**| C++ wrapper for Windows Registry access
 
 
 There are also these XML libraries, but I am so significantly not a fan of XML that I've consigned these to the basement to make you think twice.
