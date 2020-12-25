@@ -410,7 +410,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [libcmdf](https://github.com/ronen25/libcmdf)                        | **public domain**    | C   |**1**| a small library for writing CLI applications
 |  [linenoise](https://github.com/antirez/linenoise)                    | BSD                  |C/C++|  2  | terminal readline w/ history etc
 |  [noc_file_dialog.h](https://github.com/guillaumechereau/noc)         | MIT                  |C/C++|  1  | file open/save dialogs (Win/Mac/Linux)
-|  [nuklear](https://github.com/vurtun/nuklear)                         | **public domain**    |C/C++|**1**| minimal GUI toolkit
+|  [nuklear](https://github.com/Immediate-Mode-UI/Nuklear)              | **public domain**    |C/C++|**1**| minimal GUI toolkit
 |  [tinyfiledialogs](https://sourceforge.net/projects/tinyfiledialogs/) | ZLIB                 |C/C++|  2  | modal dialogs inc. file open/save (Win/Mac/Linux)
 |  [wcwidth9](https://github.com/joshuarubin/wcwidth9)                  | Apache 2.0           | C   |  1  | platform independent wcwidth with full unicode 9 support
 
