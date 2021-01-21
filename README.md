@@ -6,7 +6,7 @@ I am not the only person who writes libraries like this, so below are other, sim
 Generally, the following is a list of small, easy-to-integrate, portable libraries
 which are usable from C and/or C++, and should be able to be compiled on both
 32-bit and 64-bit platforms. However, I have not personally verified that any
-specific lilbrary is as advertised, or is quality software.
+specific library is as advertised, or is quality software.
 
 ### Rules
 
@@ -151,7 +151,7 @@ as C/C++, as this is not an obstacle to most users.)
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |  [avl](https://github.com/etherealvisage/avl)                         | **public domain**    |C/C++|  2  | AVL tree
 |  [c-bool-value](https://github.com/lduck11007/c-bool-value)           | **WTFPLv2**          |C/C++|  1  | Simple and easy boolean values in standard c
-|  [chobo-shl](https://github.com/Chobolabs/chobo-shl)                  | MIT                  | C++ |**1**| several C++11 standard contaner like libraries and helpers
+|  [chobo-shl](https://github.com/Chobolabs/chobo-shl)                  | MIT                  | C++ |**1**| several C++11 standard container like libraries and helpers
 |**[DG_dynarr.h](https://github.com/DanielGibson/Snippets/)**           | **public domain**    |C/C++|**1**| typesafe dynamic arrays (like std::vector) for plain C
 |  [DynaVar](https://github.com/ArjArav98/DynaVar)                      | GPL-3.0              | C++ |  1  | Object which can store any type of primitive data type
 |  [klib](http://attractivechaos.github.io/klib/)                       | MIT                  |C/C++|  2  | many 2-file libs: hash, sort, b-tree, etc
@@ -319,7 +319,7 @@ as C/C++, as this is not an obstacle to most users.)
 # serialization
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|  [archive](https://github.com/voidah/archive)                         |**public domain**     | C++ |**1**| binary serialize & deserlize w/ STL support
+|  [archive](https://github.com/voidah/archive)                         |**public domain**     | C++ |**1**| binary serialize & deserialize w/ STL support
 |  [libcluon](https://github.com/chrberger/libcluon)                    | MPL-2.0              | C++ |**1**| cross-platform data serialization/deserialization with native implementations for [Protobuf](https://developers.google.com/protocol-buffers/), [LCM](http://lcm-proj.github.io/type_specification.html)/[ZCM](http://zerocm.github.io/zcm/), JSON, and [MsgPack](https://msgpack.org)
 
 # json
