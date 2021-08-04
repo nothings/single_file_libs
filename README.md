@@ -281,6 +281,7 @@ as C/C++, as this is not an obstacle to most users.)
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |  [amoeba](https://github.com/starwing/amoeba)                         | MIT                  |C/C++|**1**| constraint solver (Cassowary) w/Lua binding
+|  [ceval-single-header](https://github.com/e-t-sudo/ceval-single-header)| MIT                 |C/C++|**1**| A single-header library for parsing and evaluation of arithmetic expressions
 |  [fft](https://github.com/wareya/fft)                                 | **public domain**    | C++ |**1**| Fast Fourier Transform |
 |  [PoissonGenerator.h](https://github.com/corporateshark/poisson-disk-generator) | MIT        | C++ |**1**| Poisson disk points generator (disk or rect)
 |  [prns.h](http://marc-b-reynolds.github.io/shf/2016/04/19/prns.html)  | **public domain**    |C/C++|**1**| seekable pseudo-random number sequences
