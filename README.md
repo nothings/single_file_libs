@@ -434,6 +434,7 @@ as C/C++, as this is not an obstacle to most users.)
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |**[app.h](https://github.com/mattiasgustavsson/libs)**                 | **public domain**    |C/C++|**1**| Windows-only-but-meant-to-be-cross-platform game-ish framework
+|**[sokol_app.h](https://github.com/floooh/sokol/blob/master/sokol_app.h)**                 | zlib/libpng    |C/C++|**1**| cross-platform app framework wrapper (entry + window + 3D-context + input)
 
 # miscellaneous
 | library                                                               | license              | API |files| description
