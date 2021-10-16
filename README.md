@@ -91,7 +91,7 @@ as C/C++, as this is not an obstacle to most users.)
   - other
     - [AI](#ai)
     - [cryptography](#crypto)
-	- [state machines](#state-machines)
+    - [state machines](#state-machines)
     - [user interface](#user-interface)
     - [miscellaneous](#miscellaneous)
 
