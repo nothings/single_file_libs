@@ -243,6 +243,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)|MIT|C/C++|**1**| memory allocator for Vulkan
 |  [yocto_trace.h](https://github.com/xelatihy/yocto-gl)                | MIT                  |C/C++|**1**| physically-based unidirectional path tracer w/ MIS for direct lights
 |  [yocto_symrigid.h](https://github.com/xelatihy/yocto-gl)             | MIT                  |C/C++|**1**| rigid body simulator (sequential impulse/PGS) with support for concave objects
+|  [wfc](https://github.com/krychu/wfc)                                 | MIT                  |  C  |**1**| Wave Function Collapse library using the overlapping method, plus a command-line tool
 
 # hardware
 | library                                                               | license              | API |files| description
