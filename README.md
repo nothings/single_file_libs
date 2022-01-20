@@ -227,6 +227,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [Immediate2D](https://github.com/npiegdon/immediate2d)               | **public domain**    | C++ |  2  | zero-configuration, immediate-mode 2D graphics for Windows
 |  [noc_turtle](https://github.com/guillaumechereau/noc)                | MIT                  |C/C++|  2  | procedural graphics generator
 |  [tigr](https://bitbucket.org/rmitton/tigr/src)                       | **public domain**    |C/C++|  2  | quick-n-dirty window text/graphics for Windows and macOS
+|  [wfc](https://github.com/krychu/wfc)                                 | MIT                  |  C  |**1**| Wave Function Collapse library using the overlapping method, plus a command-line tool
 
 # graphics (3d)
 | library                                                               | license              | API |files| description
@@ -243,7 +244,6 @@ as C/C++, as this is not an obstacle to most users.)
 |  [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)|MIT|C/C++|**1**| memory allocator for Vulkan
 |  [yocto_trace.h](https://github.com/xelatihy/yocto-gl)                | MIT                  |C/C++|**1**| physically-based unidirectional path tracer w/ MIS for direct lights
 |  [yocto_symrigid.h](https://github.com/xelatihy/yocto-gl)             | MIT                  |C/C++|**1**| rigid body simulator (sequential impulse/PGS) with support for concave objects
-|  [wfc](https://github.com/krychu/wfc)                                 | MIT                  |  C  |**1**| Wave Function Collapse library using the overlapping method, plus a command-line tool
 
 # hardware
 | library                                                               | license              | API |files| description
