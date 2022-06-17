@@ -402,6 +402,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [trompeloeil](https://github.com/rollbear/trompeloeil)               | Boost                | C++ |**1**| unit testing
 |  [utest](https://github.com/evolutional/utest)                        | MIT                  |C/C++|**1**| unit testing
 |**[utest.h](https://github.com/sheredom/utest.h)**                     | **public domain**    |C/C++|**1**| unit testing
+|**[walter](https://github.com/ir33k/walter)**                          | **public domain**    |  C  |**1**| unit testing
 
 # user interface
 | library                                                               | license              | API |files| description
