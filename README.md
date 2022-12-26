@@ -227,6 +227,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [Immediate2D](https://github.com/npiegdon/immediate2d)               | **public domain**    | C++ |  2  | zero-configuration, immediate-mode 2D graphics for Windows
 |  [noc_turtle](https://github.com/guillaumechereau/noc)                | MIT                  |C/C++|  2  | procedural graphics generator
 |  [tigr](https://bitbucket.org/rmitton/tigr/src)                       | **public domain**    |C/C++|  2  | quick-n-dirty window text/graphics for Windows and macOS
+|  [wfc](https://github.com/krychu/wfc)                                 | MIT                  |  C  |**1**| generate image locally similar to the input image using WFC algorithm
 
 # graphics (3d)
 | library                                                               | license              | API |files| description
