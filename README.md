@@ -181,7 +181,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [TinyDir](https://github.com/cxong/tinydir)                          | BSD                  |  C  |**1**| cross-platform directory reading (Win/POSIX/MinGW)
 |  [tinyfiles](https://github.com/RandyGaul/tinyheaders)                | zlib                 |C/C++|**1**| cross-platform directory reading (Win/Mac/Unix)
 |  [whereami](https://github.com/gpakosz/whereami)                      | **WTFPLv2**          |C/C++|  2  | get path/filename of executable or module
-
+| [DoTheWorld](https://github.com/OUIsolutions/DoTheWorld)              | MIT                  |C/C++|**1**| a library with dozens of functions for manipulating files and folders, ranging from listings to atomic transactions
 # geometry file
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
