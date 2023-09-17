@@ -227,8 +227,8 @@ as C/C++, as this is not an obstacle to most users.)
 |  [Immediate2D](https://github.com/npiegdon/immediate2d)               | **public domain**    | C++ |  2  | zero-configuration, immediate-mode 2D graphics for Windows
 |  [noc_turtle](https://github.com/guillaumechereau/noc)                | MIT                  |C/C++|  2  | procedural graphics generator
 |  [tigr](https://bitbucket.org/rmitton/tigr/src)                       | **public domain**    |C/C++|  2  | quick-n-dirty window text/graphics for Windows and macOS
-|  [RGL](https://github.com/ColleagueRiley/RGL]                          | zlib                 |C/C++|  1  | Simple ultra-lightweight OpenGL version abstraction based on RLGL (pipeline system)
-|  [RFont](https://github.com/ColleagueRiley/RFont]                        | zlib                 |C/C++|  1  | Simple-to-use lightweight single header modular font rendering library
+|  [RGL](https://github.com/ColleagueRiley/RGL)                          | zlib                 |C/C++|  1  | Simple ultra-lightweight OpenGL version abstraction based on RLGL (pipeline system)
+|  [RFont](https://github.com/ColleagueRiley/RFont)                        | zlib                 |C/C++|  1  | Simple-to-use lightweight single header modular font rendering library
 
 
 # graphics (3d)
@@ -455,8 +455,8 @@ as C/C++, as this is not an obstacle to most users.)
 |  [tinyformat](https://github.com/c42f/tinyformat)                     | Boost                | C++ |**1**| typesafe printf
 |  [tinytime](https://github.com/RandyGaul/tinyheaders)                 | zlib                 |C/C++|**1**| quick-and-dirty time elapsed time
 |  [visit_struct](https://github.com/cbeck88/visit_struct)              | Boost                | C++ |  2  | struct-field reflection
-|  [sili-toolchain](https://github.com/EimaMei/sili-toolchain]          | **public domain**    |C/C++|**1**| C toolchain for modern C programming, strings, arrays, files, threading, ect
-|  [RGFW](https://github.com/ColleagueRiley/RGFW]                        | zlib                 |C/C++|**1**| A multi-platform single-header user-friendly GUI framework as an alternative to GLFW 
+|  [sili-toolchain](https://github.com/EimaMei/sili-toolchain)          | **public domain**    |C/C++|**1**| C toolchain for modern C programming, strings, arrays, files, threading, ect
+|  [RGFW](https://github.com/ColleagueRiley/RGFW)                        | zlib                 |C/C++|**1**| A multi-platform single-header user-friendly GUI framework as an alternative to GLFW 
 
 There are also these XML libraries, but I am so significantly not a fan of XML that I've consigned these to the basement to make you think twice.
 
