@@ -142,6 +142,7 @@ as C/C++, as this is not an obstacle to most users.)
 |**[miniz.c](https://github.com/richgel999/miniz)**                     | MIT                  |C/C++|**1**| compression, decompression, ZIP file, PNG writing
 |  [microtar](https://github.com/rxi/microtar)                          | MIT                  |C/C++|  2  | lightweight tar library
 |  [pithy](https://github.com/johnezang/pithy)                          | BSD                  |C/C++|  2  | fast but larger LZ compression
+|  [rle](https://gitlab.com/bztsrc/rle)                                 | MIT                  |C    |**1+1**| extremely simple run-length encoder/decoder |
 
 # crypto
 | library                                                               | license              | API |files| description
@@ -200,6 +201,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [tinyobjloader-c](https://github.com/syoyo/tinyobjloader-c)          | MIT                  |  C  |**1**| wavefront OBJ file loader
 |  [tk_objfile](https://github.com/joeld42/tk_objfile)                  | MIT                  |C/C++|**1**| OBJ file loader
 |  [yocto_obj.h](https://github.com/xelatihy/yocto-gl)                  | MIT                  |C/C++|**1**| wavefront OBJ file loader
+|  [m3d.h](https://bztsrc.gitlab.io/model3d)                            | MIT                  |C/C++|**1**| Model 3D importer/exporter (with Blender, Goxel, WebGL JS and assimp integration) |
 
 # geometry math
 | library                                                               | license              | API |files| description
@@ -225,6 +227,7 @@ as C/C++, as this is not an obstacle to most users.)
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |  [rang](https://github.com/agauniyal/rang)                            | **public domain**    | C++ |**1**| cross-platform colored console text
+|  [ssfn.h](https://gitlab.com/bztsrc/scalable-font)                    | MIT                  |C/C++|**1**| scalable/bitmap/pixmap font renderer |
 
 # graphics (2d)
 | library                                                               | license              | API |files| description
@@ -352,6 +355,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [jzon.h](https://github.com/Zguy/Jzon)                               | MIT                  | C++ |  2  | JSON parser
 |  [PicoJSON](https://github.com/kazuho/picojson)                       | BSD                  | C++ |**1**| JSON parse/serializer
 |  [parson](https://github.com/kgabis/parson)                           | MIT                  |C/C++|  2  | JSON parser and serializer
+|  [jsonc](https://gitlab.com/bztsrc/jsonc)                             | MIT                  |C/C++|**1**| extremely fast and extremely small (~60 SLoC) JSON parser |
 
 # yaml
 | library                                                               | license              | API |files| description
@@ -376,6 +380,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [mm_lexer.h](https://github.com/vurtun/mmx)                          | zlib                 |C/C++|**1**| C-esque language lexer
 |  [SLRE](https://github.com/cesanta/slre)                              |_GPLv2_               |C/C++|**1**| regular expression matcher
 |  [tinymemfile](https://github.com/RandyGaul/tinyheaders)              | zlib                 | C++ |**1**| fscanf on in-memory files
+|  [udisasm](https://gitlab.com/bztsrc/udisasm)                         | MIT                  |C/C++|**1**| extremely small disassembler for ARMv8.2 AArch64 (~65k) |
 
 # profiling
 | library                                                               | license              | API |files| description
