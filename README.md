@@ -153,6 +153,7 @@ as C/C++, as this is not an obstacle to most users.)
 # data structures
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+|**[aArray](https://tse.gratis/aArray/)**                               | **public domain**    |  C  |**1**| Arrays/strings: generic, safe
 |  [avl](https://github.com/etherealvisage/avl)                         | **public domain**    |C/C++|  2  | AVL tree
 |  [bitset.hpp](https://github.com/burner/sweet.hpp/bitset.hpp)         | LGPL3                | C++ |**1**| Compile time sided bit set for C++11 and beyond
 |  [c-bool-value](https://github.com/lduck11007/c-bool-value)           | **WTFPLv2**          |C/C++|  1  | Simple and easy boolean values in standard c
