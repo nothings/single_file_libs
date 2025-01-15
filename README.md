@@ -203,11 +203,8 @@ as C/C++, as this is not an obstacle to most users.)
 |  [tinyobjloader-c](https://github.com/syoyo/tinyobjloader-c)          | MIT                  |  C  |**1**| wavefront OBJ file loader
 |  [tk_objfile](https://github.com/joeld42/tk_objfile)                  | MIT                  |C/C++|**1**| OBJ file loader
 |  [yocto_obj.h](https://github.com/xelatihy/yocto-gl)                  | MIT                  |C/C++|**1**| wavefront OBJ file loader
-<<<<<<< HEAD
 |  [m3d.h](https://bztsrc.gitlab.io/model3d)                            | MIT                  |C/C++|**1**| Model 3D importer/exporter (with Blender, Goxel, WebGL JS and assimp integration) |
-=======
 |  [qll_q3.h](https://github.com/dav64/qll)                             | **WTFPLv2**          | C++ |**1**| Quake3 BSP loader
->>>>>>> 5d11ffc043d65f322b0b35436e8eb0582971d9a8
 
 # geometry math
 | library                                                               | license              | API |files| description
@@ -244,13 +241,9 @@ as C/C++, as this is not an obstacle to most users.)
 |  [Immediate2D](https://github.com/npiegdon/immediate2d)               | **public domain**    | C++ |  2  | zero-configuration, immediate-mode 2D graphics for Windows
 |  [noc_turtle](https://github.com/guillaumechereau/noc)                | MIT                  |C/C++|  2  | procedural graphics generator
 |  [tigr](https://bitbucket.org/rmitton/tigr/src)                       | **public domain**    |C/C++|  2  | quick-n-dirty window text/graphics for Windows and macOS
-<<<<<<< HEAD
 |  [RGL](https://github.com/ColleagueRiley/RGL)                          | zlib                 |C/C++|  1  | Simple ultra-lightweight OpenGL version abstraction based on RLGL (pipeline system)
 |  [RFont](https://github.com/ColleagueRiley/RFont)                        | zlib                 |C/C++|  1  | Simple-to-use lightweight single header modular font rendering library
-
-=======
 |  [wfc](https://github.com/krychu/wfc)                                 | MIT                  |  C  |**1**| generate image locally similar to the input image using WFC algorithm
->>>>>>> 88a756f5ffd4668edb1f792f584142815d65a39e
 
 # graphics (3d)
 | library                                                               | license              | API |files| description
@@ -353,12 +346,9 @@ as C/C++, as this is not an obstacle to most users.)
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |  [ajson](https://github.com/lordoffox/ajson)                          | Boost                | C++ |**1**| JSON serialize & deserialize w/ STL support
-<<<<<<< HEAD
 |  [cJSON](https://sourceforge.net/projects/cjson/)                     | MIT                  |C/C++|**1**| JSON parser
 |  [json-build](https://github.com/lcsmuller/json-build)                | MIT                  |C/C++|**1**| JSON serializer
-=======
 |  [cJSON](https://github.com/DaveGamble/cJSON)                         | MIT                  |C/C++|**1**| JSON parser
->>>>>>> 7f0d32b8ee4abf9e093c9958fc0758770e762208
 |  [json.h](https://github.com/sheredom/json.h)                         | **public domain**    |C/C++|  2  | JSON parser
 |  [json.hpp](https://github.com/nlohmann/json)                         | MIT                  | C++ |**1**| JSON parse, serialize, deserialize
 |  [jzon.h](https://github.com/Zguy/Jzon)                               | MIT                  | C++ |  2  | JSON parser
@@ -445,11 +435,8 @@ as C/C++, as this is not an obstacle to most users.)
 |  [trompeloeil](https://github.com/rollbear/trompeloeil)               | Boost                | C++ |**1**| unit testing
 |  [utest](https://github.com/evolutional/utest)                        | MIT                  |C/C++|**1**| unit testing
 |**[utest.h](https://github.com/sheredom/utest.h)**                     | **public domain**    |C/C++|**1**| unit testing
-<<<<<<< HEAD
 |**[walter](https://github.com/ir33k/walter)**                          | **public domain**    |  C  |**1**| unit testing
-=======
 |  [clove-unit](https://github.com/fdefelici/clove-unit)                | MIT                  |  C  |**1**| unit testing
->>>>>>> e24abfcee96b566cb1e315c121bb40a729d0af97
 
 # user interface
 | library                                                               | license              | API |files| description
