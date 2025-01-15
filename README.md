@@ -201,7 +201,11 @@ as C/C++, as this is not an obstacle to most users.)
 |  [tinyobjloader-c](https://github.com/syoyo/tinyobjloader-c)          | MIT                  |  C  |**1**| wavefront OBJ file loader
 |  [tk_objfile](https://github.com/joeld42/tk_objfile)                  | MIT                  |C/C++|**1**| OBJ file loader
 |  [yocto_obj.h](https://github.com/xelatihy/yocto-gl)                  | MIT                  |C/C++|**1**| wavefront OBJ file loader
+<<<<<<< HEAD
 |  [m3d.h](https://bztsrc.gitlab.io/model3d)                            | MIT                  |C/C++|**1**| Model 3D importer/exporter (with Blender, Goxel, WebGL JS and assimp integration) |
+=======
+|  [qll_q3.h](https://github.com/dav64/qll)                             | **WTFPLv2**          | C++ |**1**| Quake3 BSP loader
+>>>>>>> 5d11ffc043d65f322b0b35436e8eb0582971d9a8
 
 # geometry math
 | library                                                               | license              | API |files| description
