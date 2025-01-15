@@ -421,6 +421,7 @@ as C/C++, as this is not an obstacle to most users.)
 |**[strpool.h](https://github.com/mattiasgustavsson/libs)**             | **public domain**    |C/C++|**1**| string interning
 |  [str_view.hpp](https://github.com/sawickiap/str_view)                | MIT                  | C++ |**1**| null-termination-aware string-view class
 |**[utf8](https://github.com/sheredom/utf8.h)**                         | **public domain**    |C/C++|**1**| UTF-8 string library
+| **[csplit](https://github.com/jwlodek/csplit)**                       | MIT                  |C/C++|**1**| String splitting and processing single-header library
 
 # unit testing
 | library                                                               | license              | API |files| description
