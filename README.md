@@ -336,8 +336,12 @@ as C/C++, as this is not an obstacle to most users.)
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |  [ajson](https://github.com/lordoffox/ajson)                          | Boost                | C++ |**1**| JSON serialize & deserialize w/ STL support
+<<<<<<< HEAD
 |  [cJSON](https://sourceforge.net/projects/cjson/)                     | MIT                  |C/C++|**1**| JSON parser
 |  [json-build](https://github.com/lcsmuller/json-build)                | MIT                  |C/C++|**1**| JSON serializer
+=======
+|  [cJSON](https://github.com/DaveGamble/cJSON)                         | MIT                  |C/C++|**1**| JSON parser
+>>>>>>> 7f0d32b8ee4abf9e093c9958fc0758770e762208
 |  [json.h](https://github.com/sheredom/json.h)                         | **public domain**    |C/C++|  2  | JSON parser
 |  [json.hpp](https://github.com/nlohmann/json)                         | MIT                  | C++ |**1**| JSON parse, serialize, deserialize
 |  [jzon.h](https://github.com/Zguy/Jzon)                               | MIT                  | C++ |  2  | JSON parser
