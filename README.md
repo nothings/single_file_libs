@@ -78,6 +78,7 @@ as C/C++, as this is not an obstacle to most users.)
     - [compression](#compression)
     - [audio processing & files](#audio)
     - [video](#video)
+  - [game engines](#game-engines)
   - [videogames](#videogames)
   - operating system features
     - [files and filenames](#files--filenames)
@@ -429,6 +430,11 @@ as C/C++, as this is not an obstacle to most users.)
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
 |  [jo_mpeg](http://www.jonolick.com/home/mpeg-video-writer)            | **public domain**    | C++ |**1**| MPEG file writer
+
+# game engines
+| library                                                               | license              | API |files| description
+| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
+|  [FWK v1](https://github.com/fwk3d/v1)                                | **public domain**    |  C  |**1**| game engines
 
 # videogames
 | library                                                               | license              | API |files| description
