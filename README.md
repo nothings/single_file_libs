@@ -216,8 +216,9 @@ as C/C++, as this is not an obstacle to most users.)
 |  [jc_voronoi](https://github.com/JCash/voronoi)                       | MIT                  |C/C++|**1**| find voronoi regions on float/double data
 |  [nanoflann](https://github.com/jlblancoc/nanoflann)                  | BSD                  | C++ |**1**| build KD trees for point clouds
 |**[nv_voronoi.h](http://www.icculus.org/~mordred/nvlib/)**             | **public domain**    |C/C++|**1**| find voronoi regions on lattice w/ integer inputs
-|  [par_msquares](https://github.com/prideout/par)                      | MIT                  |C/C++|**1**| convert (binarized) image to triangles
-|  [par_shapes](http://github.prideout.net/shapes)                      | MIT                  |C/C++|**1**| generate various 3d geometric shapes
+|  [par_msquares](https://prideout.net/marching-squares)                | MIT                  |C/C++|**1**| convert (binarized) image to triangles
+|  [par_shapes](https://prideout.net/shapes)                            | MIT                  |C/C++|**1**| generate various 3d geometric shapes
+|  [par_streamlines](https://prideout.net/blog/par_streamlines)         | MIT                  |C/C++|**1**| tessellate wide lines and curves with shading attributes
 |  [PolyPartition](https://github.com/ivanfratric/polypartition)        | MIT                  | C++ |  2  | polygon triangulation, partitioning
 |**[rjm_mc.h](https://github.com/rmitton/rjm)**                         | **public domain**    |C/C++|**1**| marching cubes triangulator
 |**[sobol.h](https://github.com/Marc-B-Reynolds/Stand-alone-junk/)**    | **public domain**    |C/C++|**1**| sobol & stratified sampling sequences
