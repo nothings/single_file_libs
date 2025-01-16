@@ -464,7 +464,7 @@ as C/C++, as this is not an obstacle to most users.)
 # video
 | library                                                               | license              | API |files| description
 | --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|  [jo_mpeg](http://www.jonolick.com/home/mpeg-video-writer)            | **public domain**    | C++ |**1**| MPEG file writer
+|  [jo_mpeg](http://www.jonolick.com/home/mpeg-video-writer) / [(converted to C)](https://blog.frost.kiwi/jo-mpeg-in-c)            | **public domain**    | C/C++ |**1**| MPEG file writer
 
 # game engines
 | library                                                               | license              | API |files| description
