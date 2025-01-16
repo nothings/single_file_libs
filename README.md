@@ -160,11 +160,8 @@ as C/C++, as this is not an obstacle to most users.)
 |  [c-bool-value](https://github.com/lduck11007/c-bool-value)           | **WTFPLv2**          |C/C++|  1  | Simple and easy boolean values in standard c
 |**[DG_dynarr.h](https://github.com/DanielGibson/Snippets/)**           | **public domain**    |C/C++|**1**| typesafe dynamic arrays (like std::vector) for plain C
 |  [DynaVar](https://github.com/ArjArav98/DynaVar)                      | GPL-3.0              | C++ |  1  | Object which can store any type of primitive data type
-<<<<<<< HEAD
 |  [fector.hpp](https://github.com/burner/sweet.hpp/fector.hpp)         | LGPL3                | C++ |**1**| A fixed size std::vector like structure
-=======
 |  [itlib](https://github.com/iboB/itlib)                               | MIT                  | C++ |**1**| several C++11 standard-contaner-like libraries and helpers
->>>>>>> 53fda8efb83a45af4a7b72a720c04f3a1f8eab14
 |  [klib](http://attractivechaos.github.io/klib/)                       | MIT                  |C/C++|  2  | many 2-file libs: hash, sort, b-tree, etc
 |  [LinkedList](https://github.com/ivanseidel/LinkedList)               | MIT                  |C/C++|  2  | Linked list C++ 
 |  [libpqueue](https://github.com/vy/libpqueue)                         | BSD                  |C/C++|  2  | priority queue (heap)
@@ -258,11 +255,8 @@ as C/C++, as this is not an obstacle to most users.)
 |  [mikktspace](https://developer.blender.org/diffusion/B/browse/master/intern/mikktspace)| zlib|C/C++| 2  | compute tangent space for normal mapping
 |  [rjm_raytrace.h](https://github.com/rmitton/rjm)                     | **public domain**    |C/C++|**1**| minimalistic SSE packet raytracer for offline baking
 |**[seamoptimizer](https://github.com/ands/seamoptimizer)**             | **public domain**    |C/C++|**1**| modify lightmap data to hide seams
-<<<<<<< HEAD
 |[Simple OpenGL Loader](https://github.com/tsherif/simple-opengl-loader)| MIT                  |C/C++|**1**| extensible, cross-platform OpenGL loader
-=======
 |  [small3dlib](https://gitlab.com/drummyfish/small3dlib)               | CC0 + patent waiver  |C/C++|**1**| fast and portable software renderer
->>>>>>> ce3002a7122babc20ac1567538c8f2f9cbb4e01d
 |  [sokol_gfx.h](https://github.com/floooh/sokol)                       | MIT                  |C/C++|**1**| cross-platform 3D API wrapper (GLES2+3/GL3/D3D11/Metal)
 |  [Swarmz](https://github.com/Cultrarius/Swarmz)                       | **public domain**    | C++ |**1**| swarming/flocking algorithm
 |  [tinygizmo](https://github.com/ddiakopoulos/tinygizmo)               | **public domain**    | C++ |  2  | gizmo objects for interactively editing 3d transformations
@@ -393,11 +387,8 @@ as C/C++, as this is not an obstacle to most users.)
 |  [mm_lexer.h](https://github.com/vurtun/mmx)                          | zlib                 |C/C++|**1**| C-esque language lexer
 |  [SLRE](https://github.com/cesanta/slre)                              |_GPLv2_               |C/C++|**1**| regular expression matcher
 |  [tinymemfile](https://github.com/RandyGaul/tinyheaders)              | zlib                 | C++ |**1**| fscanf on in-memory files
-<<<<<<< HEAD
 |  [udisasm](https://gitlab.com/bztsrc/udisasm)                         | MIT                  |C/C++|**1**| extremely small disassembler for ARMv8.2 AArch64 (~65k) |
-=======
 |  [Unformat](https://github.com/adamyaxley/Unformat)                   | **public domain**    | C++ |**1**| parses formatted strings (reverse of std::format)
->>>>>>> 93cd542505ced3eadebdcab4c3146bee8baec8c4
 
 # profiling
 | library                                                               | license              | API |files| description
@@ -503,11 +494,8 @@ as C/C++, as this is not an obstacle to most users.)
 |  [ASAP](https://github.com/mobius3/asap)                              | MIT                  | C++ |**1**| library for parsing, printing, iterating and operating on dates.
 |  [benchmark.hpp](https://github.com/burner/sweet.hpp/benchmark.hpp)   | LGPL3                | C++ |**1**| micro benchmark library for C++11 and beyond
 |  [cpp-generators](https://github.com/c-smile/cpp-generators)          | BSD                  | C++ |**1**| generators in C++
-<<<<<<< HEAD
 |  [endianness.h](https://github.com/rofl0r/endianness.h)               | **public domain**    |  C  |**1**| endianness conversion and detection  
-=======
 |  [ggformat](https://github.com/mikejsavage/ggformat)                  | ISC                  | C++ |  2  | printf replacement
->>>>>>> 392961c5fea8154370cdd0c7bd520f125a27bbd1
 |  [Hedley](https://nemequ.github.io/hedley/)                           | **public domain**    |C/C++|**1**| compiler portability, optimization, static analysis, etc.
 |  [format.hpp](https.//github.com/burner/sweet.hpp/format.hpp)         | LGPL3                | C++ |**1**| dlang inspired typesafe string formatting
 |  [levenshtein](https://github.com/wooorm/levenshtein.c)               | MIT                  |C/C++|  2  | compute edit distance between two strings
