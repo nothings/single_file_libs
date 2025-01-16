@@ -157,10 +157,13 @@ as C/C++, as this is not an obstacle to most users.)
 |  [avl](https://github.com/etherealvisage/avl)                         | **public domain**    |C/C++|  2  | AVL tree
 |  [bitset.hpp](https://github.com/burner/sweet.hpp/bitset.hpp)         | LGPL3                | C++ |**1**| Compile time sided bit set for C++11 and beyond
 |  [c-bool-value](https://github.com/lduck11007/c-bool-value)           | **WTFPLv2**          |C/C++|  1  | Simple and easy boolean values in standard c
-|  [chobo-shl](https://github.com/Chobolabs/chobo-shl)                  | MIT                  | C++ |**1**| several C++11 standard contaner like libraries and helpers
 |**[DG_dynarr.h](https://github.com/DanielGibson/Snippets/)**           | **public domain**    |C/C++|**1**| typesafe dynamic arrays (like std::vector) for plain C
 |  [DynaVar](https://github.com/ArjArav98/DynaVar)                      | GPL-3.0              | C++ |  1  | Object which can store any type of primitive data type
+<<<<<<< HEAD
 |  [fector.hpp](https://github.com/burner/sweet.hpp/fector.hpp)         | LGPL3                | C++ |**1**| A fixed size std::vector like structure
+=======
+|  [itlib](https://github.com/iboB/itlib)                               | MIT                  | C++ |**1**| several C++11 standard-contaner-like libraries and helpers
+>>>>>>> 53fda8efb83a45af4a7b72a720c04f3a1f8eab14
 |  [klib](http://attractivechaos.github.io/klib/)                       | MIT                  |C/C++|  2  | many 2-file libs: hash, sort, b-tree, etc
 |  [LinkedList](https://github.com/ivanseidel/LinkedList)               | MIT                  |C/C++|  2  | Linked list C++ 
 |  [libpqueue](https://github.com/vy/libpqueue)                         | BSD                  |C/C++|  2  | priority queue (heap)
