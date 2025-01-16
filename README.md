@@ -422,6 +422,7 @@ as C/C++, as this is not an obstacle to most users.)
 |**[gb_string.h](https://github.com/gingerBill/gb)**                    | **public domain**    |C/C++|**1**| dynamic strings
 |  [Obfuscate](https://github.com/adamyaxley/Obfuscate)                 | **public domain**    | C++ |**1**| Guaranteed compile-time string literal obfuscation library for C++14
 |  [inja.hpp](https://github.com/pantor/inja)                           | MIT                  | C++ |**1**| template engine
+|  [str](https://github.com/maxim2266/str)                              | BSD                  |  C  |  2  | Yet another string library for C language
 |**[strpool.h](https://github.com/mattiasgustavsson/libs)**             | **public domain**    |C/C++|**1**| string interning
 |**[Str.h](https://github.com/ocornut/Str)**                            | **public domain**    | C++ |**1**| Simple C++ string type with an optional local buffer
 |  [str_view.hpp](https://github.com/sawickiap/str_view)                | MIT                  | C++ |**1**| null-termination-aware string-view class
