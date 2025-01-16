@@ -381,7 +381,11 @@ as C/C++, as this is not an obstacle to most users.)
 |  [mm_lexer.h](https://github.com/vurtun/mmx)                          | zlib                 |C/C++|**1**| C-esque language lexer
 |  [SLRE](https://github.com/cesanta/slre)                              |_GPLv2_               |C/C++|**1**| regular expression matcher
 |  [tinymemfile](https://github.com/RandyGaul/tinyheaders)              | zlib                 | C++ |**1**| fscanf on in-memory files
+<<<<<<< HEAD
 |  [udisasm](https://gitlab.com/bztsrc/udisasm)                         | MIT                  |C/C++|**1**| extremely small disassembler for ARMv8.2 AArch64 (~65k) |
+=======
+|  [Unformat](https://github.com/adamyaxley/Unformat)                   | **public domain**    | C++ |**1**| parses formatted strings (reverse of std::format)
+>>>>>>> 93cd542505ced3eadebdcab4c3146bee8baec8c4
 
 # profiling
 | library                                                               | license              | API |files| description
