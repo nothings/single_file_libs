@@ -486,6 +486,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [ASAP](https://github.com/mobius3/asap)                              | MIT                  | C++ |**1**| library for parsing, printing, iterating and operating on dates.
 |  [benchmark.hpp](https://github.com/burner/sweet.hpp/benchmark.hpp)   | LGPL3                | C++ |**1**| micro benchmark library for C++11 and beyond
 |  [cpp-generators](https://github.com/c-smile/cpp-generators)          | BSD                  | C++ |**1**| generators in C++
+|  [endianness.h](https://github.com/rofl0r/endianness.h)               | **public domain**    |  C  |**1**| endianness conversion and detection  
 |  [Hedley](https://nemequ.github.io/hedley/)                           | **public domain**    |C/C++|**1**| compiler portability, optimization, static analysis, etc.
 |  [format.hpp](https.//github.com/burner/sweet.hpp/format.hpp)         | LGPL3                | C++ |**1**| dlang inspired typesafe string formatting
 |  [levenshtein](https://github.com/wooorm/levenshtein.c)               | MIT                  |C/C++|  2  | compute edit distance between two strings
