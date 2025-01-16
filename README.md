@@ -162,6 +162,7 @@ as C/C++, as this is not an obstacle to most users.)
 |  [DynaVar](https://github.com/ArjArav98/DynaVar)                      | GPL-3.0              | C++ |  1  | Object which can store any type of primitive data type
 |  [fector.hpp](https://github.com/burner/sweet.hpp/fector.hpp)         | LGPL3                | C++ |**1**| A fixed size std::vector like structure
 |  [klib](http://attractivechaos.github.io/klib/)                       | MIT                  |C/C++|  2  | many 2-file libs: hash, sort, b-tree, etc
+|  [LinkedList](https://github.com/ivanseidel/LinkedList)               | MIT                  |C/C++|  2  | Linked list C++ 
 |  [libpqueue](https://github.com/vy/libpqueue)                         | BSD                  |C/C++|  2  | priority queue (heap)
 |  [minilibs](https://github.com/ccxvii/minilibs)                       | **public domain**    |  C  |  2  | two-file binary tress (also regex, etc)
 |  [PackedArray](https://github.com/gpakosz/PackedArray)                | **WTFPLv2**          |  C  |  2  | memory-efficient array of elements with non-pow2 bitcount
