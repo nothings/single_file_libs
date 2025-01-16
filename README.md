@@ -78,7 +78,6 @@ as C/C++, as this is not an obstacle to most users.)
     - [compression](#compression)
     - [audio processing & files](#audio)
     - [video](#video)
-  - [game engines](#game-engines)
   - [videogames](#videogames)
   - operating system features
     - [files and filenames](#files--filenames)
@@ -193,11 +192,6 @@ as C/C++, as this is not an obstacle to most users.)
 |  [TinyDir](https://github.com/cxong/tinydir)                          | BSD                  |  C  |**1**| cross-platform directory reading (Win/POSIX/MinGW)
 |  [tinyfiles](https://github.com/RandyGaul/tinyheaders)                | zlib                 |C/C++|**1**| cross-platform directory reading (Win/Mac/Unix)
 |  [whereami](https://github.com/gpakosz/whereami)                      | **WTFPLv2**          |C/C++|  2  | get path/filename of executable or module
-
-# game engines
-| library                                                               | license              | API |files| description
-| --------------------------------------------------------------------- |:--------------------:|:---:|:---:| -----------
-|  [FWK1](https://github.com/fwk3d/v1/blob/master/2024/2024.10/engine/joint.h) | **public domain** | C |**1**| game engine
 
 # geometry file
 | library                                                               | license              | API |files| description
@@ -555,7 +549,8 @@ ds | [jrsl](https://github.com/Garfield1002/jrsl) | **PD** | C/C++ | **1** | Ski
 ds | [libintrusive](https://github.com/graphitemaster/libintrusive) | **PD** | C | 2 | Intrusive data structures
 ds | [lstr.h](https://github.com/dyeo/dyeo.h/blob/main/lstr.h) | **PD/MIT** | C | **1** | length-bounded strings
 ecs | [pico_ecs.h](https://github.com/empyreanx/pico_headers/blob/main/pico_ecs.h) | **PD/zlib** | C | **1** | Pure and simple ECS
-engine | [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) | BSD3 | C++ | **1** | Game Engine
+engine | [FWK1](https://github.com/fwk3d/v1/blob/master/2024/2024.10/engine/joint.h) | **public domain** | C |**1**| Game engine
+engine | [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) | BSD3 | C++ | **1** | Game engine
 eval | [mathe.h](https://github.com/dyeo/dyeo.h/blob/main/mathe.h) | **PD/MIT** | C | **1** | mathematical expression parsing
 ext | [cor.h](https://github.com/dyeo/dyeo.h/blob/main/cor.h) | **PD/MIT** | C | **1** | coroutines
 ext | [errnoname](https://github.com/mentalisttraceur/errnoname) | BSD0 | C | 2 | extended errno messages
