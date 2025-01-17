@@ -1,8 +1,5 @@
 # Single-file public-domain/open source libraries with minimal dependencies
 
-I am the author of a large number of [single-file C/C++ public domain libraries](https://github.com/nothings/stb).
-I am not the only person who writes libraries like this, so below are other, similar libraries.
-
 Generally, the following is a list of small, easy-to-integrate, portable libraries
 which are usable from C and/or C++, and should be able to be compiled on both
 32-bit and 64-bit platforms. However, I have not personally verified that any
