@@ -149,10 +149,10 @@ ecs    | [pico_ecs.h](https://github.com/empyreanx/pico_headers/blob/main/pico_e
 engine | [FWK1](https://github.com/fwk3d/v1/blob/master/2024/2024.10/engine/joint.h) | **PD**    | C |**1**| Game engine
 engine | [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) | BSD3         | C++ |**1**| Game engine
 eval   | [mathe.h](https://github.com/dyeo/dyeo.h/blob/main/mathe.h)          | **PD**/MIT       |  C  |**1**| mathematical expression parsing
-ext    | [cor.h](https://github.com/dyeo/dyeo.h/blob/main/cor.h)              | **PD**/MIT       |  C  |**1**| coroutines
-ext    | [errnoname](https://github.com/mentalisttraceur/errnoname)           | **BSD0**         |  C  |  2  | extended errno messages
-ext    | [filesystem](https://github.com/gulrak/filesystem)                   | MIT              | C++ |**1**| implementation of std::filesystem
-ext    | [outcome](https://github.com/ned14/outcome/tree/develop/single-header) | Apache2/Boost  | C++ |**1**| outcome and result C++ containers
+c      | [cor.h](https://github.com/dyeo/dyeo.h/blob/main/cor.h)              | **PD**/MIT       |  C  |**1**| coroutines
+c      | [errnoname](https://github.com/mentalisttraceur/errnoname)           | **BSD0**         |  C  |  2  | extended errno messages
+cpp    | [filesystem](https://github.com/gulrak/filesystem)                   | MIT              | C++ |**1**| implementation of std::filesystem
+cpp    | [outcome](https://github.com/ned14/outcome/tree/develop/single-header) | Apache2/Boost  | C++ |**1**| outcome and result C++ containers
 file   | [dirent](https://github.com/tronkko/dirent)                          | MIT              |C/C++|**1**| dirent for Windows: retrieve file & dir info
 file   | [tfile](https://github.com/rec/tfile)                                | MIT              |C++|**1**| FILE* wrapper does read-write-append-seek-close (Win/Mac/Unix)
 file   | [TinyDir](https://github.com/cxong/tinydir)                          | BSD              |  C  |**1**| cross-platform directory reading (Win/POSIX/MinGW)
@@ -339,11 +339,11 @@ parse  | [tinymemfile](https://github.com/RandyGaul/tinyheaders)              | 
 parse  | [udisasm](https://gitlab.com/bztsrc/udisasm)                         | MIT              |C/C++|**1**| extremely small disassembler for ARMv8.2 AArch64 (~65k) |
 parse  | [Unformat](https://github.com/adamyaxley/Unformat)                   | **PD**           | C++ |**1**| parses formatted strings (reverse of std::format)
 parse  | [ini.h](https://github.com/mattiasgustavsson/libs)                   | **PD**           |C/C++|**1**| .ini file parser
-parser | [html-parse.c](https://git.savannah.gnu.org/cgit/wget.git/tree/src/html-parse.c)  | GPL |  C  |  2  | HTML parser (wget)
-parser | [tiny-regex-c](https://github.com/kokke/tiny-regex-c)                | **PD**           |  C  |  2  | Small portable regex in C
-parser | [tiny-regex-mod](https://github.com/monolifed/tiny-regex-mod)        | **PD**           |  C  |**1**| Tiny regular expressions library 
-parser | [tok](https://gitlab.com/bztsrc/tok)                                 | MIT              |  C  |**1**| Configurable tokenizer
-parser | [tomlplusplus](https://github.com/marzer/tomlplusplus)               | MIT              | C++ |**1**| TOML parser and serializer 
+parse  | [html-parse.c](https://git.savannah.gnu.org/cgit/wget.git/tree/src/html-parse.c)  | GPL |  C  |  2  | HTML parser (wget)
+parse  | [tiny-regex-c](https://github.com/kokke/tiny-regex-c)                | **PD**           |  C  |  2  | Small portable regex in C
+parse  | [tiny-regex-mod](https://github.com/monolifed/tiny-regex-mod)        | **PD**           |  C  |**1**| Tiny regular expressions library 
+parse  | [tok](https://gitlab.com/bztsrc/tok)                                 | MIT              |  C  |**1**| Configurable tokenizer
+parse  | [tomlplusplus](https://github.com/marzer/tomlplusplus)               | MIT              | C++ |**1**| TOML parser and serializer 
 prng   | [ranxoshi256](https://github.com/BareRose/ranxoshi256)               | **PD**           |  C  |**1**| xoshiro256 algorithm
 profile| [MicroProfile](https://github.com/jonasmr/microprofile)              | **PD**           | C++ | 2-4 | CPU (and GPU?) profiler, 1-3 header files, uses miniz internally
 profile| [prof](https://github.com/cyrus-and/prof)                            | MIT              |C/C++|**1**| profiler for Linux
@@ -401,8 +401,8 @@ test   | [labrat](https://github.com/squarewave/labrat)                       | 
 test   | [Rexo](https://github.com/christophercrouzet/rexo)                   | **PD**           |C/C++|**1**| framework for C89/C++ featuring automatic registration of tests and a polished API
 test   | [utest.h](https://github.com/sheredom/utest.h)                       | **PD**           |C/C++|**1**| unit testing
 test   | [walter](https://github.com/ir33k/walter)                            | **PD**           |  C  |**1**| unit testing
-text2d | [rang](https://github.com/agauniyal/rang)                            | **PD**           | C++ |**1**| cross-platform colored console text
-text2d | [ssfn.h](https://gitlab.com/bztsrc/scalable-font)                    | MIT              |C/C++|**1**| scalable/bitmap/pixmap font renderer
+sys    | [rang](https://github.com/agauniyal/rang)                            | **PD**           | C++ |**1**| cross-platform colored console text
+font   | [ssfn.h](https://gitlab.com/bztsrc/scalable-font)                    | MIT              |C/C++|**1**| scalable/bitmap/pixmap font renderer
 thread | [bikeshed.h](https://github.com/DanEngelbrecht/bikeshed)             | MIT              |C/C++|**1**| cross-platform lock free fixed memory hierarchical work scheduler
 thread | [mm_sched.h](https://github.com/vurtun/mmx)                          | zlib             |C/C++|**1**| cross-platform multithreaded task scheduler based on [enkiTS](https://github.com/dougbinks/enkiTS)
 thread | [px_sched.h](https://github.com/pplux/px/blob/master/px_sched.h)     | MIT              | C++ |  1  | cross-platform task scheduler [info](https://github.com/pplux/px/blob/master/README_px_sched.md)
@@ -433,6 +433,27 @@ xml    | [pugixml](http://pugixml.org/)                                       | 
 xml    | [tinyxml2](https://github.com/leethomason/tinyxml2)                  | zlib             | C++ |  2  | simple, small, efficient, C++ XML parser
 xml    | [yxml](https://dev.yorhel.nl/yxml)                                   | MIT              | C   |  2  | small, fast and correct XML parser
 yaml   | [mini-yaml](https://github.com/jimmiebergmann/mini-yaml)             | MIT              | C++ |  2  | YAML parser and serializer
+audio  | [stb_vorbis](https://github.com/nothings/stb/blob/main/stb_vorbis.c)  |                               **PD**|C/C++|**1**| decode ogg vorbis files from file/memory to float/16-bit signed output
+audio  | [stb_hexwave](https://github.com/nothings/stb/blob/main/stb_hexwave.h)|                               **PD**|C/C++|**1**| audio waveform synthesizer
+image  | [stb_image](https://github.com/nothings/stb/blob/main/stb_image.h) |                                  **PD**|C/C++|**1**| image loading/decoding from file/memory: JPG, PNG, TGA, BMP, PSD, GIF, HDR, PIC
+font   | [stb_truetype](https://github.com/nothings/stb/blob/main/stb_truetype.h) |                            **PD**|C/C++|**1**| parse, decode, and rasterize characters from truetype fonts
+image  | [stb_image_write](https://github.com/nothings/stb/blob/main/stb_image_write.h) |                      **PD**|C/C++|**1**| image writing to disk: PNG, TGA, BMP
+image  | [stb_image_resize2](https://github.com/nothings/stb/blob/main/stb_image_resize2.h)|                   **PD**|C/C++|**1**| resize images larger/smaller with good quality
+image  | [stb_rect_pack](https://github.com/nothings/stb/blob/main/stb_rect_pack.h) |                          **PD**|C/C++|**1**| simple 2D rectangle packer with decent quality
+image  | [stb_perlin](https://github.com/nothings/stb/blob/main/stb_perlin.h) |                                **PD**|C/C++|**1**| perlin's revised simplex noise w/ different seeds
+ds     | [stb_ds](https://github.com/nothings/stb/blob/main/stb_ds.h) |                                        **PD**|C/C++|**1**| typesafe dynamic array and hash tables for C, will compile in C++
+c      | [stb_sprintf](https://github.com/nothings/stb/blob/main/stb_sprintf.h) |                              **PD**|C/C++|**1**| fast sprintf, snprintf for C/C++
+ui     | [stb_textedit](https://github.com/nothings/stb/blob/main/stb_textedit.h) |                            **PD**|C/C++|**1**| guts of a text editor for games etc implementing them from scratch
+3d     | [stb_voxel_render](https://github.com/nothings/stb/blob/main/stb_voxel_render.h) |                    **PD**|C/C++|**1**| Minecraft-esque voxel rendering "engine" with many more features
+pack   | [stb_dxt](https://github.com/nothings/stb/blob/main/stb_dxt.h) |                                      **PD**|C/C++|**1**| real-time DXT compressor
+font   | [stb_easy_font](https://github.com/nothings/stb/blob/main/stb_easy_font.h) |                          **PD**|C/C++|**1**| quick-and-dirty easy-to-deploy bitmap font for printing frame rate, etc
+game   | [stb_tilemap_editor](https://github.com/nothings/stb/blob/main/stb_tilemap_editor.h) |                **PD**|C/C++|**1**| embeddable tilemap editor
+game   | [stb_herringbone_wang_tile](https://github.com/nothings/stb/blob/main/stb_herringbone_wang_tile.h) |  **PD**|C/C++|**1**| herringbone Wang tile map generator
+parse  | [stb_c_lexer](https://github.com/nothings/stb/blob/main/stb_c_lexer.h) |                              **PD**|C/C++|**1**| simplify writing parsers for C-like languages
+math   | [stb_divide](https://github.com/nothings/stb/blob/main/stb_divide.h) |                                **PD**|C/C++|**1**| more useful 32-bit modulus
+game   | [stb_connected_components](https://github.com/nothings/stb/blob/main/stb_connected_components.h) |    **PD**|C/C++|**1**| incrementally compute reachability on grids
+misc   | [stb_leakcheck](https://github.com/nothings/stb/blob/main/stb_leakcheck.h) |                          **PD**|C/C++|**1**| quick-and-dirty malloc/free leak-checking
+misc   | [stb_include](https://github.com/nothings/stb/blob/main/stb_include.h) |                              **PD**|C/C++|**1**| implement recursive #include support, particularly for GLSL
 
 ## New libraries and corrections
 
