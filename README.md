@@ -1,9 +1,9 @@
-# Single-file C/C++ open-source libraries with minimal dependencies
+# C/C++ open-source libraries with minimal dependencies
 
 Generally, the following is a list of small, easy-to-integrate, portable libraries
 which are usable from C and/or C++, and should be able to be compiled on both
-32-bit and 64-bit platforms. However, we have not personally verified that any
-specific library is as advertised, or is quality software.
+32-bit and 64-bit platforms. There is preference for libraries that are C, public domain and single-file.
+However, we have not personally verified that any specific library is as advertised, or is quality software.
 
 ### Rules
 
@@ -447,19 +447,9 @@ yaml   | [mini-yaml](https://github.com/jimmiebergmann/mini-yaml)             | 
 
 ## New libraries and corrections
 
-Submissions of new libraries: We accept submissions (as issues or as pull requests). Please
-note that every file that must be included in a user's project counts; a header and a source
-file is 2 files, but a header file, source file, and LICENSE (if the license isn't in the
-source file) is 3 files, and won't be accepted, because it's not 2 files. But actually
-'LICENSE' is a problem for just dropping the library in a source tree anyway, since it's
-not scoped to just the library, so library authors are encouraged to include the license in the
-source file and not require a separate LICENSE.
-
-Corrections: if information for a library above is wrong, please send a correction as an
-issue, pull request, or email. Note that if the list indicates a library works from both
-C/C++, but it doesn't, this could be an error in the list or it could be a bug in the
-library. If you find a library doesn't work in 32-bit or 64-bit, the library should be
-removed from this list, unless it's a bug in the library.
+We accept submissions for new libraries and corrections if information for a library above is wrong.
+Consider either opening a Pull Request, a new Issue or drop a message in our discord channel: https://discord.gg/2fZVEym
+The server is meant to be a pleasant space to chat about C, C++, Libs and Game development especifically.
 
 ## *List FAQ*
 
