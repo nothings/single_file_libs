@@ -19,8 +19,32 @@ Exceptions will be allowed for good reasons.
 
 Also you might be interested in other related, but different lists:
 
+- [STB](https://github.com/nothings/stb): the mighty collection of gamedev utils.
 - [clib](https://github.com/clibs/clib/wiki/Packages): list of (mostly) small single C functions (licenses not listed)
 - [CCAN](https://ccodearchive.net/list.html): package of lots of shareable C functions (mixed licenses)
+- And some more: 
+[clibs](https://github.com/ennorehling/clibs), 
+[dr_libs](https://github.com/mackron/dr_libs), 
+[dyeo.h](https://github.com/dyeo/dyeo.h), 
+[final_game_tech (C,C++)](https://github.com/f1nalspace/final_game_tech), 
+[gb](https://github.com/gingerBill/gb), 
+[jar](https://github.com/kd7tck/jar), 
+[libs](https://github.com/mattiasgustavsson/libs), 
+[maratis](https://github.com/anael-seghezzi/Maratis-Tiny-C-library), 
+[minilibs](https://github.com/ccxvii/minilibs), 
+[mmx](https://github.com/vurtun/mmx), 
+[noc](https://github.com/guillaumechereau/noc), 
+[par](https://github.com/prideout/par), 
+[pico_headers](https://github.com/empyreanx/pico_headers), 
+[px (C++)](https://github.com/pplux/px), 
+[rjm](https://github.com/rmitton/rjm), 
+[snippets](https://github.com/DanielGibson/Snippets), 
+[sokol](https://github.com/floooh/sokol), 
+[sts](https://github.com/kieselsteini/sts), 
+[sweet.hpp (C++)](https://github.com/burner/sweet.hpp), 
+[tinybits (C,C++)](https://github.com/r-lyeh/tinybits), 
+[tinyheaders (C,C++)](https://github.com/RandyGaul/tinyheaders), 
+[yocto-gl (C++)](https://github.com/xelatihy/yocto-gl), 
 
 ### Library listing
 
