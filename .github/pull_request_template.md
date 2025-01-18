@@ -15,4 +15,4 @@ Remember the rules:
 **Please consider postponing the PR if the submission does not guarantee most of the conditions above.**
 
 You can also chat/discuss about C/C++ and Game development in our discord channel: https://discord.gg/2fZVEym
-The server is meant to be a pleasant space to chat about C, C++, Libs and Game development especifically.
+The server is meant to be a pleasant space to chat about C, C++, Libs authoring and Game development specifically.

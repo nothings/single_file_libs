@@ -449,7 +449,7 @@ yaml   | [mini-yaml](https://github.com/jimmiebergmann/mini-yaml)             | 
 
 We accept submissions for new libraries and corrections if information for a library above is wrong.
 Consider either opening a Pull Request, a new Issue or drop a message in our discord channel: https://discord.gg/2fZVEym
-The server is meant to be a pleasant space to chat about C, C++, Libs and Game development especifically.
+The server is meant to be a pleasant space to chat about C, C++, Libs authoring and Game development specifically.
 
 ## *List FAQ*
 
