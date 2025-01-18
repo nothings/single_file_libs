@@ -2,7 +2,7 @@
 
 Generally, the following is a list of small, easy-to-integrate, portable libraries
 which are usable from C and/or C++, and should be able to be compiled on both
-32-bit and 64-bit platforms. However, I have not personally verified that any
+32-bit and 64-bit platforms. However, we have not personally verified that any
 specific library is as advertised, or is quality software.
 
 ### Rules
@@ -457,7 +457,7 @@ yaml   | [mini-yaml](https://github.com/jimmiebergmann/mini-yaml)             | 
 
 ## New libraries and corrections
 
-Submissions of new libraries: I accept submissions (as issues or as pull requests). Please
+Submissions of new libraries: We accept submissions (as issues or as pull requests). Please
 note that every file that must be included in a user's project counts; a header and a source
 file is 2 files, but a header file, source file, and LICENSE (if the license isn't in the
 source file) is 3 files, and won't be accepted, because it's not 2 files. But actually
@@ -479,16 +479,16 @@ Yes. For historical reasons, [this is the preferred link.](https://github.com/no
 
 ### Why isn't library XXX which is made of 3 or more files on this list?
 
-I draw the line arbitrarily at 2 files at most. (Note that some libraries that appear to
+We draw the line arbitrarily at 2 files at most. (Note that some libraries that appear to
 be two files require a separate LICENSE file, which made me leave them out). Some of these
 libraries are still easy to drop into your project and build, so you might still be ok with them.
-But since people come to stb for single-file public domain libraries, I feel that starts
+But since people come to stb for single-file public domain libraries, we feel that starts
 to get too far from what we do here.
 
 ### Why isn't library XXX which is at most two files and has minimal other dependencies on this list?
 
-Probably because I don't know about it, feel free to submit a pull request or issue (it can be your
-own library or somebody else's). But I might not include it for various other reasons, including
+Probably because we don't know about it, feel free to submit a pull request or issue (it can be your
+own library or somebody else's). But we might not include it for various other reasons, including
 subtleties of what is 'minimal other dependencies' and subtleties about what is 'lightweight'.
 
 ### Why isn't SQLite's amalgamated build on this list?
