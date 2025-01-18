@@ -8,6 +8,7 @@ specific library is as advertised, or is quality software.
 ### Rules
 
 - Libraries must be usable from C or C++, ideally both.
+- Libraries must include the licensing terms in the header and source files.
 - Libraries should be usable from more than one platform (ideally, all major desktops and/or all major mobile).
 - Libraries should compile and work on both 32-bit and 64-bit platforms.
 - Libraries should use at most two files (one header, one source): more than two files are mostly forbidden.
@@ -478,7 +479,7 @@ Probably because we don't know about it, feel free to submit a pull request or i
 own library or somebody else's). But we might not include it for various other reasons, including
 subtleties of what is 'minimal other dependencies' and subtleties about what is 'lightweight'.
 
-### What's the difference between C, C++ and C/C++ in the API column?
+### What are the differences between C, C++ and C/C++ in the API column?
 
 For the API column, "C" means C only, "C++" means C++ only, and "C/C++" means C/C++ usable
 from either; some files may require *building* as C or C++ but still qualify as "C/C++" as
@@ -486,6 +487,15 @@ long as the header file uses `extern "C"` to make it work. (In some cases, a hea
 library may compile as both C or C++, but produce an implementation that can only be called from
 one or the other, because of a lack of use of `extern "C"`; in this case the table still qualifies it
 as C/C++, as this is not an obstacle to most users.)
+
+### Why are the LICENSING terms required in the header and source files?
+
+Please note that every file that must be included in a user's project counts; a header and a source
+file is 2 files, but a header file, source file, and LICENSE (if the license isn't in the
+source file) is 3 files, and won't be accepted, because it's not 2 files. But actually
+'LICENSE' is a problem for just dropping the library in a source tree anyway, since it's
+not scoped to just the library, so library authors are encouraged to include the license in the
+source file and not require a separate LICENSE.
 
 ### Why isn't SQLite's amalgamated build on this list?
 
