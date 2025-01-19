@@ -5,6 +5,12 @@ which are usable from C and/or C++, and should be able to be compiled on both
 32-bit and 64-bit platforms. There is preference for libraries that are C, public domain and single-file.
 However, we have not personally verified that any specific library is as advertised, or is quality software.
 
+### New libraries and corrections
+
+We accept submissions for new libraries and corrections if information for a library below is wrong.
+Consider either opening a Pull Request, a new Issue or drop a message in our discord channel: https://discord.gg/2fZVEym
+The server is meant to be a pleasant space to chat about C, C++, Libs authoring and Game development specifically.
+
 ### Rules
 
 - Libraries must be usable from C or C++, ideally both.
@@ -19,32 +25,53 @@ Exceptions will be allowed for good reasons.
 
 Also you might be interested in other related, but different lists:
 
-- [STB](https://github.com/nothings/stb): the mighty collection of gamedev utils.
+- [**STB**](https://github.com/nothings/stb): the mighty collection of gamedev utils.
 - [clib](https://github.com/clibs/clib/wiki/Packages): list of (mostly) small single C functions (licenses not listed)
 - [CCAN](https://ccodearchive.net/list.html): package of lots of shareable C functions (mixed licenses)
 - And some more: 
+[b-library (C,C++)](https://github.com/blat-blatnik/B-Library),
 [clibs](https://github.com/ennorehling/clibs), 
-[dr_libs](https://github.com/mackron/dr_libs), 
+[containers (C++)](https://github.com/JCash/containers),
+[cpp-poc (C++)](https://github.com/xdbr/cpp-poc),
+[**cute_headers** (C,C++)](https://github.com/RandyGaul/cute_headers), 
+[data-structures-c](https://github.com/bartobri/data-structures-c),
+[**dr_libs**](https://github.com/mackron/dr_libs), 
 [dyeo.h](https://github.com/dyeo/dyeo.h), 
+[emilib (C++)](https://github.com/emilk/emilib),
 [final_game_tech (C,C++)](https://github.com/f1nalspace/final_game_tech), 
-[gb](https://github.com/gingerBill/gb), 
+[ftg_toolbox_public](https://github.com/frogtoss/ftg_toolbox_public),
+[**gb**](https://github.com/gingerBill/gb), 
+[gl-helpers (C,C++)](https://github.com/Flix01/Header-Only-GL-Helpers),
+[ijhandlealloc](https://github.com/incrediblejr/ijhandlealloc),
 [jar](https://github.com/kd7tck/jar), 
-[libs](https://github.com/mattiasgustavsson/libs), 
+[kj](https://github.com/AfroDave/kj),
+[**klib**](https://github.com/attractivechaos/klib),
+[libjrc](https://github.com/SmileTheory/libjrc),
+[**libs**](https://github.com/mattiasgustavsson/libs), 
 [maratis](https://github.com/anael-seghezzi/Maratis-Tiny-C-library), 
-[minilibs](https://github.com/ccxvii/minilibs), 
-[mmx](https://github.com/vurtun/mmx), 
+[**minilibs**](https://github.com/ccxvii/minilibs), 
+[miscsrc](https://github.com/wernsey/miscsrc),
+[**mmx**](https://github.com/vurtun/mmx), 
+[**nflibs**](https://github.com/niklasfrykholm/nflibs),
 [noc](https://github.com/guillaumechereau/noc), 
-[par](https://github.com/prideout/par), 
+[**par**](https://github.com/prideout/par), 
 [pico_headers](https://github.com/empyreanx/pico_headers), 
+[portable-snippets](https://github.com/nemequ/portable-snippets),
 [px (C++)](https://github.com/pplux/px), 
 [rjm](https://github.com/rmitton/rjm), 
+[shadertoolkit](https://github.com/jarikomppa/shadertoolkit),
+[single-header-file-c-libs](https://github.com/arkanis/single-header-file-c-libs),
+[snippets](https://github.com/blat-blatnik/Snippets),
 [snippets](https://github.com/DanielGibson/Snippets), 
-[sokol](https://github.com/floooh/sokol), 
+[**sokol**](https://github.com/floooh/sokol), 
+[**statvs** (C++)](https://github.com/r-lyeh-archived/statvs),
 [sts](https://github.com/kieselsteini/sts), 
-[sweet.hpp (C++)](https://github.com/burner/sweet.hpp), 
+[**sweet** (C++)](https://github.com/burner/sweet.hpp), 
 [tinybits (C,C++)](https://github.com/r-lyeh/tinybits), 
-[tinyheaders (C,C++)](https://github.com/RandyGaul/tinyheaders), 
+[**tm**](https://github.com/to-miz/tm),
 [yocto-gl (C++)](https://github.com/xelatihy/yocto-gl), 
+[zeroTolerance](https://github.com/jharler/ZeroTolerance),
+[zheaders](https://github.com/Zguy/ZHeaders),
 
 ### Library listing
 
@@ -469,11 +496,27 @@ xml    | [tinyxml2](https://github.com/leethomason/tinyxml2)                  | 
 xml    | [yxml](https://dev.yorhel.nl/yxml)                                   | MIT              | C   |  2  | small, fast and correct XML parser
 yaml   | [mini-yaml](https://github.com/jimmiebergmann/mini-yaml)             | MIT              | C++ |  2  | YAML parser and serializer
 
-## New libraries and corrections
+<!-- todo
+https://github.com/Chobolabs/chobo-shl
 
-We accept submissions for new libraries and corrections if information for a library above is wrong.
-Consider either opening a Pull Request, a new Issue or drop a message in our discord channel: https://discord.gg/2fZVEym
-The server is meant to be a pleasant space to chat about C, C++, Libs authoring and Game development specifically.
+https://github.com/avivbeeri/abc
+https://github.com/azmr/blit-fonts
+https://github.com/azmr/colourblind
+https://github.com/azmr/live_edit
+https://github.com/cdwfs/algo
+https://github.com/cdwfs/cds_sync
+https://github.com/edubart/minilua
+https://github.com/matanui159/jebp
+https://github.com/simongeilfus/SimplexNoise
+https://github.com/stevenlr/Flint
+https://github.com/wareya/Remimu
+https://github.com/wc-duck/dirutil
+https://github.com/wc-duck/dbgtools
+https://github.com/wc-duck/uuid_h
+https://github.com/WilliamBundy/wb_alloc
+
+[random3](https://github.com/MichelPaulissen/random3),
+-->
 
 ## *List FAQ*
 
