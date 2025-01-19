@@ -208,6 +208,7 @@ ds     | [trie.hpp](https://github.com/burner/sweet.hpp/trie.hpp)             | 
 ds     | [uthash](https://github.com/troydhanson/uthash)                      | BSD              |C/C++|  2  | several 1-header, 1-license-file libs: generic hash, list, etc
 ecs    | [pico_ecs.h](https://github.com/empyreanx/pico_headers/blob/main/pico_ecs.h) | **PD**/zlib |  C  |**1**| Pure and simple ECS
 engine | [FWK1](https://github.com/fwk3d/v1/blob/master/2024/2024.10/engine/joint.h) | **PD**    | C |**1**| 3D game framework in C
+engine | [kit](https://github.com/rxi/kit)                                    | **PD**           | C |**1**| tiny library for making small games with big pixels
 engine | [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) | BSD3         | C++ |**1**| Game engine
 engine | [Punity](https://github.com/martincohen/Punity)                      | MIT              | C |**1**| A tiny game engine in C
 eval   | [mathe.h](https://github.com/dyeo/dyeo.h/blob/main/mathe.h)          | **PD**/MIT       |  C  |**1**| mathematical expression parsing
