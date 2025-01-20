@@ -507,6 +507,7 @@ xml    | [tinyxml2](https://github.com/leethomason/tinyxml2)                  | 
 xml    | [yxml](https://dev.yorhel.nl/yxml)                                   | MIT              | C   |  2  | small, fast and correct XML parser
 yaml   | [mini-yaml](https://github.com/jimmiebergmann/mini-yaml)             | MIT              | C++ |  2  | YAML parser and serializer
 script | [minilua](https://github.com/edubart/minilua)                        | MIT              |C/C++|**1**| Single-file port of Lua scripting language
+C      | [minicoro](https://github.com/edubart/minicoro/)                     | **PD**/**0MIT**  |C/C++|**1**| Stackful cross-platform coroutine library
 
 <!-- todo
 
@@ -516,7 +517,6 @@ font|https://github.com/azmr/blit-fonts|ISC|C/C++|1|bitmap font blitters
 ds|https://github.com/cdwfs/algo|**PD**|C|1|Collection of data structures (queue, stack, graph, heap...)
 math|https://github.com/cdwfs/cds_spline/blob/master/cds_spline.h|**PD**|C|1|Spline utils
 thread|https://github.com/cdwfs/cds_sync|**PD**|C|1|Collection of synchronization primitives
-C|[minicoro](https://github.com/edubart/minicoro/)|**PD**/**0MIT**|C/C++|**1**|Stackful cross-platform coroutine library
 https://github.com/matanui159/jebp
 https://github.com/simongeilfus/SimplexNoise
 https://github.com/stevenlr/Flint
