@@ -415,6 +415,7 @@ ui     | [stb_textedit](https://github.com/nothings/stb/blob/main/stb_textedit.h
 ui     | [tinyfiledialogs](https://sourceforge.net/projects/tinyfiledialogs/) | ZLIB             |C/C++|  2  | modal dialogs inc. file open/save (Win/Mac/Linux)
 ui     | [wcwidth9](https://github.com/joshuarubin/wcwidth9)                  | Apache2          | C   |  1  | platform independent wcwidth with full unicode 9 support
 ui     | [webview](https://github.com/zserge/webview)                         | MIT              | C/C++ |**1**| cross-platform webview library
+ui     | [Clay](https://github.com/nicbarker/clay)                            | Zlib             | C/C++ |**1**| High performance 2D UI layout library
 unit   | [catch2](https://github.com/catchorg/Catch2/)                        | Boost            | C++ |**1**| unit testing
 unit   | [catch](https://github.com/philsquared/Catch)                        | Boost            | C++ |**1**| unit testing
 unit   | [clove-unit](https://github.com/fdefelici/clove-unit)                | MIT              |  C  |**1**| unit testing
