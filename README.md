@@ -510,11 +510,11 @@ script | [minilua](https://github.com/edubart/minilua)                        | 
 C      | [minicoro](https://github.com/edubart/minicoro/)                     | **PD**/**0MIT**  |C/C++|**1**| Stackful cross-platform coroutine library
 mem    | [wb_alloc](https://github.com/WilliamBundy/wb_alloc)                 | **PD**           |C/C++|**1**| custom allocators in a single-header
 image  | WEBP [jebp](https://github.com/matanui159/jebp)                      | **0MIT**         |C/C++|**1**| Single header WebP decoder
+font   | [blit-fonts](https://github.com/azmr/blit-fonts)                     | ISC              |C/C++|**1**| bitmap font blitters
 
 <!-- todo
 
 https://github.com/avivbeeri/abc - check branches
-font|https://github.com/azmr/blit-fonts|ISC|C/C++|1|bitmap font blitters
 2d|https://github.com/azmr/colourblind|ISC|C|1|simulating colourblindness
 ds|https://github.com/cdwfs/algo|**PD**|C|1|Collection of data structures (queue, stack, graph, heap...)
 math|https://github.com/cdwfs/cds_spline/blob/master/cds_spline.h|**PD**|C|1|Spline utils
