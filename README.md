@@ -512,12 +512,12 @@ mem    | [wb_alloc](https://github.com/WilliamBundy/wb_alloc)                 | 
 image  | WEBP [jebp](https://github.com/matanui159/jebp)                      | **0MIT**         |C/C++|**1**| Single header WebP decoder
 font   | [blit-fonts](https://github.com/azmr/blit-fonts)                     | ISC              |C/C++|**1**| bitmap font blitters
 2d     | [colourblind](https://github.com/azmr/colourblind)                   | ISC              |C/C++|**1**| simulating colourblindness
-ds     | [cdwfs](https://github.com/cdwfs/algo)                               | **PD**           |C/C++|**1**| Collection of data structures (queue, stack, graph, heap...)
+ds     | [cds_algo](https://github.com/cdwfs/algo)                            | **PD**           |C/C++|**1**| Collection of data structures (queue, stack, graph, heap...)
+math   | [cds_spline](https://github.com/cdwfs/cds_spline/blob/master/cds_spline.h)|**PD**       |C/C++|**1**| Spline utils
 
 <!-- todo
 
 https://github.com/avivbeeri/abc - check branches
-math|https://github.com/cdwfs/cds_spline/blob/master/cds_spline.h|**PD**|C|1|Spline utils
 thread|https://github.com/cdwfs/cds_sync|**PD**|C|1|Collection of synchronization primitives
 https://github.com/simongeilfus/SimplexNoise
 https://github.com/stevenlr/Flint
