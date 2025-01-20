@@ -49,6 +49,7 @@ Also you might be interested in other related, but different lists:
 [**klib**](https://github.com/attractivechaos/klib),
 [libjrc](https://github.com/SmileTheory/libjrc),
 [**libs**](https://github.com/mattiasgustavsson/libs), 
+[libs](https://github.com/bullno1/libs),
 [live_edit](https://github.com/azmr/live_edit),
 [maratis](https://github.com/anael-seghezzi/Maratis-Tiny-C-library), 
 [**minilibs**](https://github.com/ccxvii/minilibs), 
