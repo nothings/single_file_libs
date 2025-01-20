@@ -514,11 +514,11 @@ font   | [blit-fonts](https://github.com/azmr/blit-fonts)                     | 
 2d     | [colourblind](https://github.com/azmr/colourblind)                   | ISC              |C/C++|**1**| simulating colourblindness
 ds     | [cds_algo](https://github.com/cdwfs/algo)                            | **PD**           |C/C++|**1**| Collection of data structures (queue, stack, graph, heap...)
 math   | [cds_spline](https://github.com/cdwfs/cds_spline/blob/master/cds_spline.h)|**PD**       |C/C++|**1**| Spline utils
+thread | [cds_sync](https://github.com/cdwfs/cds_sync)                        | **PD**           |C/C++|**1**| Collection of synchronization primitives
 
 <!-- todo
 
 https://github.com/avivbeeri/abc - check branches
-thread|https://github.com/cdwfs/cds_sync|**PD**|C|1|Collection of synchronization primitives
 https://github.com/simongeilfus/SimplexNoise
 https://github.com/stevenlr/Flint
 https://github.com/wareya/Remimu
