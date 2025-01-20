@@ -407,6 +407,7 @@ thread | [cds_job](https://github.com/cdwfs/cds_job)                          | 
 thread | [cds_sync](https://github.com/cdwfs/cds_sync)                        | **PD**           |C/C++|**1**| Collection of synchronization primitives
 thread | [TinyCThread](https://tinycthread.github.io/)                        | zlib             |C/C++|  2  | cross-platform implementation of the C11 Threads API
 thread | [TinyThread++](https://tinythreadpp.bitsnbites.eu/)                  | zlib             | C++ |  2  | cross-platform implementation of the C++11 Threads API
+ui     | [Clay](https://github.com/nicbarker/clay)                            | Zlib             | C/C++ |**1**| High performance 2D UI layout library
 ui     | [dear imgui](https://github.com/ocornut/imgui)                       | MIT              | C++ |  9  | an immediate-mode GUI formerly named "ImGui"; [3rd-party C wrapper](https://github.com/Extrawurst/cimgui)
 ui     | [libcmdf](https://github.com/ronen25/libcmdf)                        | **PD**           | C   |**1**| a small library for writing CLI applications
 ui     | [linenoise](https://github.com/antirez/linenoise)                    | BSD              |C/C++|  2  | terminal readline w/ history etc
