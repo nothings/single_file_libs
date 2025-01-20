@@ -89,14 +89,8 @@ Also you might be interested in other related, but different lists:
 2d     | [Cimg](https://cimg.eu/)                                             | CeCILL/CeCILL-C  | C++ |**1**| image processing toolkit (60K LoC)
 2d     | [colourblind](https://github.com/azmr/colourblind)                   | ISC              |C/C++|**1**| simulating colourblindness
 2d     | [daisy](https://github.com/sse2/daisy)                               | MIT              | C++ |**1**| 2D Graphics and text
-2d     | [final_tiletrace.hpp](https://github.com/f1nalspace/final_game_tech/blob/master/final_tiletrace.hpp) | MIT | C++ |**1**| tilemap contour tracing
 2d     | [Immediate2D](https://github.com/npiegdon/immediate2d)               | **PD**           | C++ |  2  | zero-configuration, immediate-mode 2D graphics for Windows
-2d     | [m_dist.h](https://github.com/anael-seghezzi/Maratis-Tiny-C-library/blob/master/include/m_dist.h) | zlib | C/C++ |**1**| fast distance transform and Voronoi
 2d     | [m_image.h](https://github.com/anael-seghezzi/Maratis-Tiny-C-library/blob/master/include/m_image.h) | zlib | C/C++ |**1**| image processing routines
-2d     | [m_raster.h](https://github.com/anael-seghezzi/Maratis-Tiny-C-library/blob/master/include/m_raster.h) | zlib | C/C++ |**1**| simple rasterizer
-2d     | [noc_turtle](https://github.com/guillaumechereau/noc)                | MIT              |C/C++|  2  | procedural graphics generator
-2d     | [pico_gfx.h](https://github.com/empyreanx/pico_headers/blob/main/pico_gfx.h) | **PD**/zlib |  C  |**1**| Graphics library (sokol_gfx)
-2d     | [pico_gl.h](https://github.com/empyreanx/pico_headers/blob/mainpico_gl.h) | **PD**/zlib |  C  |**1**| Graphics library (OpenGL)
 2d     | [RFont](https://github.com/ColleagueRiley/RFont)                     | zlib             |C/C++|  1  | Simple-to-use lightweight single header modular font rendering library
 2d     | [RGL](https://github.com/ColleagueRiley/RGL)                         | zlib             |C/C++|  1  | Simple ultra-lightweight OpenGL version abstraction based on RLGL (pipeline system)
 2d     | [scalable-font2](https://gitlab.com/bztsrc/scalable-font2)           | MIT              |  C  |**1**| Scalable Font renderer + specification
@@ -104,35 +98,25 @@ Also you might be interested in other related, but different lists:
 2d     | [tigr](https://bitbucket.org/rmitton/tigr/src)                       | **PD**           |C/C++|  2  | quick-n-dirty window text/graphics for Windows and macOS
 2d     | [wfc](https://github.com/krychu/wfc)                                 | MIT              |  C  |**1**| generate image locally similar to the input image using WFC algorithm
 3d     | [debug-draw](https://github.com/glampert/debug-draw)                 | **PD**           | C++ |**1**| API-agnostic immediate-mode debug rendering
-3d     | [final_dynamic_opengl.h](https://github.com/f1nalspace/final_game_tech/blob/master/final_dynamic_opengl.h) | MIT |  C  |**1**| opengl loader
 3d     | [lightmapper](https://github.com/ands/lightmapper#lightmapper)       | **PD**           |C/C++|**1**| use your OpenGL renderer to offline bake lightmaps
 3d     | [mikktspace](https://developer.blender.org/diffusion/B/browse/master/intern/mikktspace)| zlib|C/C++| 2  | compute tangent space for normal mapping
 3d     | [model3d](https://gitlab.com/bztsrc/model3d)                         | MIT              |  C  |**1**| 3D model format specification
-3d     | [px_render.h](https://github.com/pplux/px/blob/master/px_render.h)   | MIT                  | C++ |**1**| cross-platform, Multithreaded, command based, 3D render API (GL/GLES) [info](https://github.com/pplux/px/blob/master/README_px_render.md)
-3d     | [rjm_raytrace.h](https://github.com/rmitton/rjm)                     | **PD**           |C/C++|**1**| minimalistic SSE packet raytracer for offline baking
 3d     | [seamoptimizer](https://github.com/ands/seamoptimizer)               | **PD**           |C/C++|**1**| modify lightmap data to hide seams
 3d     | [Simple OpenGL Loader](https://github.com/tsherif/simple-opengl-loader)| MIT            |C/C++|**1**| extensible, cross-platform OpenGL loader
 3d     | [small3dlib](https://gitlab.com/drummyfish/small3dlib)               | **CC0** + patent waiver  |C/C++|**1**| fast and portable software renderer
-3d     | [sokol_gfx.h](https://github.com/floooh/sokol)                       | MIT              |C/C++|**1**| cross-platform 3D API wrapper (GLES2+3/GL3/D3D11/Metal)
 3d     | [stb_voxel_render](https://github.com/nothings/stb/blob/main/stb_voxel_render.h) |                    **PD**|C/C++|**1**| Minecraft-esque voxel rendering "engine" with many more features
 3d     | [Swarmz](https://github.com/Cultrarius/Swarmz)                       | **PD**           | C++ |**1**| swarming/flocking algorithm
 3d     | [tinygizmo](https://github.com/ddiakopoulos/tinygizmo)               | **PD**           | C++ |  2  | gizmo objects for interactively editing 3d transformations
 3d     | [Vertex Cache Optimizer](https://github.com/Sigkill79/sts)           | **PD**           |C/C++|**1**| vertex cache optimization of meshes
 3d     | [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)|MIT|C/C++|**1**| memory allocator for Vulkan
-3d     | [yocto_symrigid.h](https://github.com/xelatihy/yocto-gl)             | MIT              |C/C++|**1**| rigid body simulator (sequential impulse/PGS) with support for concave objects
-3d     | [yocto_trace.h](https://github.com/xelatihy/yocto-gl)                | MIT              |C/C++|**1**| physically-based unidirectional path tracer w/ MIS for direct lights
 ai     | [Genann](https://github.com/codeplea/genann)                         | zlib             |C/C++|  2  | simple neural networks (ANN)
 ai     | [KANN](https://github.com/attractivechaos/kann)                      | MIT              |C/C++|  2  | automatic differentiation (2 files)
-app    | [app.h](https://github.com/mattiasgustavsson/libs)                   | **PD**           |C/C++|**1**| Windows-only-but-meant-to-be-cross-platform game-ish framework
-app    | [final_platform_layer.h](https://github.com/f1nalspace/final_game_tech/blob/master/final_platform_layer.h) | MIT |  C  |**1**| platform abstraction
 app    | [RGFW](https://github.com/ColleagueRiley/RGFW)                       | zlib             |C/C++|**1**| A multi-platform single-header user-friendly GUI framework as an alternative to GLFW 
 argv   | [Argh!](https://github.com/adishavit/argh)                           | BSD              | C++ |**1**| command-line argument parsing
-argv   | [args.h](https://github.com/dyeo/dyeo.h/blob/main/args.h)            | **PD**/MIT       |  C  |**1**| argparse-style argument parser
 argv   | [Clara](https://github.com/catchorg/Clara)                           | Boost            | C++ |**1**| composable, command line parser for C++ 11 and beyond
 argv   | [CLI11](https://github.com/CLIUtils/CLI11)                           | BSD              | C++ |**1**| Feature-rich CLI parsing in modern C++11
 argv   | [cmdline](https://github.com/tanakh/cmdline)                         | BSD              | C++ |**1**| command-line argument parsing
 argv   | [flags](https://github.com/sailormoon/flags)                         | **PD**           | C++ |**1**| command-line argument parsing
-argv   | [getops.hpp](https://github.com/burner/sweet.hpp/getopts.hpp)        | LGPL3            | C++ |**1**| command-line argument parsing for C++ 11 and beyond
 argv   | [kgflags](https://github.com/kgabis/kgflags)                         | MIT              |C/C++|**1**| command-line argument parsing
 argv   | [linkom](https://github.com/hernandp/linkom)                         | MIT              |C/C++|**1**| command-line argument parsing w/ DOS-style options
 argv   | [optionparser](https://optionparser.sourceforge.net/)                | MIT              | C++ |**1**| command-line argument parsing
@@ -142,11 +126,7 @@ audio  | [atomix](https://github.com/BareRose/atomix)                         | 
 audio  | [aw_ima.h](https://github.com/afterwise/aw-ima/blob/master/aw-ima.h) | MIT              |C/C++|**1**| IMA-ADPCM audio decoder
 audio  | [btac1c](https://github.com/cr88192/bgbtech_misc/blob/master/mini/btac1c_mini0.h)| MIT  |C/C++|**1**| MS-IMA_ADPCM variant
 audio  | [chibi-xmplay](https://github.com/reduz/chibi-xmplay)                | BSD3             |  C  |  2  | XM module playback library
-audio  | [dr_flac](https://github.com/mackron/dr_libs)                        | **PD**           |C/C++|**1**| FLAC audio decoder
-audio  | [dr_wav](https://github.com/mackron/dr_libs)                         | **PD**           |C/C++|**1**| WAV audio loader
 audio  | [Geneva](https://github.com/KrzysztofSzewczyk/Geneva)                | MIT              |C/C++|**1**| Library generating 8-bit waveforms of various kinds
-audio  | [jar-mod](https://github.com/kd7tck/jar/blob/master/jar_mod.h)       | **PD**           |  C  |**1**| MOD playback library
-audio  | [jar-xm](https://github.com/kd7tck/jar/blob/master/jar_xm.h)         | **WTFPLv2**      |  C  |**1**| XM playback library
 audio  | [miniaudio](https://github.com/dr-soft/miniaudio)                    | **PD**           |C/C++|**1**| Audio playback and capture library
 audio  | [minimp3](https://github.com/lieff/minimp3)                          | **CC0**          |  C  |**1**| Minimalistic MP3 decoder with sse/neon support
 audio  | [mojoAL](https://github.com/icculus/mojoAL)                          | zlib             |  C  |**1**| Full OpenAL 1.1 implementation
@@ -154,15 +134,9 @@ audio  | [nanoalsa](https://gitlab.com/bztsrc/nanoalsa)                       | 
 audio  | [pocketmod](https://github.com/rombankzero/pocketmod)                | MIT              |C/C++|**1**| ProTracker MOD file renderer
 audio  | [stb_hexwave](https://github.com/nothings/stb/blob/main/stb_hexwave.h)|                               **PD**|C/C++|**1**| audio waveform synthesizer
 audio  | [stb_vorbis](https://github.com/nothings/stb/blob/main/stb_vorbis.c)  |                               **PD**|C/C++|**1**| decode ogg vorbis files from file/memory to float/16-bit signed output
-audio  | [sts_mixer](https://github.com/kieselsteini/sts)                     | **PD**           |C/C++|**1**| simple stereo audio mixer
-audio  | [tinysound](https://github.com/RandyGaul/tinyheaders)                | zlib             |C/C++|**1**| direct sound audio mixer & WAV loader
 audio  | [TinySoundFont](https://github.com/schellingb/TinySoundFont)         | MIT              |C/C++|**1**| SoundFont2 loader & synthesizer
-audio  | [wav.h](https://github.com/dyeo/dyeo.h/blob/main/wav.h)              | **PD**/MIT       |  C  |**1**| .wav file encoding and decoding
-base   | [pico_b64.h](https://github.com/empyreanx/pico_headers/blob/main/pico_b64.h) | **PD**/zlib |  C  |**1**| Base64 en/decoder
-bench  | [benchmark.hpp](https://github.com/burner/sweet.hpp/benchmark.hpp)   | LGPL3            | C++ |**1**| micro benchmark library for C++11 and beyond
 bench  | [picobench](https://github.com/iboB/picobench)                       | MIT              | C++ |**1**| microbenchmarking
 bench  | [ubench.h](https://github.com/sheredom/ubench.h)                     | **PD**           |C/C++|**1**| microbenchmarking 
-c      | [cor.h](https://github.com/dyeo/dyeo.h/blob/main/cor.h)              | **PD**/MIT       |  C  |**1**| coroutines
 c      | [errnoname](https://github.com/mentalisttraceur/errnoname)           | **BSD0**         |  C  |  2  | extended errno messages
 C      | [minicoro](https://github.com/edubart/minicoro/)                     | **PD**/**0MIT**  |C/C++|**1**| Stackful cross-platform coroutine library
 c      | [stb_sprintf](https://github.com/nothings/stb/blob/main/stb_sprintf.h) |                              **PD**|C/C++|**1**| fast sprintf, snprintf for C/C++
@@ -182,20 +156,17 @@ date   | [date](https://github.com/HowardHinnant/date)                        | 
 debug  | [dbgtools](https://github.com/wc-duck/dbgtools)                      | zlib             |C/C++|  2  | cross-platform debug util libraries
 debug  | [debug-assert](https://github.com/foonathan/debug_assert)            | zlib             | C++ |**1**| modular assertion macro
 debug  | [debugbreak](https://github.com/scottt/debugbreak)                   | BSD              |C/C++|**1**| programmatic debug break
-debug  | [log.hpp](https://github.com/burner/sweet.hpp/log.hpp)               | LGPL3            | C++ |**1**| multi threaded simple C++11 and beyond logger
 debug  | [loguru](https://github.com/emilk/loguru)                            | **PD**           | C++ |**1**| flexible logging
 debug  | [pempek_assert.cpp](https://github.com/gpakosz/Assert)               | **WTFPLv2**      | C++ |  2  | flexible assertions
 dev    | [EasyTab](https://github.com/ApoorvaJ/EasyTab)                       | **PD**           |C/C++|**1**| multi-platform tablet input
 dev    | [libue](https://github.com/houqp/libue)                              | MIT              |C/C++|  1  | Helper library for Linux device hot-plug event
 ds     | [aArray](https://tse.gratis/aArray/)                                 | **PD**           |  C  |**1**| Arrays/strings: generic, safe
 ds     | [avl](https://github.com/etherealvisage/avl)                         | **PD**           |C/C++|  2  | AVL tree
-ds     | [bitset.hpp](https://github.com/burner/sweet.hpp/bitset.hpp)         | LGPL3            | C++ |**1**| Compile time sided bit set for C++11 and beyond
 ds     | [c-bool-value](https://github.com/lduck11007/c-bool-value)           | **WTFPLv2**      |C/C++|  1  | Simple and easy boolean values in standard c
 ds     | [cds_algo](https://github.com/cdwfs/algo)                            | **PD**           |C/C++|**1**| Collection of data structures (queue, stack, graph, heap...)
 ds     | [DG_dynarr.h](https://github.com/DanielGibson/Snippets/)             | **PD**           |C/C++|**1**| typesafe dynamic arrays (like std::vector) for plain C
 ds     | [dynarr](https://github.com/BareRose/dynarr)                         | **PD**           |  C  |**1**| dynamic array container
 ds     | [DynaVar](https://github.com/ArjArav98/DynaVar)                      | GPL-3.0          | C++ |  1  | Object which can store any type of primitive data type
-ds     | [fector.hpp](https://github.com/burner/sweet.hpp/fector.hpp)         | LGPL3            | C++ |**1**| A fixed size std::vector like structure
 ds     | [fifo_declare.h](https://github.com/buserror/simavr/blob/master/simavr/sim/fifo_declare.h) | LGPL2 | C/C++ |**1**| Thread/core safe FIFO
 ds     | [itlib](https://github.com/iboB/itlib)                               | MIT              | C++ |**1**| several C++11 standard-contaner-like libraries and helpers
 ds     | [jhr_skip_list](https://github.com/Garfield1002/jhr_skip_list)       | **PD**           | C++ |**1**| Skip Lists
@@ -204,29 +175,20 @@ ds     | [klib](https://attractivechaos.github.io/klib/)                      | 
 ds     | [libintrusive](https://github.com/graphitemaster/libintrusive)       | **PD**           |  C  |  2  | Intrusive data structures
 ds     | [libpqueue](https://github.com/vy/libpqueue)                         | BSD              |C/C++|  2  | priority queue (heap)
 ds     | [LinkedList](https://github.com/ivanseidel/LinkedList)               | MIT              |C/C++|  2  | Linked list C++ 
-ds     | [lstr.h](https://github.com/dyeo/dyeo.h/blob/main/lstr.h)            | **PD**/MIT       |  C  |**1**| length-bounded strings
 ds     | [mempool](https://github.com/hardikp/cpp-mempool)                    | MIT              | C++ |**1**| Efficient minimal memory pool implementation for C++
-ds     | [minilibs](https://github.com/ccxvii/minilibs)                       | **PD**           |  C  |  2  | two-file binary tress (also regex, etc)
 ds     | [PackedArray](https://github.com/gpakosz/PackedArray)                | **WTFPLv2**      |  C  |  2  | memory-efficient array of elements with non-pow2 bitcount
-ds     | [px_mem.h](https://github.com/pplux/px/blob/master/px_mem.h)         | MIT              | C++ |  1  | Safe memory managemnt constructs for C++
 ds     | [selist](https://github.com/ennorehling/clibs)                       | ISC              |C/C++|  2  | space-efficient linked-list
 ds     | [simclist](https://mij.oltrelinux.com/devel/simclist)                | BSD              |C/C++|  2  | linked-list
 ds     | [stb_ds](https://github.com/nothings/stb/blob/main/stb_ds.h) |                                        **PD**|C/C++|**1**| typesafe dynamic array and hash tables for C, will compile in C++
-ds     | [trie.hpp](https://github.com/burner/sweet.hpp/trie.hpp)             | LGPL3            | C++ |**1**| A trie (prefix tree) implementation for C++11
 ds     | [uthash](https://github.com/troydhanson/uthash)                      | BSD              |C/C++|  2  | several 1-header, 1-license-file libs: generic hash, list, etc
-ds     | [zpl](https://github.com/zpl-c/zpl)                                  | *PD*/BSD3        |C/C++|**1**| Foundation utils
-ecs    | [pico_ecs.h](https://github.com/empyreanx/pico_headers/blob/main/pico_ecs.h) | **PD**/zlib |  C  |**1**| Pure and simple ECS
 engine | [FWK1](https://github.com/fwk3d/v1/blob/master/2024/2024.10/engine/joint.h) | **PD**    | C |**1**| 3D game framework in C
 engine | [kit](https://github.com/rxi/kit)                                    | **PD**           | C |**1**| tiny library for making small games with big pixels
 engine | [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) | BSD3         | C++ |**1**| Game engine
 engine | [Punity](https://github.com/martincohen/Punity)                      | MIT              | C |**1**| A tiny game engine in C
-eval   | [mathe.h](https://github.com/dyeo/dyeo.h/blob/main/mathe.h)          | **PD**/MIT       |  C  |**1**| mathematical expression parsing
-file   | [DG_misc.h](https://github.com/DanielGibson/Snippets/)               | **PD**           |C/C++|**1**| Daniel Gibson's stb.h-esque cross-platform helpers: path/file, strings
 file   | [dirent](https://github.com/tronkko/dirent)                          | MIT              |C/C++|**1**| dirent for Windows: retrieve file & dir info
 file   | [miniphysfs](https://github.com/edubart/miniphysfs)                  | zlib             |C/C++|**1**| Single-file port of PhysFS, a fs/zip abstraction
 file   | [tfile](https://github.com/rec/tfile)                                | MIT              |C++|**1**| FILE* wrapper does read-write-append-seek-close (Win/Mac/Unix)
 file   | [TinyDir](https://github.com/cxong/tinydir)                          | BSD              |  C  |**1**| cross-platform directory reading (Win/POSIX/MinGW)
-file   | [tinyfiles](https://github.com/RandyGaul/tinyheaders)                | zlib             |C/C++|**1**| cross-platform directory reading (Win/Mac/Unix)
 file   | [whereami](https://github.com/gpakosz/whereami)                      | **WTFPLv2**      |C/C++|  2  | get path/filename of executable or module
 font   | [blit-fonts](https://github.com/azmr/blit-fonts)                     | ISC              |C/C++|**1**| bitmap font blitters
 font   | [ssfn.h](https://gitlab.com/bztsrc/scalable-font)                    | MIT              |C/C++|**1**| scalable/bitmap/pixmap font renderer
@@ -243,7 +205,6 @@ hash   | [xxHash](https://github.com/Cyan4973/xxHash)                         | 
 image  | [bitmap](https://github.com/ArashPartow/bitmap)                      | MIT              | C++ |**1**| Bitmap decoder and utilities
 image  | [cro_mipmap.h](https://github.com/thebeast33/cro_lib)                | **PD**           |C/C++|**1**| average, min, max mipmap generators
 image  | [framepacker](https://github.com/paladin-t/framepacker)              | MIT              | C++ |**1**| texture bin packing algorithm
-image  | [rjm_texbleed.h](https://github.com/rmitton/rjm)                     | **PD**           |C/C++|**1**| Fills in the color of pixels where alpha==0
 image  | [stb_image](https://github.com/nothings/stb/blob/main/stb_image.h) |                                  **PD**|C/C++|**1**| image loading/decoding from file/memory: JPG, PNG, TGA, BMP, PSD, GIF, HDR, PIC
 image  | [stb_image_resize2](https://github.com/nothings/stb/blob/main/stb_image_resize2.h)|                   **PD**|C/C++|**1**| resize images larger/smaller with good quality
 image  | [stb_image_write](https://github.com/nothings/stb/blob/main/stb_image_write.h) |                      **PD**|C/C++|**1**| image writing to disk: PNG, TGA, BMP
@@ -267,7 +228,6 @@ image  | PNG [TinyPngOutput](https://www.nayuki.io/page/tiny-png-output)      | 
 image  | PNM [PNM](https://github.com/dmilos/PNM)                             | Apache2          | C++ |  1  | PBM, PGM and PPM reader and writer |
 image  | SVG [nanoSVG](https://github.com/memononen/nanosvg)                  | zlib             |C/C++|**1**| 1-file SVG parser; 1-file SVG rasterizer
 image  | WEBP [jebp](https://github.com/matanui159/jebp)                      | **0MIT**         |C/C++|**1**| Single header WebP decoder
-ini    | [ini.h](https://github.com/mattiasgustavsson/libs)                   | **PD**           |C/C++|**1**| .ini file parser
 ini    | [inih](https://github.com/benhoyt/inih)                              | BSD              |C/C++|  2  | .ini file parser
 json   | [ajson](https://github.com/lordoffox/ajson)                          | Boost            | C++ |**1**| JSON serialize & deserialize w/ STL support
 json   | [cJSON](https://github.com/DaveGamble/cJSON)                         | MIT              |C/C++|**1**| JSON parser
@@ -276,13 +236,11 @@ json   | [jsmn](https://github.com/zserge/jsmn)                               | 
 json   | [json-build](https://github.com/lcsmuller/json-build)                | MIT              |C/C++|**1**| JSON serializer
 json   | [json.h](https://github.com/sheredom/json.h)                         | **PD**           |C/C++|**1**| JSON parser
 json   | [json.hpp](https://github.com/nlohmann/json)                         | MIT              | C++ |**1**| JSON parse, serialize, deserialize
-json   | [jsonc](https://gitlab.com/bztsrc/jsonc)                             | MIT              |  C  |**1**| Fast JSON parser
-json   | [jsonc](https://gitlab.com/bztsrc/jsonc)                             | MIT              |C/C++|**1**| extremely fast and extremely small (~60 SLoC) JSON parser |
+json   | [jsonc](https://gitlab.com/bztsrc/jsonc)                             | MIT              |C/C++|**1**| extremely fast and extremely small (~60 SLoC) JSON parser
 json   | [jzon.h](https://github.com/Zguy/Jzon)                               | MIT              | C++ |  2  | JSON parser
 json   | [parson](https://github.com/kgabis/parson)                           | MIT              |C/C++|  2  | JSON parser and serializer
 json   | [PicoJSON](https://github.com/kazuho/picojson)                       | BSD              | C++ |**1**| JSON parse/serializer
 json   | [sjson](https://github.com/septag/sjson)                             | BSD2             |  C  |**1**| JSON encode/decoder
-log    | [pico_log.h](https://github.com/empyreanx/pico_headers/blob/main/pico_log.h) | **PD**/zlib |  C  |**1**| Flexible logging framework
 logic  | [FFSM2](https://github.com/andrew-gresyk/FFSM2/blob/master/include/ffsm2/machine.hpp) | MIT | C++ |**1**| flat FSM
 logic  | [HFSM2](https://github.com/andrew-gresyk/HFSM2/blob/master/include/hfsm2/machine.hpp) | MIT | C++ |**1**| hierarchical FSM
 math   | [amoeba](https://github.com/starwing/amoeba)                         | MIT              |C/C++|**1**| constraint solver (Cassowary) w/Lua binding
@@ -294,7 +252,6 @@ math   | [df](https://github.com/983/df)                                      | 
 math   | [dvector](https://github.com/BareRose/dvector)                       | **PD**           |  C  |**1**| 2D/3D vector/quaternion/matrix math library
 math   | [ExprTk](https://www.partow.net/programming/exprtk/index.html)       | MIT              | C++ |**1**| Runtime mathematical expression parser and evaluation engine.
 math   | [fft](https://github.com/wareya/fft)                                 | **PD**           | C++ |**1**| Fast Fourier Transform |
-math   | [gm.h](https://github.com/dyeo/dyeo.h/blob/main/gm.h)                | **PD**/MIT       |  C  |**1**| vector/matrix/quaternion math
 math   | [HMM Toolkit](https://github.com/gerbenvoshol/Hidden-Markov-Model-Toolkit) | GPL2       | C/C++ |**1**| Discrete and continuous Hidden Markov Models (DHMM, CHMM)
 math   | [jc_voronoi](https://github.com/JCash/voronoi)                       | MIT              |C/C++|**1**| find voronoi regions on float/double data
 math   | [linmath.h](https://github.com/datenwolf/linmath.h)                  | **WTFPLv2**      |  C  |**1**| vector library
@@ -306,16 +263,11 @@ math   | [OpenNL](https://github.com/BrunoLevy/geogram.psm.OpenNL)            | 
 math   | [par_msquares](https://prideout.net/marching-squares)                | MIT              |C/C++|**1**| convert (binarized) image to triangles
 math   | [par_shapes](https://prideout.net/shapes)                            | MIT              |C/C++|**1**| generate various 3d geometric shapes
 math   | [par_streamlines](https://prideout.net/blog/par_streamlines)         | MIT              |C/C++|**1**| tessellate wide lines and curves with shading attributes
-math   | [pico_hit.h](https://github.com/empyreanx/pico_headers/blob/main/pico_hit.h) | **PD**/zlib |  C  |**1**| 2D collision detection (SAT) and ray casting
-math   | [pico_math.h](https://github.com/empyreanx/pico_headers/blob/main/mpico_math.h) | **PD**/zlib |  C  |**1**| 2D math library for games
-math   | [pico_qt.h](https://github.com/empyreanx/pico_headers/blob/mainpico_qt.h) | **PD**/zlib |  C  |**1**| Quadtree library
 math   | [PoissonGenerator.h](https://github.com/corporateshark/poisson-disk-generator) | MIT    | C++ |**1**| Poisson disk points generator (disk or rect)
 math   | [PolyPartition](https://github.com/ivanfratric/polypartition)        | MIT              | C++ |  2  | polygon triangulation, partitioning
 math   | [precision](https://github.com/possibly-wrong/precision)             | **PD**           | C++ | 3 | Arbitrary-precision integer and rational arithmetic
 math   | [prns.h](https://marc-b-reynolds.github.io/shf/2016/04/19/prns.html) | **PD**           |C/C++|**1**| seekable pseudo-random number sequences
 math   | [rfft.h](https://github.com/grego/rfft.h)                            | **PD**           |C/C++|**1**| Fast Fourier Tranform for arbitrary array sizes
-math   | [rjm_mc.h](https://github.com/rmitton/rjm)                           | **PD**           |C/C++|**1**| marching cubes triangulator
-math   | [rnd.h](https://github.com/mattiasgustavsson/libs)                   | **PD**           |C/C++|**1**| pseudo-random number generation
 math   | [sdf.h](https://github.com/memononen/SDF)                            | MIT              |C/C++|**1**| compute signed-distance field from antialiased image
 math   | [ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs)     | MIT              | C++ |**1**| (also HLSL) approximate transcendental functions optimized for shaders (esp. GCN)
 math   | [simple_linear_regression](https://github.com/torkeldanielsson/simple_linear_regression) | MIT | C/C++ |**1**| Simple linear regression
@@ -330,10 +282,7 @@ math   | [Tomas Akenine-Moller snippets](https://tinyurl.com/ht79ndj)         | 
 math   | [vmath](https://github.com/monolifed/vmath)                          | **PD**           |  C  |**1**| Vector/matrix library
 math   | [Voxelizer](https://github.com/karimnaaji/voxelizer)                 | MIT              |C/C++|**1**| convert triangle mesh to voxel triangle mesh
 math   | [xatlas](https://github.com/jpcy/xatlas)                             | MIT              | C++ |  2  | mesh parameterization
-math   | [yocto_bvh.h](https://github.com/xelatihy/yocto-gl)                  | MIT              |C/C++|**1**| ray-casting and closest-element queries of bounding-volume hierarchy
-math   | [yocto_shape.h](https://github.com/xelatihy/yocto-gl)                | MIT              |C/C++|**1**| shape generation, tesselation, normals, etc.
 mem    | [buddy_alloc](https://github.com/spaskalev/buddy_alloc)              | **BSD0**         |  C  |**1**| buddy memory allocator
-mem    | [final_memory.h](https://github.com/f1nalspace/final_game_tech/blob/master/final_memory.h) | MIT |  C  |**1**| heap memory handler
 mem    | [stb_leakcheck](https://github.com/nothings/stb/blob/main/stb_leakcheck.h) |                          **PD**|C/C++|**1**| quick-and-dirty malloc/free leak-checking
 mem    | [wb_alloc](https://github.com/WilliamBundy/wb_alloc)                 | **PD**           |C/C++|**1**| custom allocators in a single-header
 mesh   | [cgltf](https://github.com/jkuhlmann/cgltf)                          | MIT              |  C  |**1**| glTF 2.0 file loader
@@ -345,7 +294,6 @@ mesh   | [tinyobjloader-c](https://github.com/syoyo/tinyobjloader-c)          | 
 mesh   | [tinyobjloader](https://github.com/syoyo/tinyobjloader)              | MIT              | C++ |**1**| wavefront OBJ file loader
 mesh   | [tinyply](https://github.com/ddiakopoulos/tinyply)                   | **PD**           | C++ |  2  | PLY mesh file loader
 mesh   | [tk_objfile](https://github.com/joeld42/tk_objfile)                  | MIT              |C/C++|**1**| OBJ file loader
-mesh   | [yocto_obj.h](https://github.com/xelatihy/yocto-gl)                  | MIT              |C/C++|**1**| wavefront OBJ file loader
 misc   | [ASAP](https://github.com/mobius3/asap)                              | MIT              | C++ |**1**| library for parsing, printing, iterating and operating on dates.
 misc   | [CLM_LIBS](https://github.com/CarlosLunaMota/CLM_LIBS)               | **PD**           |  C  |**1**| Diverse utilities
 misc   | [Color-Toolkit](https://github.com/gerbenvoshol/Color-Toolkit)       | GPL2             | C/C++ |**1**| Color conversion utils (RGB, XYZ, Lab, CIE76, CIE94 and CIEDE200)
@@ -353,7 +301,6 @@ misc   | [cpp-generators](https://github.com/c-smile/cpp-generators)          | 
 misc   | [ebnn.h](https://github.com/kunglab/ebnn/blob/master/c/ebnn.h)       | MIT              |  C  |**1**| BNN (Binarized Neural Networks)
 misc   | [h.h](https://github.com/robertsdotpm/h.h)                           | GPL3             | C/C++ |**1**| Diverse utilities
 misc   | [Hedley](https://nemequ.github.io/hedley/)                           | **PD**           |C/C++|**1**| compiler portability, optimization, static analysis, etc.
-misc   | [ll.h](https://github.com/dyeo/dyeo.h/blob/main/ll.h)                | **PD**/MIT       |  C  |**1**| cross-platform library loading
 misc   | [MakeID.h](https://www.humus.name/3D/MakeID.h)                       | **PD**           | C++ |**1**| allocate/deallocate small integer IDs efficiently
 misc   | [mmu](https://github.com/CN-xLeaves/mmu)                             | MIT              |  C  |  2  | memory management and data structure toolset
 misc   | [openGA](https://github.com/Arash-codedev/openGA)                    | MPL-2.0          | C++ |**1**| A C++ Generic Algorithm solver library
@@ -374,21 +321,17 @@ net    | [cpp-httplib](https://github.com/yhirose/cpp-httplib)                | 
 net    | [enet](https://github.com/zpl-c/enet)                                | MIT              |C/C++|**1**| reliable UDP networking library
 net    | [EWS](https://github.com/hellerf/EmbeddableWebServer)                | BSD              |C/C++|**1**| HTTP server
 net    | [happyhttp](https://github.com/mingodad/HappyHTTP)                   | zlib             | C++ |  2  | HTTP client requests
-net    | [http](https://github.com/mattiasgustavsson/libs)                    | **PD**           |C/C++|**1**| HTTP get/post
 net    | [libcluon](https://github.com/chrberger/libcluon)                    | MPL-2.0          | C++ |**1**| cross-platform socket wrapper and data marshalling with native implementations for [Protobuf](https://developers.google.com/protocol-buffers/), [LCM](https://lcm-proj.github.io/type_specification.html)/[ZCM](https://zerocm.github.io/zcm/), JSON, and [MsgPack](https://msgpack.org) serialization/deserialization
 net    | [librg](https://github.com/zpl-c/librg)                              | BSD3             |C/C++|**1**| entity/world/area network replication
 net    | [LUrlParser](https://github.com/corporateshark/LUrlParser)           | MIT              | C++ |  2  | lightweight URL & URI parser RFC 1738, RFC 3986
-net    | [mm_web.h](https://github.com/vurtun/mmx)                            | BSD              |C/C++|**1**| lightweight webserver, fork of webby
 net    | [mongoose](https://github.com/cesanta/mongoose)                      | GPLv2            |C/C++|  2  | HTTP server
 net    | [netq](https://gitlab.com/bztsrc/netq)                               | MIT              |  C  |**1**| Reliable datagram library
 net    | [par_easycurl.h](https://github.com/prideout/par)                    | MIT              |C/C++|**1**| cURL wrapper
 net    | [simpletls.c](https://github.com/zzo38/scorpion/blob/trunk/simpletls.c) | **PD**        |  C  |  2  | Function to create a socket and connect to a remote server with TLS
-net    | [sts_net](https://github.com/kieselsteini/sts)                       | **PD**           |C/C++|**1**| cross-platform socket wrapper (socket sets and packet API)
 net    | [swrap](https://github.com/BareRose/swrap)                           | **PD**           |  C  |**1**| TCP and UDP socket wrapper
 net    | [tiniest-analytics](https://github.com/Pintea/tiniest-analytics)     | MIT              | C++ |  2  | Cross-platform analytics for games (using Google Analytics <4)
 net    | [tiny-MQTT-c](https://github.com/kokke/tiny-MQTT-c)                  | **PD**           |  C  | 2(4)                   | Small implementation of (some of) the MQTT protocol in C
 net    | [tlse](https://github.com/eduardsui/tlse)                            | **PD/BSD2**      |  C  |  2  | TLS v1.0, 1.2, 1.3 and DTLS 1.0, 1.2 implementations
-net    | [udp.h](https://github.com/dyeo/dyeo.h/blob/main/udp.h)              | **PD**/MIT       |  C  |**1**| cross-platform udp networking
 net    | [webster](https://github.com/brunexgeek/webster)                     | Apache2          | C++ |  2  | Standalone HTTP server/client
 net    | [yocto](https://github.com/tom-seddon/yhs)                           | **PD**           |C/C++|  2  | non-production-use HTTP server
 net    | [zed_net](https://github.com/Smilex/zed_net)                         | **PD**           |C/C++|**1**| cross-platform socket wrapper
@@ -400,17 +343,13 @@ pack   | [microtar](https://github.com/rxi/microtar)                          | 
 pack   | [miniz.c](https://github.com/richgel999/miniz)                       | MIT              |C/C++|**1**| compression, decompression, ZIP file, PNG writing
 pack   | [nibrans](https://github.com/BareRose/nibrans)                       | **PD**           |  C  |**1**| adaptive rANS library
 pack   | [pithy](https://github.com/johnezang/pithy)                          | BSD              |C/C++|  2  | fast but larger LZ compression
-pack   | [rle](https://gitlab.com/bztsrc/rle)                                 | MIT              |  C  |**1**| RLE library
-pack   | [rle](https://gitlab.com/bztsrc/rle)                                 | MIT              |C    |**1+1**| extremely simple run-length encoder/decoder |
+pack   | [rle](https://gitlab.com/bztsrc/rle)                                 | MIT              |  C  |**1**| run-length en/decoder
 pack   | [stb_dxt](https://github.com/nothings/stb/blob/main/stb_dxt.h) |                                      **PD**|C/C++|**1**| real-time DXT compressor
 parse  | [cmp](https://github.com/camgunz/cmp)                                | MIT              |C/C++|  2  | MessagePack parser and serializer
 parse  | [cpp-peglib](https://github.com/yhirose/cpp-peglib)                  | MIT              |C/C++|  1  | PEG (Parsing Expression Grammars) library
 parse  | [html-parse.c](https://git.savannah.gnu.org/cgit/wget.git/tree/src/html-parse.c)  | GPL |  C  |  2  | HTML parser (wget)
-parse  | [minilibs](https://github.com/ccxvii/minilibs)                       | **PD**           |  C  |  2  | two-file regex (also binary tree, etc)
-parse  | [mm_lexer.h](https://github.com/vurtun/mmx)                          | zlib             |C/C++|**1**| C-esque language lexer
 parse  | [SLRE](https://github.com/cesanta/slre)                              |_GPLv2_           |C/C++|**1**| regular expression matcher
 parse  | [stb_c_lexer](https://github.com/nothings/stb/blob/main/stb_c_lexer.h) |                              **PD**|C/C++|**1**| simplify writing parsers for C-like languages
-parse  | [tinymemfile](https://github.com/RandyGaul/tinyheaders)              | zlib             | C++ |**1**| fscanf on in-memory files
 parse  | [tok](https://gitlab.com/bztsrc/tok)                                 | MIT              |  C  |**1**| Configurable tokenizer
 parse  | [tomlplusplus](https://github.com/marzer/tomlplusplus)               | MIT              | C++ |**1**| TOML parser and serializer 
 parse  | [udisasm](https://gitlab.com/bztsrc/udisasm)                         | MIT              |C/C++|**1**| extremely small disassembler for ARMv8.2 AArch64 (~65k) |
@@ -434,16 +373,12 @@ script | [xpl](https://github.com/paladin-t/xpl)                              | 
 serial | [archive](https://github.com/voidah/archive)                         |**PD**            | C++ |**1**| binary serialize & deserlize w/ STL support
 serial | [blob_tree](https://github.com/dicroce/blob_tree)                    | MIT              | C++ |**1**| Binary tree serializer
 serial | [cista](https://github.com/felixguendling/cista)                     |MIT               | C++ |**1**| cross-platform high performance zero copy C++17 serialization/deserialization
-serial | [dt.h](https://github.com/dyeo/dyeo.h/blob/main/dt.h)                | **PD**/MIT       |  C  |**1**| datatag serializer/deserializer (superset of JSON)
 serial | [libcluon](https://github.com/chrberger/libcluon)                    | MPL-2.0          | C++ |**1**| cross-platform data serialization/deserialization with native implementations for [Protobuf](https://developers.google.com/protocol-buffers/), [LCM](https://lcm-proj.github.io/type_specification.html)/[ZCM](https://zerocm.github.io/zcm/), JSON, and [MsgPack](https://msgpack.org)
 serial | [qserial](https://github.com/earonesty/qserial)                      | BSD3             | C++ |**1**| Schema-driven serialization library
 serial | [Serialization helper](https://gist.github.com/TheServer201/9ae5322cd52f76c7d36af15d3b366762) | **WTFPLv2** |  C  |**1**| Serialization helper
-serial | [stream.h](https://github.com/dyeo/dyeo.h/blob/main/stream.h)        | **PD**/MIT       |  C  |**1**| byte streams
 serial | [visit_struct](https://github.com/cbeck88/visit_struct)              | Boost            | C++ |  2  | struct-field reflection
 string | [csplit](https://github.com/jwlodek/csplit)                          | MIT              |C/C++|**1**| String splitting and processing single-header library
 string | [dfa](https://bjoern.hoehrmann.de/utf-8/decoder/dfa/)                | MIT              |C/C++|  2  | fast UTF-8 decoder (need a header file)
-string | [DG_misc.h](https://github.com/DanielGibson/Snippets/)               | **PD**           |C/C++|**1**| Daniel Gibson's stb.h-esque cross-platform helpers: path/file, strings
-string | [format.hpp](https.//github.com/burner/sweet.hpp/format.hpp)         | LGPL3            | C++ |**1**| dlang inspired typesafe string formatting
 string | [gb_string.h](https://github.com/gingerBill/gb)                      | **PD**           |C/C++|**1**| dynamic strings
 string | [ggformat](https://github.com/mikejsavage/ggformat)                  | ISC              | C++ |  2  | printf replacement
 string | [inja.hpp](https://github.com/pantor/inja)                           | MIT              | C++ |**1**| template engine
@@ -452,12 +387,10 @@ string | [Obfuscate](https://github.com/adamyaxley/Obfuscate)                 | 
 string | [Str.h](https://github.com/ocornut/Str)                              | **PD**           | C++ |**1**| Simple C++ string type with an optional local buffer
 string | [str](https://github.com/maxim2266/str)                              | BSD              |  C  |  2  | Yet another string library for C language
 string | [str_view.hpp](https://github.com/sawickiap/str_view)                | MIT              | C++ |**1**| null-termination-aware string-view class
-string | [strpool.h](https://github.com/mattiasgustavsson/libs)               | **PD**           |C/C++|**1**| string interning
 string | [tiny-regex-c](https://github.com/kokke/tiny-regex-c)                | **PD**           |  C  |  2  | Small portable regex in C
 string | [tiny-regex-mod](https://github.com/monolifed/tiny-regex-mod)        | **PD**           |  C  |**1**| Tiny regular expressions library 
 string | [tinyformat](https://github.com/c42f/tinyformat)                     | Boost            | C++ |**1**| typesafe printf
 string | [utf8](https://github.com/sheredom/utf8.h)                           | **PD**           |C/C++|**1**| UTF-8 string library
-string | [zpl](https://github.com/zpl-c/zpl)                                  | *PD*/BSD3        |C/C++|**1**| Foundation utils
 svg    | [SimpleSVG](https://github.com/adishavit/simple-svg)                 | BSD3             | C++ |**1**| Easy to use SVG library
 sys    | [cpuid](https://github.com/anzz1/cpuid)                              | ??               | C/C++ |**1**| cross-platform cpuid intrinsic
 sys    | [doops](https://github.com/eduardsui/doops)                          | **PD**           |  C  |**1**| Event loop library
@@ -467,22 +400,14 @@ sys    | [JArgsParser](https://github.com/ZhengqiaoWang/JArgsParser)          | 
 sys    | [openmodal](https://gitlab.com/bztsrc/openmodal)                     | MIT              |  C  |**1**| Native file modals
 sys    | [rang](https://github.com/agauniyal/rang)                            | **PD**           | C++ |**1**| cross-platform colored console text
 sys    | [xproc](https://github.com/time-killer-games/xproc)                  | MIT              | C++ |  2  | Foreign Process Information
-sys    | [zpl](https://github.com/zpl-c/zpl)                                  | *PD*/BSD3        |C/C++|**1**| Foundation utils
 thread | [bikeshed.h](https://github.com/DanEngelbrecht/bikeshed)             | MIT              |C/C++|**1**| cross-platform lock free fixed memory hierarchical work scheduler
 thread | [cds_job](https://github.com/cdwfs/cds_job)                          | **PD**           | C++ |**1**| lock-free job queue
 thread | [cds_sync](https://github.com/cdwfs/cds_sync)                        | **PD**           |C/C++|**1**| Collection of synchronization primitives
-thread | [mm_sched.h](https://github.com/vurtun/mmx)                          | zlib             |C/C++|**1**| cross-platform multithreaded task scheduler based on [enkiTS](https://github.com/dougbinks/enkiTS)
-thread | [px_sched.h](https://github.com/pplux/px/blob/master/px_sched.h)     | MIT              | C++ |  1  | cross-platform task scheduler [info](https://github.com/pplux/px/blob/master/README_px_sched.md)
-thread | [thread.h](https://github.com/mattiasgustavsson/libs)                | **PD**           |C/C++|**1**| cross-platform thread primitives
 thread | [TinyCThread](https://tinycthread.github.io/)                        | zlib             |C/C++|  2  | cross-platform implementation of the C11 Threads API
 thread | [TinyThread++](https://tinythreadpp.bitsnbites.eu/)                  | zlib             | C++ |  2  | cross-platform implementation of the C++11 Threads API
-time   | [pico_time.h](https://github.com/empyreanx/pico_headers/blob/main/tpico_time.h) | **PD**/zlib |  C  |**1**| Time management library
-time   | [sokol_time.h](https://github.com/floooh/sokol)                      | MIT              |C/C++|**1**| cross-platform time measurement
-time   | [tinytime](https://github.com/RandyGaul/tinyheaders)                 | zlib             |C/C++|**1**| quick-and-dirty time elapsed time
 ui     | [dear imgui](https://github.com/ocornut/imgui)                       | MIT              | C++ |  9  | an immediate-mode GUI formerly named "ImGui"; [3rd-party C wrapper](https://github.com/Extrawurst/cimgui)
 ui     | [libcmdf](https://github.com/ronen25/libcmdf)                        | **PD**           | C   |**1**| a small library for writing CLI applications
 ui     | [linenoise](https://github.com/antirez/linenoise)                    | BSD              |C/C++|  2  | terminal readline w/ history etc
-ui     | [noc_file_dialog.h](https://github.com/guillaumechereau/noc)         | MIT              |C/C++|  1  | file open/save dialogs (Win/Mac/Linux)
 ui     | [nuklear](https://github.com/Immediate-Mode-UI/Nuklear)              | **PD**           |C/C++|**1**| minimal GUI toolkit
 ui     | [stb_textedit](https://github.com/nothings/stb/blob/main/stb_textedit.h) |                            **PD**|C/C++|**1**| guts of a text editor for games etc implementing them from scratch
 ui     | [tinyfiledialogs](https://sourceforge.net/projects/tinyfiledialogs/) | ZLIB             |C/C++|  2  | modal dialogs inc. file open/save (Win/Mac/Linux)
@@ -498,11 +423,9 @@ unit   | [hippomocks](https://github.com/dascandy/hippomocks)                 | 
 unit   | [labrat](https://github.com/squarewave/labrat)                       | **PD**           |C/C++|**1**| unit testing
 unit   | [minctest](https://github.com/codeplea/minctest)                     | zlib             |  C  |**1**| unit testing
 unit   | [munit](https://github.com/nemequ/munit)                             | MIT              |  C  |**1**| unit testing
-unit   | [pico_unit.h](https://github.com/empyreanx/pico_headers/blob/main/upico_unit.h) | **PD**/zlib |  C  |**1**| Unit testing framework
 unit   | [picotest](https://github.com/colinbarry/picotest)                   | MIT              |C/C++|**1**| unit testing
 unit   | [Rexo](https://github.com/christophercrouzet/rexo)                   | **PD**           |C/C++|**1**| framework for C89/C++ featuring automatic registration of tests and a polished API
 unit   | [SPUT](https://www.lingua-systems.com/unit-testing/)                 | BSD              |C/C++|**1**| unit testing
-unit   | [test.h](https://github.com/dyeo/dyeo.h/blob/main/test.h)            | **PD**/MIT       |  C  |**1**| unit testing
 unit   | [trompeloeil](https://github.com/rollbear/trompeloeil)               | Boost            | C++ |**1**| unit testing
 unit   | [utest.h](https://github.com/sheredom/utest.h)                       | **PD**           |C/C++|**1**| unit testing
 unit   | [utest](https://github.com/evolutional/utest)                        | MIT              |C/C++|**1**| unit testing
@@ -511,15 +434,12 @@ uuid   | [uuid4](https://github.com/gpakosz/uuid4)                            | 
 uuid   | [uuid_h](https://github.com/wc-duck/uuid_h)                          | zlib             |C/C++|**1**| UUID generator
 vector | [algebra3.h](https://www.animats.com/source/graphics/algebra3.h)     | **PD**           | C++ |**1**| vector utilities for 2, 3, and 4 element vectors, all inline
 vector | [ccVector.h](https://github.com/jobtalle/ccVector)                   | **PD**           |C/C++|**1**| Vector, quaternion and matrix math
-vector | [gb_math](https://github.com/gingerBill/gb/blob/master/gb_math.h)    | **PD**           |C/C++|**1**| Vector, quaternion and matrix math w/o math.h
 vector | [Handmade Math](https://github.com/StrangeZak/Handmade-Math)         | **PD**           |C/C++|**1**| vector math
 vector | [hypatia](https://github.com/dagostinelli/hypatia)                   | MIT              |  C  |**1**| vector/matrix/quaternion math
 vector | [linalg.h](https://github.com/sgorsten/linalg)                       | **PD**           | C++ |**1**| vector/matrix/quaternion math
 vector | [linalg](https://github.com/ilyak/linalg)                            | ISC              |C/C++|**1**| vector/matrix/quaternion math
-vector | [mm_vec.h](https://github.com/vurtun/mmx)                            | BSD              |C/C++|**1**| SIMD vector math
 video  | [jo_mpeg](https://www.jonolick.com/home/mpeg-video-writer) / [(converted to C)](https://blog.frost.kiwi/jo-mpeg-in-c) | **PD** | C/C++ |**1**| MPEG file writer
 video  | [pl_mpeg](https://github.com/phoboslab/pl_mpeg)                      | MIT              | C   |**1**| MPEG1 video and audio decoder
-xml    | [final_xml.h](https://github.com/f1nalspace/final_game_tech/blob/master/final_xml.h) | MIT | C |**1**| xml parser
 xml    | [pugixml](https://pugixml.org/)                                      | MIT              | C++ |  2  | light-weight C++ XML processing library
 xml    | [tinyxml2](https://github.com/leethomason/tinyxml2)                  | zlib             | C++ |  2  | simple, small, efficient, C++ XML parser
 xml    | [yxml](https://dev.yorhel.nl/yxml)                                   | MIT              | C   |  2  | small, fast and correct XML parser
