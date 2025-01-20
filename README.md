@@ -357,6 +357,7 @@ nav    | [m_path_finding.h](https://github.com/anael-seghezzi/Maratis-Tiny-C-lib
 nav    | [micropather](http://www.grinninglizard.com/MicroPather/)            | zlib             | C++ |  2  | pathfinding with A\*
 net    | [civetweb](https://github.com/civetweb/civetweb)                     | MIT              |C/C++|  2  | HTTP server, fork of Mongoose
 net    | [cpp-httplib](https://github.com/yhirose/cpp-httplib)                | MIT              |C/C++|  1  | cross-platform HTTP server/client
+net    | [enet](https://github.com/zpl-c/enet)                                | MIT              |C/C++|**1**| reliable UDP networking library
 net    | [EWS](https://github.com/hellerf/EmbeddableWebServer)                | BSD              |C/C++|**1**| HTTP server
 net    | [happyhttp](https://github.com/mingodad/HappyHTTP)                   | zlib             | C++ |  2  | HTTP client requests
 net    | [http](https://github.com/mattiasgustavsson/libs)                    | **PD**           |C/C++|**1**| HTTP get/post
@@ -519,6 +520,12 @@ https://github.com/wc-duck/dbgtools
 https://github.com/wc-duck/uuid_h
 https://github.com/WilliamBundy/wb_alloc
 
+sys    | https://github.com/zpl-c/zpl | *PD*/BSD3 |C/C++|**1**| Foundation utils
+ds     | https://github.com/zpl-c/zpl | *PD*/BSD3 |C/C++|**1**| Foundation utils
+string | https://github.com/zpl-c/zpl | *PD*/BSD3 |C/C++|**1**| Foundation utils
+net    | https://github.com/zpl-c/librg | BSD3 |C/C++|**1**| entity/world/area network replication
+
+LICENSE file apart:
 [random3](https://github.com/MichelPaulissen/random3),
 -->
 
