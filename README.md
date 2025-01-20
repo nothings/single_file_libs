@@ -30,6 +30,7 @@ Also you might be interested in other related, but different lists:
 - [CCAN](https://ccodearchive.net/list.html): package of lots of shareable C functions (mixed licenses)
 - And some more: 
 [b-library (C,C++)](https://github.com/blat-blatnik/B-Library),
+[chobo-shl (C++)](https://github.com/Chobolabs/chobo-shl),
 [clibs](https://github.com/ennorehling/clibs), 
 [containers (C++)](https://github.com/JCash/containers),
 [cpp-poc (C++)](https://github.com/xdbr/cpp-poc),
@@ -506,7 +507,6 @@ xml    | [yxml](https://dev.yorhel.nl/yxml)                                   | 
 yaml   | [mini-yaml](https://github.com/jimmiebergmann/mini-yaml)             | MIT              | C++ |  2  | YAML parser and serializer
 
 <!-- todo
-https://github.com/Chobolabs/chobo-shl
 
 https://github.com/avivbeeri/abc
 https://github.com/azmr/blit-fonts
