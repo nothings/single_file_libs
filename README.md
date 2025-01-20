@@ -509,6 +509,7 @@ yaml   | [mini-yaml](https://github.com/jimmiebergmann/mini-yaml)             | 
 script | [minilua](https://github.com/edubart/minilua)                        | MIT              |C/C++|**1**| Single-file port of Lua scripting language
 C      | [minicoro](https://github.com/edubart/minicoro/)                     | **PD**/**0MIT**  |C/C++|**1**| Stackful cross-platform coroutine library
 mem    | [wb_alloc](https://github.com/WilliamBundy/wb_alloc)                 | **PD**           |C/C++|**1**| custom allocators in a single-header
+image  | WEBP [jebp](https://github.com/matanui159/jebp)                      | **0MIT**         |C/C++|**1**| Single header WebP decoder
 
 <!-- todo
 
@@ -518,7 +519,6 @@ font|https://github.com/azmr/blit-fonts|ISC|C/C++|1|bitmap font blitters
 ds|https://github.com/cdwfs/algo|**PD**|C|1|Collection of data structures (queue, stack, graph, heap...)
 math|https://github.com/cdwfs/cds_spline/blob/master/cds_spline.h|**PD**|C|1|Spline utils
 thread|https://github.com/cdwfs/cds_sync|**PD**|C|1|Collection of synchronization primitives
-https://github.com/matanui159/jebp
 https://github.com/simongeilfus/SimplexNoise
 https://github.com/stevenlr/Flint
 https://github.com/wareya/Remimu
