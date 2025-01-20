@@ -29,7 +29,9 @@ Also you might be interested in other related, but different lists:
 - [clib](https://github.com/clibs/clib/wiki/Packages): list of (mostly) small single C functions (licenses not listed)
 - [CCAN](https://ccodearchive.net/list.html): package of lots of shareable C functions (mixed licenses)
 - And some more: 
+[**andrewwillmott**](https://github.com/andrewwillmott?tab=repositories&q=&type=source&language=c&sort=),
 [b-library (C,C++)](https://github.com/blat-blatnik/B-Library),
+[blastbay](https://github.com/blastbay?tab=repositories&q=&type=source&language=c&sort=),
 [chobo-shl (C++)](https://github.com/Chobolabs/chobo-shl),
 [clibs](https://github.com/ennorehling/clibs), 
 [containers (C++)](https://github.com/JCash/containers),
@@ -45,8 +47,10 @@ Also you might be interested in other related, but different lists:
 [gl-helpers (C,C++)](https://github.com/Flix01/Header-Only-GL-Helpers),
 [ijhandlealloc](https://github.com/incrediblejr/ijhandlealloc),
 [jar](https://github.com/kd7tck/jar), 
+[**jo**](https://jonolick.com/code.html),
 [kj](https://github.com/AfroDave/kj),
 [**klib**](https://github.com/attractivechaos/klib),
+[**kokke**](https://github.com/kokke?tab=repositories&q=&type=source&language=c&sort=),
 [libjrc](https://github.com/SmileTheory/libjrc),
 [**libs**](https://github.com/mattiasgustavsson/libs), 
 [libs](https://github.com/bullno1/libs),
@@ -57,16 +61,17 @@ Also you might be interested in other related, but different lists:
 [**mmx**](https://github.com/vurtun/mmx), 
 [**nflibs**](https://github.com/niklasfrykholm/nflibs),
 [noc](https://github.com/guillaumechereau/noc), 
-[**ok-fm**](https://github.com/brackeen/ok-file-formats),
-[**ok-lib**](https://github.com/brackeen/ok-lib),
+[ok-**fm**](https://github.com/brackeen/ok-file-formats),
+[ok-**lib**](https://github.com/brackeen/ok-lib),
 [**par**](https://github.com/prideout/par), 
 [pico_headers](https://github.com/empyreanx/pico_headers), 
 [portable-snippets](https://github.com/nemequ/portable-snippets),
 [px (C++)](https://github.com/pplux/px), 
 [rjm](https://github.com/rmitton/rjm), 
+[**rxi**](https://github.com/rxi?tab=repositories&q=&type=source&language=c&sort=),
 [shadertoolkit](https://github.com/jarikomppa/shadertoolkit),
-[**skeeto**](https://github.com/skeeto?tab=repositories&q=&type=source&language=c&sort=),
 [single-header-file-c-libs](https://github.com/arkanis/single-header-file-c-libs),
+[**skeeto**](https://github.com/skeeto?tab=repositories&q=&type=source&language=c&sort=),
 [slibs](https://github.com/yui0/slibs),
 [snippets](https://github.com/blat-blatnik/Snippets),
 [snippets](https://github.com/DanielGibson/Snippets), 
@@ -147,8 +152,6 @@ cpp    | [outcome](https://github.com/ned14/outcome/tree/develop/single-header) 
 crypt  | [ggentropy](https://github.com/mikejsavage/ggentropy)                | ISC              | C++ |  2  | cross platform entropy library
 crypt  | [Monocypher](https://monocypher.org)                                 | **PD**           |  C  |  2  | high-quality small cryptography library
 crypt  | [random3](https://github.com/MichelPaulissen/random3)                | **PD**           |C/C++|**1**| Crypt-random generator
-crypt  | [tiny-AES-c](https://github.com/kokke/tiny-AES-c)                    | **PD**           |  C  |  2  | Small portable AES128/192/256 in C
-crypt  | [tiny-ECDH-c](https://github.com/kokke/tiny-ECDH-c)                  | **PD**           |  C  |  2  | Small portable Elliptic-Curve Diffie-Hellman in C
 crypt  | [TweetNaCl](https://tweetnacl.cr.yp.to/software.html)                | **PD**           |  C  |  2  | high-quality tiny cryptography library
 csv    | [CSVstream](https://github.com/awdeorio/csvstream/)                  | MIT              | C++ |**1**| CSV parser
 csv    | [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) | BSD        | C++ |**1**| CSV parser
@@ -278,7 +281,6 @@ math   | [sobol.h](https://github.com/Marc-B-Reynolds/Stand-alone-junk/)      | 
 math   | [Statistics-Tool-Box](https://github.com/gerbenvoshol/Statistics-Tool-Box) | **PD**     | C/C++ |**1**| Statistical functions
 math   | [stb_divide](https://github.com/nothings/stb/blob/main/stb_divide.h) |                                **PD**|C/C++|**1**| more useful 32-bit modulus
 math   | [SummedAreaTable](https://github.com/corporateshark/Summed-Area-Table.git) | MIT        | C++ |**1**| Summed-Area Table generation and sum/avg queries
-math   | [tiny-bignum-c](https://github.com/kokke/tiny-bignum-c)              | **PD**           |  C  |  2  | Small portable multiple-precision unsigned integer arithmetic in C
 math   | [TinyExpr](https://github.com/codeplea/tinyexpr)                     | zlib             |  C  |  2  | evaluation of math expressions from strings
 math   | [Tomas Akenine-Moller snippets](https://tinyurl.com/ht79ndj)         | **PD**           |C/C++|  2  | various 3D intersection calculations, not lib-ified
 math   | [vmath](https://github.com/monolifed/vmath)                          | **PD**           |  C  |**1**| Vector/matrix library
@@ -389,8 +391,6 @@ string | [Obfuscate](https://github.com/adamyaxley/Obfuscate)                 | 
 string | [Str.h](https://github.com/ocornut/Str)                              | **PD**           | C++ |**1**| Simple C++ string type with an optional local buffer
 string | [str](https://github.com/maxim2266/str)                              | BSD              |  C  |  2  | Yet another string library for C language
 string | [str_view.hpp](https://github.com/sawickiap/str_view)                | MIT              | C++ |**1**| null-termination-aware string-view class
-string | [tiny-regex-c](https://github.com/kokke/tiny-regex-c)                | **PD**           |  C  |  2  | Small portable regex in C
-string | [tiny-regex-mod](https://github.com/monolifed/tiny-regex-mod)        | **PD**           |  C  |**1**| Tiny regular expressions library 
 string | [tinyformat](https://github.com/c42f/tinyformat)                     | Boost            | C++ |**1**| typesafe printf
 string | [utf8](https://github.com/sheredom/utf8.h)                           | **PD**           |C/C++|**1**| UTF-8 string library
 svg    | [SimpleSVG](https://github.com/adishavit/simple-svg)                 | BSD3             | C++ |**1**| Easy to use SVG library
@@ -452,6 +452,21 @@ yaml   | [mini-yaml](https://github.com/jimmiebergmann/mini-yaml)             | 
 https://github.com/avivbeeri/abc - check branches
 https://github.com/stevenlr/Flint - waiting for a 2nd header
 https://github.com/azmr/sweet - NO license
+
+https://github.com/983/df
+https://github.com/983/fft
+https://github.com/andrewwillmott/colour-blind-luts
+https://github.com/bqqbarbhg/bq_websocket
+https://github.com/jarikomppa/ipc
+https://github.com/joric/joirc
+https://github.com/schellingb/c-data-structures
+https://github.com/ufbx/ufbx
+https://github.com/wangyi-fudan/wyhash
+https://github.com/wangyi-fudan/wyHLL
+https://github.com/willemt/raft_amalgamation
+https://github.com/willemt/splay-tree
+https://github.com/willemt/yabtorrent
+https://github.com/xtopher-xyz/xrns-player
 
 -->
 
