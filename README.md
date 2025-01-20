@@ -74,6 +74,7 @@ Also you might be interested in other related, but different lists:
 [yocto-gl (C++)](https://github.com/xelatihy/yocto-gl), 
 [zeroTolerance](https://github.com/jharler/ZeroTolerance),
 [zheaders](https://github.com/Zguy/ZHeaders),
+[**zpl**](https://github.com/zpl-c/zpl),
 
 ### Library listing
 
@@ -206,6 +207,7 @@ ds     | [simclist](http://mij.oltrelinux.com/devel/simclist)                 | 
 ds     | [stb_ds](https://github.com/nothings/stb/blob/main/stb_ds.h) |                                        **PD**|C/C++|**1**| typesafe dynamic array and hash tables for C, will compile in C++
 ds     | [trie.hpp](https://github.com/burner/sweet.hpp/trie.hpp)             | LGPL3            | C++ |**1**| A trie (prefix tree) implementation for C++11
 ds     | [uthash](https://github.com/troydhanson/uthash)                      | BSD              |C/C++|  2  | several 1-header, 1-license-file libs: generic hash, list, etc
+ds     | [zpl](https://github.com/zpl-c/zpl)                                  | *PD*/BSD3        |C/C++|**1**| Foundation utils
 ecs    | [pico_ecs.h](https://github.com/empyreanx/pico_headers/blob/main/pico_ecs.h) | **PD**/zlib |  C  |**1**| Pure and simple ECS
 engine | [FWK1](https://github.com/fwk3d/v1/blob/master/2024/2024.10/engine/joint.h) | **PD**    | C |**1**| 3D game framework in C
 engine | [kit](https://github.com/rxi/kit)                                    | **PD**           | C |**1**| tiny library for making small games with big pixels
@@ -439,6 +441,7 @@ string | [tiny-regex-c](https://github.com/kokke/tiny-regex-c)                | 
 string | [tiny-regex-mod](https://github.com/monolifed/tiny-regex-mod)        | **PD**           |  C  |**1**| Tiny regular expressions library 
 string | [tinyformat](https://github.com/c42f/tinyformat)                     | Boost            | C++ |**1**| typesafe printf
 string | [utf8](https://github.com/sheredom/utf8.h)                           | **PD**           |C/C++|**1**| UTF-8 string library
+string | [zpl](https://github.com/zpl-c/zpl)                                  | *PD*/BSD3        |C/C++|**1**| Foundation utils
 svg    | [SimpleSVG](https://github.com/adishavit/simple-svg)                 | BSD3             | C++ |**1**| Easy to use SVG library
 sys    | [cpuid](https://github.com/anzz1/cpuid)                              | ??               | C/C++ |**1**| cross-platform cpuid intrinsic
 sys    | [doops](https://github.com/eduardsui/doops)                          | **PD**           |  C  |**1**| Event loop library
@@ -448,6 +451,7 @@ sys    | [JArgsParser](https://github.com/ZhengqiaoWang/JArgsParser)          | 
 sys    | [openmodal](https://gitlab.com/bztsrc/openmodal)                     | MIT              |  C  |**1**| Native file modals
 sys    | [rang](https://github.com/agauniyal/rang)                            | **PD**           | C++ |**1**| cross-platform colored console text
 sys    | [xproc](https://github.com/time-killer-games/xproc)                  | MIT              | C++ |  2  | Foreign Process Information
+sys    | [zpl](https://github.com/zpl-c/zpl)                                  | *PD*/BSD3        |C/C++|**1**| Foundation utils
 thread | [bikeshed.h](https://github.com/DanEngelbrecht/bikeshed)             | MIT              |C/C++|**1**| cross-platform lock free fixed memory hierarchical work scheduler
 thread | [mm_sched.h](https://github.com/vurtun/mmx)                          | zlib             |C/C++|**1**| cross-platform multithreaded task scheduler based on [enkiTS](https://github.com/dougbinks/enkiTS)
 thread | [px_sched.h](https://github.com/pplux/px/blob/master/px_sched.h)     | MIT              | C++ |  1  | cross-platform task scheduler [info](https://github.com/pplux/px/blob/master/README_px_sched.md)
@@ -520,9 +524,6 @@ https://github.com/wc-duck/dbgtools
 https://github.com/wc-duck/uuid_h
 https://github.com/WilliamBundy/wb_alloc
 
-sys    | https://github.com/zpl-c/zpl | *PD*/BSD3 |C/C++|**1**| Foundation utils
-ds     | https://github.com/zpl-c/zpl | *PD*/BSD3 |C/C++|**1**| Foundation utils
-string | https://github.com/zpl-c/zpl | *PD*/BSD3 |C/C++|**1**| Foundation utils
 net    | https://github.com/zpl-c/librg | BSD3 |C/C++|**1**| entity/world/area network replication
 
 LICENSE file apart:
