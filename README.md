@@ -49,6 +49,7 @@ Also you might be interested in other related, but different lists:
 [**klib**](https://github.com/attractivechaos/klib),
 [libjrc](https://github.com/SmileTheory/libjrc),
 [**libs**](https://github.com/mattiasgustavsson/libs), 
+[live_edit](https://github.com/azmr/live_edit),
 [maratis](https://github.com/anael-seghezzi/Maratis-Tiny-C-library), 
 [**minilibs**](https://github.com/ccxvii/minilibs), 
 [miscsrc](https://github.com/wernsey/miscsrc),
@@ -508,23 +509,26 @@ yaml   | [mini-yaml](https://github.com/jimmiebergmann/mini-yaml)             | 
 
 <!-- todo
 
-https://github.com/avivbeeri/abc
-https://github.com/azmr/blit-fonts
-https://github.com/azmr/colourblind
-https://github.com/azmr/live_edit
-https://github.com/cdwfs/algo
-https://github.com/cdwfs/cds_sync
-https://github.com/edubart/minilua
+https://github.com/avivbeeri/abc - check branches
+font|https://github.com/azmr/blit-fonts|ISC|C/C++|1|bitmap font blitters
+2d|https://github.com/azmr/colourblind|ISC|C|1|simulating colourblindness
+ds|https://github.com/cdwfs/algo|**PD**|C|1|Collection of data structures (queue, stack, graph, heap...)
+math|https://github.com/cdwfs/cds_spline/blob/master/cds_spline.h|**PD**|C|1|Spline utils
+thread|https://github.com/cdwfs/cds_sync|**PD**|C|1|Collection of synchronization primitives
+script|https://github.com/edubart/minilua|MIT|C/C++|**1**|Single-file port of Lua scripting language
 https://github.com/matanui159/jebp
 https://github.com/simongeilfus/SimplexNoise
 https://github.com/stevenlr/Flint
 https://github.com/wareya/Remimu
 https://github.com/wc-duck/dirutil
 https://github.com/wc-duck/dbgtools
-https://github.com/wc-duck/uuid_h
-https://github.com/WilliamBundy/wb_alloc
+https://github.com/wc-duck/uuid_h|zlib|C/C++|**1**|
+mem|https://github.com/WilliamBundy/wb_alloc|**PD**|C/C++|**1**|custom allocators in a single-header
 
 net    | https://github.com/zpl-c/librg | BSD3 |C/C++|**1**| entity/world/area network replication
+
+NO license
+https://github.com/azmr/sweet
 
 LICENSE file apart:
 [random3](https://github.com/MichelPaulissen/random3),
