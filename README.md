@@ -322,7 +322,7 @@ net    | [enet](https://github.com/zpl-c/enet)                                | 
 net    | [EWS](https://github.com/hellerf/EmbeddableWebServer)                | BSD              |C/C++|**1**| HTTP server
 net    | [happyhttp](https://github.com/mingodad/HappyHTTP)                   | zlib             | C++ |  2  | HTTP client requests
 net    | [libcluon](https://github.com/chrberger/libcluon)                    | MPL-2.0          | C++ |**1**| cross-platform socket wrapper and data marshalling with native implementations for [Protobuf](https://developers.google.com/protocol-buffers/), [LCM](https://lcm-proj.github.io/type_specification.html)/[ZCM](https://zerocm.github.io/zcm/), JSON, and [MsgPack](https://msgpack.org) serialization/deserialization
-net    | [librg](https://github.com/zpl-c/librg)                              | BSD3             |C/C++|**1**| entity/world/area network replication
+net    | [librg](https://github.com/zpl-c/librg)                              | BSD3             |C/C++|**1**| world/entity synchronization multiplayer library
 net    | [LUrlParser](https://github.com/corporateshark/LUrlParser)           | MIT              | C++ |  2  | lightweight URL & URI parser RFC 1738, RFC 3986
 net    | [mongoose](https://github.com/cesanta/mongoose)                      | GPLv2            |C/C++|  2  | HTTP server
 net    | [netq](https://gitlab.com/bztsrc/netq)                               | MIT              |  C  |**1**| Reliable datagram library
