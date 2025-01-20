@@ -508,6 +508,7 @@ xml    | [yxml](https://dev.yorhel.nl/yxml)                                   | 
 yaml   | [mini-yaml](https://github.com/jimmiebergmann/mini-yaml)             | MIT              | C++ |  2  | YAML parser and serializer
 script | [minilua](https://github.com/edubart/minilua)                        | MIT              |C/C++|**1**| Single-file port of Lua scripting language
 C      | [minicoro](https://github.com/edubart/minicoro/)                     | **PD**/**0MIT**  |C/C++|**1**| Stackful cross-platform coroutine library
+mem    | [wb_alloc](https://github.com/WilliamBundy/wb_alloc)                 | **PD**           |C/C++|**1**| custom allocators in a single-header
 
 <!-- todo
 
@@ -524,7 +525,6 @@ https://github.com/wareya/Remimu
 https://github.com/wc-duck/dirutil
 https://github.com/wc-duck/dbgtools
 https://github.com/wc-duck/uuid_h|zlib|C/C++|**1**|
-mem|https://github.com/WilliamBundy/wb_alloc|**PD**|C/C++|**1**|custom allocators in a single-header
 
 net    | https://github.com/zpl-c/librg | BSD3 |C/C++|**1**| entity/world/area network replication
 
