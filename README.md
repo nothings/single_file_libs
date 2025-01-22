@@ -88,7 +88,7 @@ Also you might be interested in other related, but different lists:
 
 ### Library listing
 
-| tag  | library                                                              | license          | API |files| description
+| tag  | library                                                              | license          | &nbsp;&nbsp;&nbsp;API&nbsp;&nbsp;&nbsp; |files| description
 | ---- | -------------------------------------------------------------------- |:----------------:|:---:|:---:| -----------
 2d     | [blendish](https://hg.sr.ht/~duangle/oui-blendish)                   | MIT              |C/C++|  1  | blender-style widget rendering using NanoVG
 2d     | [C-Turtle](https://github.com/walkerje/C-Turtle)                     | MIT              | C++ |**1**| Port of Python's Turtle to C++
