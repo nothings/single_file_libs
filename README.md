@@ -167,7 +167,6 @@ dev    | [EasyTab](https://github.com/ApoorvaJ/EasyTab)                       | 
 dev    | [libue](https://github.com/houqp/libue)                              | MIT              |C/C++|  1  | Helper library for Linux device hot-plug event
 ds     | [aArray](https://tse.gratis/aArray/)                                 | **PD**           |  C  |**1**| Arrays/strings: generic, safe
 ds     | [avl](https://github.com/etherealvisage/avl)                         | **PD**           |C/C++|  2  | AVL tree
-ds     | [c-bool-value](https://github.com/lduck11007/c-bool-value)           | **WTFPLv2**      |C/C++|  1  | Simple and easy boolean values in standard c
 ds     | [cds_algo](https://github.com/cdwfs/algo)                            | **PD**           |C/C++|**1**| Collection of data structures (queue, stack, graph, heap...)
 ds     | [DG_dynarr.h](https://github.com/DanielGibson/Snippets/)             | **PD**           |C/C++|**1**| typesafe dynamic arrays (like std::vector) for plain C
 ds     | [dynarr](https://github.com/BareRose/dynarr)                         | **PD**           |  C  |**1**| dynamic array container
