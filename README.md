@@ -86,7 +86,9 @@ Also you might be interested in other related, but different lists:
 [zheaders](https://github.com/Zguy/ZHeaders),
 [**zpl**](https://github.com/zpl-c/zpl),
 
-### Library listing
+### Main listing
+
+The listing below meets all the requirements aforementioned.
 
 | tag  | library                                                              | license          | &nbsp;&nbsp;&nbsp;API&nbsp;&nbsp;&nbsp; |files| description
 | ---- | -------------------------------------------------------------------- |:----------------:|:---:|:---:| -----------
@@ -112,8 +114,7 @@ ds     | [DG_dynarr.h](https://github.com/DanielGibson/Snippets/)             | 
 ds     | [dynarr](https://github.com/BareRose/dynarr)                         | **PD**           |**C**|**1**| Dynamic array container
 ds     | [jrsl](https://github.com/Garfield1002/jrsl)                         | **PD**           |**C/C++**|**1**| Skip Lists
 ds     | [stb_ds](https://github.com/nothings/stb/blob/main/stb_ds.h) |                    **PD**|**C/C++**|**1**| Typesafe dynamic array and hash tables for C, will compile in C++
-engine | [FWK1](https://github.com/fwk3d/v1/blob/master/2024/2024.10/engine/joint.h) | **PD**    | C |**1**| 3D game framework in C
-engine | [kit](https://github.com/rxi/kit)                                    | **PD**           | C |**1**| Tiny library for making small games with big pixels
+engine | [kit](https://github.com/rxi/kit)                                    | **PD**           |**C**|**1**| Tiny library for making small games with big pixels
 font   | [stb_easy_font](https://github.com/nothings/stb/blob/main/stb_easy_font.h) |      **PD**|**C/C++**|**1**| Quick-and-dirty easy-to-deploy bitmap font for printing frame rate, etc
 font   | [stb_truetype](https://github.com/nothings/stb/blob/main/stb_truetype.h) |        **PD**|**C/C++**|**1**| Parse, decode, and rasterize characters from truetype fonts
 game   | [raycastlib.h](https://gitlab.com/drummyfish/raycastlib)             | **CC0** + patent waiver  |**C/C++**|**1**| Advanced raycasting rendering library, pure C99 with no dependencies, only 32bit int math
@@ -122,6 +123,7 @@ game   | [stb_herringbone_wang_tile](https://github.com/nothings/stb/blob/main/s
 game   | [stb_tilemap_editor](https://github.com/nothings/stb/blob/main/stb_tilemap_editor.h) |**PD**|**C/C++**|**1**| Embeddable tilemap editor
 hash   | [lonesha256](https://github.com/BareRose/lonesha256)                 | **PD**           |**C**|**1**| SHA256 implementation
 image  | [cro_mipmap.h](https://github.com/thebeast33/cro_lib)                | **PD**           |**C/C++**|**1**| Average, min, max mipmap generators
+image  | [jo_sift](https://www.jonolick.com/home/scale-invariant-feature-transform-sift-single-file-library) | **PD** |**C/C++**|**1**| Image feature detection and matching
 image  | [stb_image](https://github.com/nothings/stb/blob/main/stb_image.h) |              **PD**|**C/C++**|**1**| Image loading/decoding from file/memory: JPG, PNG, TGA, BMP, PSD, GIF, HDR, PIC
 image  | [stb_image_resize](https://github.com/nothings/stb/blob/main/stb_image_resize2.h)|**PD**|**C/C++**|**1**| Resize images larger/smaller with good quality
 image  | [stb_image_write](https://github.com/nothings/stb/blob/main/stb_image_write.h) |  **PD**|**C/C++**|**1**| Image writing to disk: PNG, TGA, BMP
@@ -174,7 +176,6 @@ unit   | [walter](https://github.com/ir33k/walter)                            | 
 vector | [ccVector.h](https://github.com/jobtalle/ccVector)                   | **PD**           |**C/C++**|**1**| Vector, quaternion and matrix math
 vector | [Handmade Math](https://github.com/StrangeZak/Handmade-Math)         | **PD**           |**C/C++**|**1**| Vector math
 video  | [jo_mpeg](https://www.jonolick.com/home/mpeg-video-writer) / [(converted to C)](https://blog.frost.kiwi/jo-mpeg-in-c) | **PD** |**C/C++**|**1**| MPEG file writer
-image  | [jo_sift](https://www.jonolick.com/home/scale-invariant-feature-transform-sift-single-file-library) | **PD** |**C/C++**|**1**| Image feature detection and matching
 
 ### Secondary listing
 
@@ -256,7 +257,7 @@ ds     | [selist](https://github.com/ennorehling/clibs)                       | 
 ds     | [simclist](https://mij.oltrelinux.com/devel/simclist)                | BSD              |**C/C++**|  2  | Linked-list
 ds     | [uthash](https://github.com/troydhanson/uthash)                      | BSD              |**C/C++**|  2  | Several 1-header, 1-license-file libs: generic hash, list, etc
 engine | [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) | BSD3         | C++ |**1**| Game engine
-engine | [Punity](https://github.com/martincohen/Punity)                      | MIT              | C |**1**| A tiny game engine in C
+engine | [Punity](https://github.com/martincohen/Punity)                      | MIT              |**C**|**1**| A tiny game engine in C
 file   | [dirent](https://github.com/tronkko/dirent)                          | MIT              |**C/C++**|**1**| Dirent for Windows: retrieve file & dir info
 file   | [miniphysfs](https://github.com/edubart/miniphysfs)                  | ZLIB             |**C/C++**|**1**| Single-file port of PhysFS, a fs/zip abstraction
 file   | [tfile](https://github.com/rec/tfile)                                | MIT              |C++|**1**| FILE* wrapper does read-write-append-seek-close (Win/Mac/Unix)
@@ -414,8 +415,6 @@ string | [str](https://github.com/maxim2266/str)                              | 
 string | [str_view.hpp](https://github.com/sawickiap/str_view)                | MIT              | C++ |**1**| Null-termination-aware string-view class
 string | [tinyformat](https://github.com/c42f/tinyformat)                     | Boost            | C++ |**1**| Typesafe printf
 svg    | [SimpleSVG](https://github.com/adishavit/simple-svg)                 | BSD3             | C++ |**1**| Easy to use SVG library
-sys    | [cpuid](https://github.com/anzz1/cpuid)                              | ??               |**C/C++**|**1**| Cross-platform cpuid intrinsic
-sys    | [iathook](https://github.com/anzz1/iathook)                          | ??               |**C/C++**|**1**| Import address table hooking library (x86/x64,w32)
 sys    | [JArgsParser](https://github.com/ZhengqiaoWang/JArgsParser)          | MIT              | C++ |**1**| Arguments parser
 sys    | [openmodal](https://gitlab.com/bztsrc/openmodal)                     | MIT              |**C**|**1**| Native file modals
 sys    | [rang](https://github.com/agauniyal/rang)                            | **PD**           | C++ |**1**| Cross-platform colored console text
@@ -454,6 +453,19 @@ xml    | [pugixml](https://pugixml.org/)                                      | 
 xml    | [tinyxml2](https://github.com/leethomason/tinyxml2)                  | zlib             | C++ |  2  | Simple, small, efficient, C++ XML parser
 xml    | [yxml](https://dev.yorhel.nl/yxml)                                   | MIT              |**C**|  2  | Small, fast and correct XML parser
 yaml   | [mini-yaml](https://github.com/jimmiebergmann/mini-yaml)             | MIT              | C++ |  2  | YAML parser and serializer
+
+### Tertiary listing
+
+The listing below does not meet the requirements aforementioned for some major discrepancy or another reason. Some of you may still relevant the links below.
+
+| tag  | library                                                              | license          | &nbsp;&nbsp;&nbsp;API&nbsp;&nbsp;&nbsp; |files| description
+| ---- | -------------------------------------------------------------------- |:----------------:|:---:|:---:| -----------
+db     | [sqlite](https://www.sqlite.org/amalgamation.html)            | **PD**                  |**C**|  2  | Self-contained, SQL database engine.
+engine | [FWK1](https://github.com/fwk3d/v1/blob/master/2024/2024.10/engine/joint.h) | **PD**    |**C**|**1**| 3D game framework in C
+file   | [DTW](https://github.com/OUIsolutions/DoTheWorld)             | MIT              |C/C++|**1**| File and folder utilities
+pack   | [zstd](https://github.com/facebook/zstd/tree/dev/build/single_file_libs) | BSD3         |**C**|  ?  | Fast real-time compression algorithm
+sys    | [cpuid](https://github.com/anzz1/cpuid)                              | ??               |**C/C++**|**1**| Cross-platform cpuid intrinsic
+sys    | [iathook](https://github.com/anzz1/iathook)                          | ??               |**C/C++**|**1**| Import address table hooking library (x86/x64,w32)
 
 <!-- todo
 
@@ -514,6 +526,8 @@ source file) is 3 files, and won't be accepted, because it's not 2 files. But ac
 not scoped to just the library, so library authors are encouraged to include the license in the
 source file and not require a separate LICENSE.
 
+<!--
 ### Why isn't SQLite's amalgamated build on this list?
 
 Come on.
+-->
