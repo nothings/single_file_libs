@@ -174,6 +174,7 @@ unit   | [walter](https://github.com/ir33k/walter)                            | 
 vector | [ccVector.h](https://github.com/jobtalle/ccVector)                   | **PD**           |**C/C++**|**1**| Vector, quaternion and matrix math
 vector | [Handmade Math](https://github.com/StrangeZak/Handmade-Math)         | **PD**           |**C/C++**|**1**| Vector math
 video  | [jo_mpeg](https://www.jonolick.com/home/mpeg-video-writer) / [(converted to C)](https://blog.frost.kiwi/jo-mpeg-in-c) | **PD** |**C/C++**|**1**| MPEG file writer
+image  | [jo_sift](https://www.jonolick.com/home/scale-invariant-feature-transform-sift-single-file-library) | **PD** |**C/C++**|**1**| Image feature detection and matching
 
 ### Secondary listing
 
