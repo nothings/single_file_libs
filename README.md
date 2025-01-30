@@ -28,60 +28,60 @@ Also you might be interested in other related, but different lists:
 - [**STB**](https://github.com/nothings/stb): the mighty collection of gamedev utils.
 - [clib](https://github.com/clibs/clib/wiki/Packages): list of (mostly) small single C functions (licenses not listed)
 - [CCAN](https://ccodearchive.net/list.html): package of lots of shareable C functions (mixed licenses)
-- And some more: 
+- And some more:
 [**andrewwillmott**](https://github.com/andrewwillmott?tab=repositories&q=&type=source&language=c&sort=),
 [b-library (C,C++)](https://github.com/blat-blatnik/B-Library),
 [blastbay](https://github.com/blastbay?tab=repositories&q=&type=source&language=c&sort=),
 [chobo-shl (C++)](https://github.com/Chobolabs/chobo-shl),
-[clibs](https://github.com/ennorehling/clibs), 
+[clibs](https://github.com/ennorehling/clibs),
 [containers (C++)](https://github.com/JCash/containers),
 [cpp-poc (C++)](https://github.com/xdbr/cpp-poc),
-[**cute_headers** (C,C++)](https://github.com/RandyGaul/cute_headers), 
+[**cute_headers** (C,C++)](https://github.com/RandyGaul/cute_headers),
 [data-structures-c](https://github.com/bartobri/data-structures-c),
-[**dr_libs**](https://github.com/mackron/dr_libs), 
-[dyeo.h](https://github.com/dyeo/dyeo.h), 
+[**dr_libs**](https://github.com/mackron/dr_libs),
+[dyeo.h](https://github.com/dyeo/dyeo.h),
 [emilib (C++)](https://github.com/emilk/emilib),
-[final_game_tech (C,C++)](https://github.com/f1nalspace/final_game_tech), 
+[final_game_tech (C,C++)](https://github.com/f1nalspace/final_game_tech),
 [ftg_toolbox_public](https://github.com/frogtoss/ftg_toolbox_public),
-[**gb**](https://github.com/gingerBill/gb), 
+[**gb**](https://github.com/gingerBill/gb),
 [gl-helpers (C,C++)](https://github.com/Flix01/Header-Only-GL-Helpers),
 [ijhandlealloc](https://github.com/incrediblejr/ijhandlealloc),
-[jar](https://github.com/kd7tck/jar), 
+[jar](https://github.com/kd7tck/jar),
 [**jo**](https://jonolick.com/code.html),
 [kj](https://github.com/AfroDave/kj),
 [**klib**](https://github.com/attractivechaos/klib),
 [**kokke**](https://github.com/kokke?tab=repositories&q=&type=source&language=c&sort=),
 [libjrc](https://github.com/SmileTheory/libjrc),
-[**libs**](https://github.com/mattiasgustavsson/libs), 
+[**libs**](https://github.com/mattiasgustavsson/libs),
 [libs](https://github.com/bullno1/libs),
 [live_edit](https://github.com/azmr/live_edit),
-[maratis](https://github.com/anael-seghezzi/Maratis-Tiny-C-library), 
-[**minilibs**](https://github.com/ccxvii/minilibs), 
+[maratis](https://github.com/anael-seghezzi/Maratis-Tiny-C-library),
+[**minilibs**](https://github.com/ccxvii/minilibs),
 [miscsrc](https://github.com/wernsey/miscsrc),
-[**mmx**](https://github.com/vurtun/mmx), 
+[**mmx**](https://github.com/vurtun/mmx),
 [**nflibs**](https://github.com/niklasfrykholm/nflibs),
-[noc](https://github.com/guillaumechereau/noc), 
+[noc](https://github.com/guillaumechereau/noc),
 [ok-**fm**](https://github.com/brackeen/ok-file-formats),
 [ok-**lib**](https://github.com/brackeen/ok-lib),
-[**par**](https://github.com/prideout/par), 
-[pico_headers](https://github.com/empyreanx/pico_headers), 
+[**par**](https://github.com/prideout/par),
+[pico_headers](https://github.com/empyreanx/pico_headers),
 [portable-snippets](https://github.com/nemequ/portable-snippets),
-[px (C++)](https://github.com/pplux/px), 
-[rjm](https://github.com/rmitton/rjm), 
+[px (C++)](https://github.com/pplux/px),
+[rjm](https://github.com/rmitton/rjm),
 [**rxi**](https://github.com/rxi?tab=repositories&q=&type=source&language=c&sort=),
 [shadertoolkit](https://github.com/jarikomppa/shadertoolkit),
 [single-header-file-c-libs](https://github.com/arkanis/single-header-file-c-libs),
 [**skeeto**](https://github.com/skeeto?tab=repositories&q=&type=source&language=c&sort=),
 [slibs](https://github.com/yui0/slibs),
 [snippets](https://github.com/blat-blatnik/Snippets),
-[snippets](https://github.com/DanielGibson/Snippets), 
-[**sokol**](https://github.com/floooh/sokol), 
+[snippets](https://github.com/DanielGibson/Snippets),
+[**sokol**](https://github.com/floooh/sokol),
 [statvs (C++)](https://github.com/r-lyeh-archived/statvs),
-[sts](https://github.com/kieselsteini/sts), 
-[**sweet** (C++)](https://github.com/burner/sweet.hpp), 
-[tinybits (C,C++)](https://github.com/r-lyeh/tinybits), 
+[sts](https://github.com/kieselsteini/sts),
+[**sweet** (C++)](https://github.com/burner/sweet.hpp),
+[tinybits (C,C++)](https://github.com/r-lyeh/tinybits),
 [**tm**](https://github.com/to-miz/tm),
-[yocto-gl (C++)](https://github.com/xelatihy/yocto-gl), 
+[yocto-gl (C++)](https://github.com/xelatihy/yocto-gl),
 [zeroTolerance](https://github.com/jharler/ZeroTolerance),
 [zheaders](https://github.com/Zguy/ZHeaders),
 [**zpl**](https://github.com/zpl-c/zpl),
@@ -103,7 +103,7 @@ audio  | [miniaudio](https://github.com/dr-soft/miniaudio)                    | 
 audio  | [minimp3](https://github.com/lieff/minimp3)                          | **CC0**          |**C**|**1**| Minimalistic MP3 decoder with sse/neon support
 audio  | [stb_hexwave](https://github.com/nothings/stb/blob/main/stb_hexwave.h)|           **PD**|**C**|**1**| Audio waveform synthesizer
 audio  | [stb_vorbis](https://github.com/nothings/stb/blob/main/stb_vorbis.c)  |           **PD**|**C**|**1**| Decode ogg vorbis files from file/memory to float/16-bit signed output
-bench  | [ubench.h](https://github.com/sheredom/ubench.h)                     | **PD**           |**C**|**1**| Microbenchmarking 
+bench  | [ubench.h](https://github.com/sheredom/ubench.h)                     | **PD**           |**C**|**1**| Microbenchmarking
 c      | [minicoro](https://github.com/edubart/minicoro/)                     | **PD**/**0MIT**  |**C**|**1**| Stackful cross-platform coroutine library
 c      | [stb_sprintf](https://github.com/nothings/stb/blob/main/stb_sprintf.h) |          **PD**|**C**|**1**| Fast sprintf, snprintf for C/C++
 crypt  | [random3](https://github.com/MichelPaulissen/random3)                | **PD**           |**C**|**1**| Crypt-random generator
@@ -164,7 +164,7 @@ serial | [Serialization helper](https://gist.github.com/TheServer201/9ae5322cd52
 string | [gb_string.h](https://github.com/gingerBill/gb)                      | **PD**           |**C**|**1**| Dynamic strings
 string | [utf8](https://github.com/sheredom/utf8.h)                           | **PD**           |**C**|**1**| UTF-8 string library
 sys    | [doops](https://github.com/eduardsui/doops)                          | **PD**           |**C**|**1**| Event loop library
-sys    | [endianness.h](https://github.com/rofl0r/endianness.h)               | **PD**           |**C**|**1**| Endianness conversion and detection  
+sys    | [endianness.h](https://github.com/rofl0r/endianness.h)               | **PD**           |**C**|**1**| Endianness conversion and detection
 thread | [cds_sync](https://github.com/cdwfs/cds_sync)                        | **PD**           |**C**|**1**| Collection of synchronization primitives
 ui     | [libcmdf](https://github.com/ronen25/libcmdf)                        | **PD**           |**C**|**1**| A small library for writing CLI applications
 ui     | [nuklear](https://github.com/Immediate-Mode-UI/Nuklear)              | **PD**           |**C**|**1**| Minimal GUI toolkit
@@ -205,7 +205,7 @@ The listing below meets some but not all the requirements aforementioned.
 3d     | [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)|MIT|**C**|**1**| Memory allocator for Vulkan
 ai     | [Genann](https://github.com/codeplea/genann)                         | zlib             |**C**|  2  | Simple neural networks (ANN)
 ai     | [KANN](https://github.com/attractivechaos/kann)                      | MIT              |**C**|  2  | Automatic differentiation (2 files)
-app    | [RGFW](https://github.com/ColleagueRiley/RGFW)                       | ZLIB             |**C**|**1**| A multi-platform single-header user-friendly GUI framework as an alternative to GLFW 
+app    | [RGFW](https://github.com/ColleagueRiley/RGFW)                       | ZLIB             |**C**|**1**| A multi-platform single-header user-friendly GUI framework as an alternative to GLFW
 argv   | [Argh!](https://github.com/adishavit/argh)                           | BSD              | C++ |**1**| Command-line argument parsing
 argv   | [Clara](https://github.com/catchorg/Clara)                           | Boost            | C++ |**1**| Composable, command line parser for C++ 11 and beyond
 argv   | [CLI11](https://github.com/CLIUtils/CLI11)                           | BSD              | C++ |**1**| Feature-rich CLI parsing in modern C++11
@@ -250,7 +250,7 @@ ds     | [jhr_skip_list](https://github.com/Garfield1002/jhr_skip_list)       | 
 ds     | [klib](https://attractivechaos.github.io/klib/)                      | MIT              |**C**|  2  | Many 2-file libs: hash, sort, b-tree, etc
 ds     | [libintrusive](https://github.com/graphitemaster/libintrusive)       | **PD**           |**C**|  2  | Intrusive data structures
 ds     | [libpqueue](https://github.com/vy/libpqueue)                         | BSD              |**C**|  2  | Priority queue (heap)
-ds     | [LinkedList](https://github.com/ivanseidel/LinkedList)               | MIT              |**C**|  2  | Linked list C++ 
+ds     | [LinkedList](https://github.com/ivanseidel/LinkedList)               | MIT              |**C**|  2  | Linked list C++
 ds     | [mempool](https://github.com/hardikp/cpp-mempool)                    | MIT              | C++ |**1**| Efficient minimal memory pool implementation for C++
 ds     | [PackedArray](https://github.com/gpakosz/PackedArray)                | **WTFPLv2**      |**C**|  2  | Memory-efficient array of elements with non-pow2 bitcount
 ds     | [selist](https://github.com/ennorehling/clibs)                       | ISC              |**C**|  2  | Space-efficient linked-list
@@ -382,7 +382,7 @@ parse  | [cpp-peglib](https://github.com/yhirose/cpp-peglib)                  | 
 parse  | [html-parse.c](https://git.savannah.gnu.org/cgit/wget.git/tree/src/html-parse.c)  | GPL |**C**|  2  | HTML parser (wget)
 parse  | [SLRE](https://github.com/cesanta/slre)                              | GPLv2            |**C**|**1**| Regular expression matcher
 parse  | [tok](https://gitlab.com/bztsrc/tok)                                 | MIT              |**C**|**1**| Configurable tokenizer
-parse  | [tomlplusplus](https://github.com/marzer/tomlplusplus)               | MIT              | C++ |**1**| TOML parser and serializer 
+parse  | [tomlplusplus](https://github.com/marzer/tomlplusplus)               | MIT              | C++ |**1**| TOML parser and serializer
 parse  | [udisasm](https://gitlab.com/bztsrc/udisasm)                         | MIT              |**C**|**1**| Extremely small disassembler for ARMv8.2 AArch64 (~65k) |
 parse  | [Unformat](https://github.com/adamyaxley/Unformat)                   | **PD**           | C++ |**1**| Parses formatted strings (reverse of std::format)
 prng   | [random](https://github.com/effolkronium/random)                     | MIT              | C++ |**1**| Convenient API for random
