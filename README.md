@@ -237,6 +237,7 @@ csv    | [Rapidcsv](https://github.com/d99kris/rapidcsv/)                     | 
 csv    | [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser)    | MIT              | C++ |**1**| CSV parser and serializer
 date   | [date](https://github.com/HowardHinnant/date)                        | MIT              | C++ |**1**| Date and time libraries
 debug  | [dbgtools](https://github.com/wc-duck/dbgtools)                      | zlib             |**C**|  2  | Cross-platform debug util libraries
+debug  | [b_stacktrace](https://github.com/iboB/b_stacktrace)                 | MIT              |**C**|**1**| Stack tracing
 debug  | [debug-assert](https://github.com/foonathan/debug_assert)            | zlib             | C++ |**1**| Modular assertion macro
 debug  | [debugbreak](https://github.com/scottt/debugbreak)                   | BSD              |**C**|**1**| Programmatic debug break
 debug  | [loguru](https://github.com/emilk/loguru)                            | **PD**           | C++ |**1**| Flexible logging
