@@ -96,16 +96,16 @@ The list below meets all of the above requirements.
 3d     | [lightmapper](https://github.com/ands/lightmapper#lightmapper)       | **PD**           |**C**|**1**| Use your OpenGL renderer to offline bake lightmaps
 3d     | [seamoptimizer](https://github.com/ands/seamoptimizer)               | **PD**           |**C**|**1**| Modify lightmap data to hide seams
 3d     | [small3dlib](https://gitlab.com/drummyfish/small3dlib)        | **CC0** + patent waiver |**C**|**1**| Fast and portable software renderer
-3d     | [stb_voxel_render](https://github.com/nothings/stb/blob/main/stb_voxel_render.h) |**PD**|**C**|**1**| Minecraft-esque voxel rendering "engine" with many more features
+3d     | [stb_voxel_render](https://github.com/nothings/stb/blob/master/stb_voxel_render.h) |**PD**|**C**|**1**| Minecraft-esque voxel rendering "engine" with many more features
 3d     | [Vertex Cache Optimizer](https://github.com/Sigkill79/sts)           | **PD**           |**C**|**1**| Vertex cache optimization of meshes
 audio  | [atomix](https://github.com/BareRose/atomix)                         | **PD**           |**C**|**1**| Wait-free atomic sound mixer
 audio  | [miniaudio](https://github.com/dr-soft/miniaudio)                    | **PD**           |**C**|**1**| Audio playback and capture library
 audio  | [minimp3](https://github.com/lieff/minimp3)                          | **CC0**          |**C**|**1**| Minimalistic MP3 decoder with sse/neon support
-audio  | [stb_hexwave](https://github.com/nothings/stb/blob/main/stb_hexwave.h)|           **PD**|**C**|**1**| Audio waveform synthesizer
-audio  | [stb_vorbis](https://github.com/nothings/stb/blob/main/stb_vorbis.c)  |           **PD**|**C**|**1**| Decode ogg vorbis files from file/memory to float/16-bit signed output
+audio  | [stb_hexwave](https://github.com/nothings/stb/blob/master/stb_hexwave.h)|           **PD**|**C**|**1**| Audio waveform synthesizer
+audio  | [stb_vorbis](https://github.com/nothings/stb/blob/master/stb_vorbis.c)  |           **PD**|**C**|**1**| Decode ogg vorbis files from file/memory to float/16-bit signed output
 bench  | [ubench.h](https://github.com/sheredom/ubench.h)                     | **PD**           |**C**|**1**| Microbenchmarking
 c      | [minicoro](https://github.com/edubart/minicoro/)                     | **PD**/**0MIT**  |**C**|**1**| Stackful cross-platform coroutine library
-c      | [stb_sprintf](https://github.com/nothings/stb/blob/main/stb_sprintf.h) |          **PD**|**C**|**1**| Fast sprintf, snprintf for C/C++
+c      | [stb_sprintf](https://github.com/nothings/stb/blob/master/stb_sprintf.h) |          **PD**|**C**|**1**| Fast sprintf, snprintf for C/C++
 crypt  | [random3](https://github.com/MichelPaulissen/random3)                | **PD**           |**C**|**1**| Crypt-random generator
 dev    | [EasyTab](https://github.com/ApoorvaJ/EasyTab)                       | **PD**           |**C**|**1**| Multi-platform tablet input
 ds     | [aArray](https://tse.gratis/aArray/)                                 | **PD**           |**C**|**1**| Arrays/strings: generic, safe
@@ -113,22 +113,22 @@ ds     | [cds_algo](https://github.com/cdwfs/algo)                            | 
 ds     | [DG_dynarr.h](https://github.com/DanielGibson/Snippets/)             | **PD**           |**C**|**1**| Typesafe dynamic arrays (like std::vector) for plain C
 ds     | [dynarr](https://github.com/BareRose/dynarr)                         | **PD**           |**C**|**1**| Dynamic array container
 ds     | [jrsl](https://github.com/Garfield1002/jrsl)                         | **PD**           |**C**|**1**| Skip Lists
-ds     | [stb_ds](https://github.com/nothings/stb/blob/main/stb_ds.h) |                    **PD**|**C**|**1**| Typesafe dynamic array and hash tables for C, will compile in C++
+ds     | [stb_ds](https://github.com/nothings/stb/blob/master/stb_ds.h) |                    **PD**|**C**|**1**| Typesafe dynamic array and hash tables for C, will compile in C++
 engine | [kit](https://github.com/rxi/kit)                                    | **PD**           |**C**|**1**| Tiny library for making small games with big pixels
-font   | [stb_easy_font](https://github.com/nothings/stb/blob/main/stb_easy_font.h) |      **PD**|**C**|**1**| Quick-and-dirty easy-to-deploy bitmap font for printing frame rate, etc
-font   | [stb_truetype](https://github.com/nothings/stb/blob/main/stb_truetype.h) |        **PD**|**C**|**1**| Parse, decode, and rasterize characters from truetype fonts
+font   | [stb_easy_font](https://github.com/nothings/stb/blob/master/stb_easy_font.h) |      **PD**|**C**|**1**| Quick-and-dirty easy-to-deploy bitmap font for printing frame rate, etc
+font   | [stb_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h) |        **PD**|**C**|**1**| Parse, decode, and rasterize characters from truetype fonts
 game   | [raycastlib.h](https://gitlab.com/drummyfish/raycastlib)             | **CC0** + patent waiver  |**C**|**1**| Advanced raycasting rendering library, pure C99 with no dependencies, only 32bit int math
-game   | [stb_connected_components](https://github.com/nothings/stb/blob/main/stb_connected_components.h) | **PD**|**C**|**1**| Incrementally compute reachability on grids
-game   | [stb_herringbone_wang_tile](https://github.com/nothings/stb/blob/main/stb_herringbone_wang_tile.h) | **PD**|**C**|**1**| Herringbone Wang tile map generator
-game   | [stb_tilemap_editor](https://github.com/nothings/stb/blob/main/stb_tilemap_editor.h) |**PD**|**C**|**1**| Embeddable tilemap editor
+game   | [stb_connected_components](https://github.com/nothings/stb/blob/master/stb_connected_components.h) | **PD**|**C**|**1**| Incrementally compute reachability on grids
+game   | [stb_herringbone_wang_tile](https://github.com/nothings/stb/blob/master/stb_herringbone_wang_tile.h) | **PD**|**C**|**1**| Herringbone Wang tile map generator
+game   | [stb_tilemap_editor](https://github.com/nothings/stb/blob/master/stb_tilemap_editor.h) |**PD**|**C**|**1**| Embeddable tilemap editor
 hash   | [lonesha256](https://github.com/BareRose/lonesha256)                 | **PD**           |**C**|**1**| SHA256 implementation
 image  | [cro_mipmap.h](https://github.com/thebeast33/cro_lib)                | **PD**           |**C**|**1**| Average, min, max mipmap generators
 image  | [jo_sift](https://www.jonolick.com/home/scale-invariant-feature-transform-sift-single-file-library) | **PD** |**C**|**1**| Image feature detection and matching
-image  | [stb_image](https://github.com/nothings/stb/blob/main/stb_image.h) |              **PD**|**C**|**1**| Image loading/decoding from file/memory: JPG, PNG, TGA, BMP, PSD, GIF, HDR, PIC
-image  | [stb_image_resize](https://github.com/nothings/stb/blob/main/stb_image_resize2.h)|**PD**|**C**|**1**| Resize images larger/smaller with good quality
-image  | [stb_image_write](https://github.com/nothings/stb/blob/main/stb_image_write.h) |  **PD**|**C**|**1**| Image writing to disk: PNG, TGA, BMP
-image  | [stb_perlin](https://github.com/nothings/stb/blob/main/stb_perlin.h) |            **PD**|**C**|**1**| Perlin's revised simplex noise w/ different seeds
-image  | [stb_rect_pack](https://github.com/nothings/stb/blob/main/stb_rect_pack.h) |      **PD**|**C**|**1**| Simple 2D rectangle packer with decent quality
+image  | [stb_image](https://github.com/nothings/stb/blob/master/stb_image.h) |              **PD**|**C**|**1**| Image loading/decoding from file/memory: JPG, PNG, TGA, BMP, PSD, GIF, HDR, PIC
+image  | [stb_image_resize](https://github.com/nothings/stb/blob/master/stb_image_resize2.h)|**PD**|**C**|**1**| Resize images larger/smaller with good quality
+image  | [stb_image_write](https://github.com/nothings/stb/blob/master/stb_image_write.h) |  **PD**|**C**|**1**| Image writing to disk: PNG, TGA, BMP
+image  | [stb_perlin](https://github.com/nothings/stb/blob/master/stb_perlin.h) |            **PD**|**C**|**1**| Perlin's revised simplex noise w/ different seeds
+image  | [stb_rect_pack](https://github.com/nothings/stb/blob/master/stb_rect_pack.h) |      **PD**|**C**|**1**| Simple 2D rectangle packer with decent quality
 image  | GIF [gif_load](https://github.com/hidefromkgb/gif_load)              | **PD**           |**C**|**1**| (animated) GIF reader
 image  | JPG [tiny_jpeg.h](https://github.com/serge-rgb/TinyJPEG/)            | **PD**           |**C**|**1**| JPEG encoder
 image  | WEBP [jebp](https://github.com/matanui159/jebp)                      | **0MIT**         |**C**|**1**| Single header WebP decoder
@@ -142,21 +142,21 @@ math   | [prns.h](https://marc-b-reynolds.github.io/shf/2016/04/19/prns.html) | 
 math   | [rfft.h](https://github.com/grego/rfft.h)                            | **PD**           |**C**|**1**| Fast Fourier Tranform for arbitrary array sizes
 math   | [sobol.h](https://github.com/Marc-B-Reynolds/Stand-alone-junk/)      | **PD**           |**C**|**1**| Sobol & stratified sampling sequences
 math   | [Statistics-Tool-Box](https://github.com/gerbenvoshol/Statistics-Tool-Box) | **PD**     |**C**|**1**| Statistical functions
-math   | [stb_divide](https://github.com/nothings/stb/blob/main/stb_divide.h) |            **PD**|**C**|**1**| More useful 32-bit modulus
+math   | [stb_divide](https://github.com/nothings/stb/blob/master/stb_divide.h) |            **PD**|**C**|**1**| More useful 32-bit modulus
 math   | [vmath](https://github.com/monolifed/vmath)                          | **PD**           |**C**|**1**| Vector/matrix library
 mem    | [buddy_alloc](https://github.com/spaskalev/buddy_alloc)              | **BSD0**         |**C**|**1**| Buddy memory allocator
-mem    | [stb_leakcheck](https://github.com/nothings/stb/blob/main/stb_leakcheck.h) |      **PD**|**C**|**1**| Quick-and-dirty malloc/free leak-checking
+mem    | [stb_leakcheck](https://github.com/nothings/stb/blob/master/stb_leakcheck.h) |      **PD**|**C**|**1**| Quick-and-dirty malloc/free leak-checking
 mem    | [wb_alloc](https://github.com/WilliamBundy/wb_alloc)                 | **PD**           |**C**|**1**| Custom allocators in a single-header
 misc   | [CLM_LIBS](https://github.com/CarlosLunaMota/CLM_LIBS)               | **PD**           |**C**|**1**| Diverse utilities
 misc   | [Hedley](https://nemequ.github.io/hedley/)                           | **PD**           |**C**|**1**| Compiler portability, optimization, static analysis, etc.
 misc   | [process.h](https://github.com/sheredom/process.h)                   | **PD**           |**C**|**1**| Process control API
 misc   | [sili-toolchain](https://github.com/EimaMei/sili-toolchain)          | **PD**           |**C**|**1**| C toolchain for modern C programming, strings, arrays, files, threading, ect
-misc   | [stb_include](https://github.com/nothings/stb/blob/main/stb_include.h) |          **PD**|**C**|**1**| Implement recursive #include support, particularly for GLSL
+misc   | [stb_include](https://github.com/nothings/stb/blob/master/stb_include.h) |          **PD**|**C**|**1**| Implement recursive #include support, particularly for GLSL
 net    | [swrap](https://github.com/BareRose/swrap)                           | **PD**           |**C**|**1**| TCP and UDP socket wrapper
 net    | [zed_net](https://github.com/Smilex/zed_net)                         | **PD**           |**C**|**1**| Cross-platform socket wrapper
 pack   | [nibrans](https://github.com/BareRose/nibrans)                       | **PD**           |**C**|**1**| Adaptive rANS library
-pack   | [stb_dxt](https://github.com/nothings/stb/blob/main/stb_dxt.h) |                  **PD**|**C**|**1**| Real-time DXT compressor
-parse  | [stb_c_lexer](https://github.com/nothings/stb/blob/main/stb_c_lexer.h) |          **PD**|**C**|**1**| Simplify writing parsers for C-like languages
+pack   | [stb_dxt](https://github.com/nothings/stb/blob/master/stb_dxt.h) |                  **PD**|**C**|**1**| Real-time DXT compressor
+parse  | [stb_c_lexer](https://github.com/nothings/stb/blob/master/stb_c_lexer.h) |          **PD**|**C**|**1**| Simplify writing parsers for C-like languages
 prng   | [ranxoshi256](https://github.com/BareRose/ranxoshi256)               | **PD**           |**C**|**1**| Xoshiro256 algorithm
 regex  | [Remimu](https://github.com/wareya/Remimu)                           | **CC0**          |**C**|**1**| Regex engine
 script | [xpl](https://github.com/paladin-t/xpl)                              | **WTFPLv2**      |**C**|**1**| X Programming Language
@@ -168,7 +168,7 @@ sys    | [endianness.h](https://github.com/rofl0r/endianness.h)               | 
 thread | [cds_sync](https://github.com/cdwfs/cds_sync)                        | **PD**           |**C**|**1**| Collection of synchronization primitives
 ui     | [libcmdf](https://github.com/ronen25/libcmdf)                        | **PD**           |**C**|**1**| A small library for writing CLI applications
 ui     | [nuklear](https://github.com/Immediate-Mode-UI/Nuklear)              | **PD**           |**C**|**1**| Minimal GUI toolkit
-ui     | [stb_textedit](https://github.com/nothings/stb/blob/main/stb_textedit.h) |        **PD**|**C**|**1**| Guts of a text editor for games etc implementing them from scratch
+ui     | [stb_textedit](https://github.com/nothings/stb/blob/master/stb_textedit.h) |        **PD**|**C**|**1**| Guts of a text editor for games etc implementing them from scratch
 unit   | [labrat](https://github.com/squarewave/labrat)                       | **PD**           |**C**|**1**| Unit testing
 unit   | [Rexo](https://github.com/christophercrouzet/rexo)                   | **PD**           |**C**|**1**| Framework for C89/C++ featuring automatic registration of tests and a polished API
 unit   | [utest.h](https://github.com/sheredom/utest.h)                       | **PD**           |**C**|**1**| Unit testing
