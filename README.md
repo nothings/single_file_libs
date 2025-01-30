@@ -88,7 +88,7 @@ Also you might be interested in other related, but different lists:
 
 ### Main listing
 
-The listing below meets all the requirements aforementioned.
+The list below meets all of the above requirements.
 
 | tag  | library                                                              | license          | &nbsp;&nbsp;&nbsp;API&nbsp;&nbsp;&nbsp; |files| description
 | ---- | -------------------------------------------------------------------- |:----------------:|:---:|:---:| -----------
@@ -179,7 +179,7 @@ video  | [jo_mpeg](https://www.jonolick.com/home/mpeg-video-writer) / [(converte
 
 ### Secondary listing
 
-The listing below meets some but not all the requirements aforementioned.
+The following list meets some, but not all, of the requirements mentioned above.
 
 | tag  | library                                                              | license          | &nbsp;&nbsp;&nbsp;API&nbsp;&nbsp;&nbsp; |files| description
 | ---- | -------------------------------------------------------------------- |:----------------:|:---:|:---:| -----------
@@ -357,7 +357,6 @@ net    | [civetweb](https://github.com/civetweb/civetweb)                     | 
 net    | [cpp-httplib](https://github.com/yhirose/cpp-httplib)                | MIT              |**C**|**1**| Cross-platform HTTP server/client
 net    | [enet](https://github.com/zpl-c/enet)                                | MIT              |**C**|**1**| Reliable UDP networking library
 net    | [EWS](https://github.com/hellerf/EmbeddableWebServer)                | BSD              |**C**|**1**| HTTP server
-net    | [furi](https://github.com/iboB/furi)                                 | MIT              |**C**|**1**| URL & URI parsing
 net    | [happyhttp](https://github.com/mingodad/HappyHTTP)                   | zlib             | C++ |  2  | HTTP client requests
 net    | [libcluon](https://github.com/chrberger/libcluon)                    | MPL-2.0          | C++ |**1**| Cross-platform socket wrapper and data marshalling with native implementations for [Protobuf](https://developers.google.com/protocol-buffers/), [LCM](https://lcm-proj.github.io/type_specification.html)/[ZCM](https://zerocm.github.io/zcm/), JSON, and [MsgPack](https://msgpack.org) serialization/deserialization
 net    | [librg](https://github.com/zpl-c/librg)                              | BSD3             |**C**|**1**| World/entity synchronization multiplayer library
@@ -381,6 +380,7 @@ pack   | [pithy](https://github.com/johnezang/pithy)                          | 
 pack   | [rle](https://gitlab.com/bztsrc/rle)                                 | MIT              |**C**|**1**| Run-length en/decoder
 parse  | [cmp](https://github.com/camgunz/cmp)                                | MIT              |**C**|  2  | MessagePack parser and serializer
 parse  | [cpp-peglib](https://github.com/yhirose/cpp-peglib)                  | MIT              |**C**|**1**| PEG (Parsing Expression Grammars) library
+parse  | [furi](https://github.com/iboB/furi)                                 | MIT              |**C**|**1**| URL & URI parsing
 parse  | [html-parse.c](https://git.savannah.gnu.org/cgit/wget.git/tree/src/html-parse.c)  | GPL |**C**|  2  | HTML parser (wget)
 parse  | [SLRE](https://github.com/cesanta/slre)                              | GPLv2            |**C**|**1**| Regular expression matcher
 parse  | [tok](https://gitlab.com/bztsrc/tok)                                 | MIT              |**C**|**1**| Configurable tokenizer
@@ -458,13 +458,13 @@ yaml   | [mini-yaml](https://github.com/jimmiebergmann/mini-yaml)             | 
 
 ### Tertiary listing
 
-The listing below does not meet the requirements aforementioned because of major discrepancies or for some another reason. Some of you may still relevant the links below.
+This list differs significantly from the requirements mentioned above. However, some of you may find the links below relevant.
 
 | tag  | library                                                              | license          | &nbsp;&nbsp;&nbsp;API&nbsp;&nbsp;&nbsp; |files| description
 | ---- | -------------------------------------------------------------------- |:----------------:|:---:|:---:| -----------
 db     | [sqlite](https://www.sqlite.org/amalgamation.html)            | **PD**                  |**C**|  2  | Self-contained, SQL database engine.
 engine | [FWK1](https://github.com/fwk3d/v1/blob/master/2024/2024.10/engine/joint.h) | **PD**    |**C**|**1**| 3D game framework in C
-file   | [DTW](https://github.com/OUIsolutions/DoTheWorld)             | MIT              |C/C++|**1**| File and folder utilities
+file   | [DTW](https://github.com/OUIsolutions/DoTheWorld)             | MIT                     |**C**|**1**| File and folder utilities
 pack   | [zstd](https://github.com/facebook/zstd/tree/dev/build/single_file_libs) | BSD3         |**C**|  ?  | Fast real-time compression algorithm
 sys    | [cpuid](https://github.com/anzz1/cpuid)                              | ??               |**C**|**1**| Cross-platform cpuid intrinsic
 sys    | [iathook](https://github.com/anzz1/iathook)                          | ??               |**C**|**1**| Import address table hooking library (x86/x64,w32)
