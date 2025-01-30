@@ -356,6 +356,7 @@ net    | [civetweb](https://github.com/civetweb/civetweb)                     | 
 net    | [cpp-httplib](https://github.com/yhirose/cpp-httplib)                | MIT              |**C**|**1**| Cross-platform HTTP server/client
 net    | [enet](https://github.com/zpl-c/enet)                                | MIT              |**C**|**1**| Reliable UDP networking library
 net    | [EWS](https://github.com/hellerf/EmbeddableWebServer)                | BSD              |**C**|**1**| HTTP server
+net    | [furi](https://github.com/iboB/furi)                                 | MIT              |**C**|**1**| URL & URI parsing
 net    | [happyhttp](https://github.com/mingodad/HappyHTTP)                   | zlib             | C++ |  2  | HTTP client requests
 net    | [libcluon](https://github.com/chrberger/libcluon)                    | MPL-2.0          | C++ |**1**| Cross-platform socket wrapper and data marshalling with native implementations for [Protobuf](https://developers.google.com/protocol-buffers/), [LCM](https://lcm-proj.github.io/type_specification.html)/[ZCM](https://zerocm.github.io/zcm/), JSON, and [MsgPack](https://msgpack.org) serialization/deserialization
 net    | [librg](https://github.com/zpl-c/librg)                              | BSD3             |**C**|**1**| World/entity synchronization multiplayer library
