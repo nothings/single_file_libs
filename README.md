@@ -462,13 +462,13 @@ This list differs significantly from the requirements mentioned above. However, 
 
 | tag  | library                                                              | license          | &nbsp;&nbsp;&nbsp;API&nbsp;&nbsp;&nbsp; |files| description
 | ---- | -------------------------------------------------------------------- |:----------------:|:---:|:---:| -----------
-db     | [sqlite](https://www.sqlite.org/amalgamation.html)            | **PD**                  |**C**|  2  | Self-contained, SQL database engine.
+db     | [sqlite](https://www.sqlite.org/amalgamation.html)                   | **PD**           |**C**|  2  | Self-contained, SQL database engine.
 engine | [FWK1](https://github.com/fwk3d/v1/blob/master/2024/2024.10/engine/joint.h) | **PD**    |**C**|**1**| 3D game framework in C
-file   | [DTW](https://github.com/OUIsolutions/DoTheWorld)             | MIT                     |**C**|**1**| File and folder utilities
+file   | [DTW](https://github.com/OUIsolutions/DoTheWorld)                    | MIT              |**C**|**1**| File and folder utilities
+net    | [CWebStudio](https://github.com/OUIsolutions/CWebStudio)             | MIT              |**C**|**1**| C WebServer with embedded JSON/HTML utilities
 pack   | [zstd](https://github.com/facebook/zstd/tree/dev/build/single_file_libs) | BSD3         |**C**|  ?  | Fast real-time compression algorithm
 sys    | [cpuid](https://github.com/anzz1/cpuid)                              | ??               |**C**|**1**| Cross-platform cpuid intrinsic
 sys    | [iathook](https://github.com/anzz1/iathook)                          | ??               |**C**|**1**| Import address table hooking library (x86/x64,w32)
-net   | [CWebStudio](https://github.com/OUIsolutions/CWebStudio)             | MIT                     |**C**|**1**| A Complete Out of the Box C WebServer
 
 <!-- todo
 
