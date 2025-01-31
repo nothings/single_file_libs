@@ -468,6 +468,7 @@ file   | [DTW](https://github.com/OUIsolutions/DoTheWorld)             | MIT    
 pack   | [zstd](https://github.com/facebook/zstd/tree/dev/build/single_file_libs) | BSD3         |**C**|  ?  | Fast real-time compression algorithm
 sys    | [cpuid](https://github.com/anzz1/cpuid)                              | ??               |**C**|**1**| Cross-platform cpuid intrinsic
 sys    | [iathook](https://github.com/anzz1/iathook)                          | ??               |**C**|**1**| Import address table hooking library (x86/x64,w32)
+net   | [CWebStudio](https://github.com/OUIsolutions/CWebStudio)             | MIT                     |**C**|**1**| A Complete Out of the Box C WebServer
 
 <!-- todo
 
