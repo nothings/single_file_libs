@@ -315,7 +315,7 @@ Single-header C files with clause-less licenses are highlighted.
 *misc*    |[QR-Code-generator](https://github.com/nayuki/QR-Code-generator)                                                      (2   C, MIT)           |QR Code generator
 *misc*    |[Qsort](https://github.com/svpv/qsort)                                                                                (1   C, MIT)           |Qsort algorithm as a C macro
 *misc*    |[Scogem.c](https://github.com/zzo38/scorpion/blob/trunk/scogem.c)                                                     (2   C, PD)            |URL parser
-*misc*    |[Sili-toolchain](https://github.com/EimaMei/sili-toolchain)                                                         **(1   C, PD)**          |**C toolchain for modern C programming, strings, arrays, files, threading, ect**
+*misc*    |[Sili](https://github.com/EimaMei/sili)                                                                             **(1   C, PD)**          |**C toolchain for modern C programming, strings, arrays, files, threading, ect**
 *misc*    |[Smallxrm.c](https://github.com/zzo38/freeheromesh/blob/trunk/smallxrm.c)                                             (2   C, PD)            |Implementation of X resource manager
 *misc*    |[Stb_include](https://github.com/nothings/stb/blob/master/stb_include.h)                                            **(1   C, PD)**          |**Implement recursive #include support, particularly for GLSL**
 *misc*    |[Stmr](https://github.com/wooorm/stmr.c)                                                                              (2   C, MIT)           |Extract English word stems
