@@ -29,7 +29,7 @@ Also you might be interested in other related, but different lists:
 - [clib](https://github.com/clibs/clib/wiki/Packages): list of (mostly) small single C functions (licenses not listed)
 - [CCAN](https://ccodearchive.net/list.html): package of lots of shareable C functions (mixed licenses)
 - And some more:
-[**andrewwillmott**](https://github.com/andrewwillmott?tab=repositories&q=&type=source&language=c&sort=),
+[**andrewwillmott**](https://github.com/andrewwillmott?tab=repositories&q=&type=source&language=&sort=),
 [b-library (C,C++)](https://github.com/blat-blatnik/B-Library),
 [blastbay](https://github.com/blastbay?tab=repositories&q=&type=source&language=c&sort=),
 [chobo-shl (C++)](https://github.com/Chobolabs/chobo-shl),
@@ -442,7 +442,7 @@ Single-header C files with clause-less licenses are highlighted.
 *vector*  |[Hypatia](https://github.com/dagostinelli/hypatia)                                                                    (1   C, MIT)           |Vector/matrix/quaternion math
 *vector*  |[Linalg.h](https://github.com/sgorsten/linalg)                                                                        (1 C++, PD)            |Vector/matrix/quaternion math
 *vector*  |[Linalg](https://github.com/ilyak/linalg)                                                                             (1   C, ISC)           |Vector/matrix/quaternion math
-*video*   |[Jo_mpeg](https://blog.frost.kiwi/jo-mpeg-in-c) [original](https://www.jonolick.com/home/mpeg-video-writer)         **(1   C, PD)**          |**MPEG file writer**
+*video*   |[Jo_mpeg](https://blog.frost.kiwi/jo-mpeg-in-c), [original](https://www.jonolick.com/home/mpeg-video-writer)        **(1   C, PD)**          |**MPEG file writer**
 *video*   |[Pl_mpeg](https://github.com/phoboslab/pl_mpeg)                                                                       (1   C, MIT)           |MPEG1 video and audio decoder
 *xml*     |[Pugixml](https://pugixml.org/)                                                                                       (2 C++, MIT)           |Light-weight C++ XML processing library
 *xml*     |[Tinyxml2](https://github.com/leethomason/tinyxml2)                                                                   (2 C++, ZLIB)          |Simple, small, efficient, C++ XML parser
@@ -456,7 +456,7 @@ Entries in this appendix either do not offer a single-header file directly, or t
 |tag      | library | description
 |:-------:|:---------|:-----------------
 *db*      |[Sqlite](https://www.sqlite.org/amalgamation.html)                           (2   C, PD)     |Self-contained, SQL database engine.
-*engine*  |[FWK1](https://github.com/fwk3d/v1/blob/master/2024/2024.10/engine/joint.h)**(1   C, PD)**   |**3D game framework in C**
+*engine*  |[FWK1](https://github.com/fwk3d/v1)                                        **(1   C, PD)**   |**3D game framework in C**
 *file*    |[DTW](https://github.com/OUIsolutions/DoTheWorld)                            (1   C, MIT)    |File and folder utilities
 *net*     |[CWebStudio](https://github.com/OUIsolutions/CWebStudio)                     (1   C, MIT)    |WebServer with embedded JSON/HTML utilities
 *pack*    |[Zstd](https://github.com/facebook/zstd/tree/dev/build/single_file_libs)     (?   C, BSD3)   |Fast real-time compression algorithm
