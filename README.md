@@ -1,5 +1,10 @@
-# C/C++ open-source libraries with minimal dependencies
-
+<p align="center">
+<a href="https://discord.gg/2fZVEym"><img alt="Discord" src="https://img.shields.io/discord/354670964400848898?color=5865F2&label=Chat&logo=discord&logoColor=white"/></a><br/>
+<h1 align="center">
+C/C++ open-source libraries with minimal dependencies
+</h1>
+</p>
+  
 Generally, the following is a list of small, easy-to-integrate, portable libraries
 which are usable from C and/or C++, and should be able to be compiled on both
 32-bit and 64-bit platforms. There is preference for libraries that are C, public domain and single-file.
