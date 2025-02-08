@@ -82,6 +82,7 @@ Also you might be interested in other related, but different lists:
 [tinybits (C,C++)](https://github.com/r-lyeh/tinybits),
 [**tm**](https://github.com/to-miz/tm),
 [yocto-gl (C++)](https://github.com/xelatihy/yocto-gl),
+[zero](https://github.com/christophercrouzet/zero),
 [zeroTolerance](https://github.com/jharler/ZeroTolerance),
 [zheaders](https://github.com/Zguy/ZHeaders),
 [**zpl**](https://github.com/zpl-c/zpl),
